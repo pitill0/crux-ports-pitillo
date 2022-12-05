@@ -1,0 +1,18 @@
+# Description: Light media scanner
+# URL: http://git.profusion.mobi/cgit.cgi/lightmediascanner.git
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: flac libvorbis sqlite3
+
+name=lightmediascanner
+version=0.4.5
+release=1
+source=(http://git.profusion.mobi/cgit.cgi/$name.git/snapshot/release_$version.tar.bz2)
+
+build()
+{
+    cd release_$version 
+    ./autogen.sh --prefix=/usr \
+                 --disable-nls
+    make
+    make DESTDIR=$PKG install
+}

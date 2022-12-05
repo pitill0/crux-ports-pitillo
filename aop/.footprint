@@ -1,0 +1,20 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/aop
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/aop/
+-rw-r--r--	root/root	usr/share/aop/aop-level-01.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-02.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-03.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-04.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-05.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-06.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-07.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-08.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-09.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-10.txt
+-rw-r--r--	root/root	usr/share/aop/aop-level-11.txt
+drwxr-xr-x	root/root	var/
+drwxr-xr-x	root/root	var/spool/
+drwxrwxrwx	root/root	var/spool/aop/
+-rw-rw-rw-	root/root	var/spool/aop/score (EMPTY)

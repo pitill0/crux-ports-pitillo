@@ -1,0 +1,23 @@
+# Description: Nikto is an Open Source (GPL) web server scanner
+# URL: http://www.cirt.net/nikto/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+# Nice to have: openssl, Perl module NET::SSLeay
+
+name=nikto
+version=2.1.5
+release=1
+source=(http://www.cirt.net/nikto/$name-$version.tar.bz2)
+
+build() {
+  cd $name-$version
+  mkdir -p $PKG/usr/{bin,share/$name/}
+  echo "PLUGINDIR=/usr/share/$name/plugins/" >> nikto.conf
+  sed -i 's|"/etc/nikto.conf";|"/usr/share/nikto/nikto.conf";|g' $name.pl
+  sed -i 's|NMAP=/usr/local/bin/nmap|NMAP=/usr/bin/nmap|g' nikto.conf
+  sed -i 's|# EXECDIR=/usr/local/nikto|EXECDIR=/usr/share/nikto|g' nikto.conf
+  install -m 744 nikto.conf $PKG/usr/share/$name/
+  install -m 744 $name.pl $PKG/usr/share/$name/
+  cp -R plugins templates $PKG/usr/share/$name/
+  (cd $PKG/usr/bin; ln -s ../share/$name/$name.pl $name)
+}

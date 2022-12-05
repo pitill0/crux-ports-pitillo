@@ -1,0 +1,17 @@
+# Description: Siege is an http load testing and benchmarking utility.
+# URL: http://www.joedog.org/siege-home/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=siege
+version=3.0.6
+release=1
+source=(http://www.joedog.org/pub/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls
+  make
+  make DESTDIR=$PKG install
+}

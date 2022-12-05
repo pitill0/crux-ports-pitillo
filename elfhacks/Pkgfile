@@ -1,0 +1,16 @@
+# Description: brief elfhacks application interface 
+# URL: http://nullkey.ath.cx/elfhacks
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: cmake
+
+name=elfhacks
+version=0.4.1
+release=1
+source=(http://pr.willowgarage.com/downloads/$name-$version.tar.gz)
+		
+build()
+{
+  cd $name
+  cmake -DCMAKE_INSTALL_PREFIX:PATH=$PKG/usr
+  make install DSTDIR=$PKG/usr
+}

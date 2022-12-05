@@ -1,0 +1,18 @@
+# Description: Jnettop is a traffic visualiser.
+# URL: http://jnettop.kubs.info/wiki/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: glib libpcap
+
+name=jnettop
+version=0.13.0
+release=3
+source=(http://jnettop.kubs.info/dist/$name-$version.tar.gz)
+
+build () {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --without-syslog \
+              --disable-jnet
+  make
+  make DESTDIR=$PKG install
+}

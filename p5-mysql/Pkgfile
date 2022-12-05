@@ -1,0 +1,20 @@
+# Description: Perl Database Interface to the MySQL database 
+# URL: http://search.cpan.org/dist/DBD-mysql/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: perl mysql p5-dbi
+
+name=p5-mysql
+version=4.020
+release=1
+source=(http://search.cpan.org/CPAN/authors/id/C/CA/CAPTTOFU/DBD-mysql-$version.tar.gz)
+
+build() {
+  cd DBD-mysql-$version 
+  perl Makefile.PL
+  make OPTIMIZE="$CFLAGS"
+  make DESTDIR=$PKG install
+  find $PKG -name .packlist -o \
+    -name perllocal.pod -o \
+    -name README -o \
+    -name '*.bs' | xargs rm
+}

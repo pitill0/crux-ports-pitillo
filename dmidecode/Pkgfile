@@ -1,0 +1,17 @@
+# Description: Dmidecode reports information about your system's hardware.
+# URL: http://www.nongnu.org/dmidecode/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=dmidecode
+version=2.12
+release=1
+source=(http://download.savannah.gnu.org/releases/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  sed -e 's|/usr/local|/usr|' -e 's|/share/man|/man|' -i Makefile
+  make
+  make DESTDIR=$PKG install
+  rm -rf $PKG/usr/share
+}

@@ -1,0 +1,18 @@
+# Description: UPnP AV client
+# URL: http://djmount.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: fuse
+
+name=djmount
+version=0.71
+release=1
+source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.tar.gz)
+
+build() {
+  cd ${name}-$version
+  ./configure --prefix=/usr \
+              --disable-nls \
+              --mandir=/usr/man
+  make
+  make DESTDIR=$PKG install
+}

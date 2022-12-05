@@ -1,0 +1,18 @@
+# Description: Real-time graphical programming environment for audio, video, and graphical processing
+# URL: http://puredata.info/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: alsa-lib 
+
+name=pd
+version=0.45.4
+release=1
+source=(http://downloads.sourceforge.net/project/pure-data/pure-data/$version/$name-0.45-4.src.tar.gz)
+
+build() {
+  cd $name-0.45-4
+  ./autogen.sh
+  ./configure --prefix=/usr \
+              --disable-nls
+  make
+  make prefix=$PKG/usr install
+}

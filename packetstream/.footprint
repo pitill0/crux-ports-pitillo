@@ -1,0 +1,7 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/include/
+-rw-r--r--	root/root	usr/include/packetstream.h
+drwxr-xr-x	root/root	usr/lib/
+lrwxrwxrwx	root/root	usr/lib/libpacketstream.so -> libpacketstream.so.0
+lrwxrwxrwx	root/root	usr/lib/libpacketstream.so.0 -> libpacketstream.so.0.1.4
+-rwxr-xr-x	root/root	usr/lib/libpacketstream.so.0.1.4

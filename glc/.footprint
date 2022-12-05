@@ -1,0 +1,53 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/glc-capture
+-rwxr-xr-x	root/root	usr/bin/glc-play
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/glc/
+drwxr-xr-x	root/root	usr/include/glc/capture/
+-rw-r--r--	root/root	usr/include/glc/capture/alsa_capture.h
+-rw-r--r--	root/root	usr/include/glc/capture/alsa_hook.h
+-rw-r--r--	root/root	usr/include/glc/capture/audio_capture.h
+-rw-r--r--	root/root	usr/include/glc/capture/gl_capture.h
+drwxr-xr-x	root/root	usr/include/glc/common/
+-rw-r--r--	root/root	usr/include/glc/common/core.h
+-rw-r--r--	root/root	usr/include/glc/common/glc.h
+-rw-r--r--	root/root	usr/include/glc/common/log.h
+-rw-r--r--	root/root	usr/include/glc/common/state.h
+-rw-r--r--	root/root	usr/include/glc/common/thread.h
+-rw-r--r--	root/root	usr/include/glc/common/util.h
+-rw-r--r--	root/root	usr/include/glc/common/version.h
+drwxr-xr-x	root/root	usr/include/glc/core/
+-rw-r--r--	root/root	usr/include/glc/core/color.h
+-rw-r--r--	root/root	usr/include/glc/core/copy.h
+-rw-r--r--	root/root	usr/include/glc/core/file.h
+-rw-r--r--	root/root	usr/include/glc/core/info.h
+-rw-r--r--	root/root	usr/include/glc/core/pack.h
+-rw-r--r--	root/root	usr/include/glc/core/rgb.h
+-rw-r--r--	root/root	usr/include/glc/core/scale.h
+-rw-r--r--	root/root	usr/include/glc/core/tracker.h
+-rw-r--r--	root/root	usr/include/glc/core/ycbcr.h
+drwxr-xr-x	root/root	usr/include/glc/export/
+-rw-r--r--	root/root	usr/include/glc/export/img.h
+-rw-r--r--	root/root	usr/include/glc/export/wav.h
+-rw-r--r--	root/root	usr/include/glc/export/yuv4mpeg.h
+drwxr-xr-x	root/root	usr/include/glc/play/
+-rw-r--r--	root/root	usr/include/glc/play/alsa_play.h
+-rw-r--r--	root/root	usr/include/glc/play/demux.h
+-rw-r--r--	root/root	usr/include/glc/play/gl_play.h
+drwxr-xr-x	root/root	usr/lib/
+lrwxrwxrwx	root/root	usr/lib/libglc-capture.so -> libglc-capture.so.0
+lrwxrwxrwx	root/root	usr/lib/libglc-capture.so.0 -> libglc-capture.so.0.5.8
+-rwxr-xr-x	root/root	usr/lib/libglc-capture.so.0.5.8
+lrwxrwxrwx	root/root	usr/lib/libglc-core.so -> libglc-core.so.0
+lrwxrwxrwx	root/root	usr/lib/libglc-core.so.0 -> libglc-core.so.0.5.8
+-rwxr-xr-x	root/root	usr/lib/libglc-core.so.0.5.8
+lrwxrwxrwx	root/root	usr/lib/libglc-export.so -> libglc-export.so.0
+lrwxrwxrwx	root/root	usr/lib/libglc-export.so.0 -> libglc-export.so.0.5.8
+-rwxr-xr-x	root/root	usr/lib/libglc-export.so.0.5.8
+lrwxrwxrwx	root/root	usr/lib/libglc-hook.so -> libglc-hook.so.0
+lrwxrwxrwx	root/root	usr/lib/libglc-hook.so.0 -> libglc-hook.so.0.5.8
+-rwxr-xr-x	root/root	usr/lib/libglc-hook.so.0.5.8
+lrwxrwxrwx	root/root	usr/lib/libglc-play.so -> libglc-play.so.0
+lrwxrwxrwx	root/root	usr/lib/libglc-play.so.0 -> libglc-play.so.0.5.8
+-rwxr-xr-x	root/root	usr/lib/libglc-play.so.0.5.8

@@ -1,0 +1,17 @@
+# Description: erver software with the aim of being fully compliant with DLNA/UPnP-AV
+# URL: http://sourceforge.net/projects/minidlna/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: ffmpeg libexif 
+
+name=minidlna
+version=1.1.0
+release=1
+source=(http://dl.sourceforge.net/projects/$name/files/$name/$version/${name}-${version}.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls
+  make
+  make DESTDIR=$PKG install
+}

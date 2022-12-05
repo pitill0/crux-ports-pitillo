@@ -1,0 +1,18 @@
+# Description: Quilt started as a series of patch scripts 
+# URL: http://quilt.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=quilt
+version=0.61
+release=1
+source=(http://mirrors.fe.up.pt/pub/nongnu/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls
+  make
+  make BUILD_ROOT=$PKG install
+  rm -r $PKG/usr/share/doc
+}

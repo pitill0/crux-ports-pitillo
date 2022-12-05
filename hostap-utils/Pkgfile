@@ -1,0 +1,23 @@
+# Description: hostap-utils
+# URL: http://hostap.epitest.fi/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=hostap-utils
+version=0.4.7
+release=1
+source=(http://hostap.epitest.fi/releases/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  make
+  install -D -m 0755 hostap_fw_load $PKG/usr/bin/hostap_fw_load
+  install -D -m 0755 prism2_param $PKG/usr/bin/prism2_param
+  install -D -m 0755 split_combined_hex $PKG/usr/bin/split_combined_hex 
+  install -D -m 0755 prism2_srec $PKG/usr/bin/prism2_srec
+  install -D -m 0755 hostap_rid $PKG/usr/bin/hostap_rid
+  install -D -m 0755 hostap_crypt_conf $PKG/usr/bin/hostap_crypt_conf
+  install -D -m 0755 hostap_diag $PKG/usr/bin/hostap_diag
+  install -D -m 0755 hostap_fw_load $PKG/usr/bin/hostap_fw_load
+  install -D -m 0755 hostap_io_debug $PKG/usr/bin/hostap_io_debug
+}

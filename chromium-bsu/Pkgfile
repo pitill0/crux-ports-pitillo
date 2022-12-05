@@ -1,0 +1,19 @@
+# Description: Chromium B.S.U. is a fast paced, arcade-style, top-scrolling shooter. 
+# URL: http://sourceforge.net/projects/chromium-bsu/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: ftgl glpng
+
+name=chromium-bsu
+version=0.9.15.1
+release=1
+source=(http://downloads.sourceforge.net/project/$name/Chromium%20B.S.U.%20source%20code/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls \
+              --mandir=/usr/man
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share/doc
+}

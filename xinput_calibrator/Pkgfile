@@ -1,0 +1,17 @@
+# Description: generic touchscreen calibration program for X.Org
+# URL: http://www.freedesktop.org/wiki/Software/xinput_calibrator
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: xorg-libxi xorg-libxrandr
+
+name=xinput_calibrator
+version=0.7.5
+release=1
+source=(http://cloud.github.com/downloads/tias/$name/${name}-$version.tar.gz)
+
+build() {
+  cd ${name}-$version
+  ./configure --prefix=/usr \
+              --mandir=/usr/man
+  make
+  make DESTDIR=$PKG install
+}

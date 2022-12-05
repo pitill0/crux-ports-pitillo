@@ -1,0 +1,24 @@
+# Description: Nice is an implementation of the ICE standard. 
+# URL: http://nice.freedesktop.org/wiki/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: glib git gtk-doc 
+
+name=libnice-git
+version=git
+release=1
+source=()
+
+build() {
+  [ ! -d $PKGMK_SOURCE_DIR/libnice ] && (git clone git://git.collabora.co.uk/git/libnice.git $PKGMK_SOURCE_DIR/libnice) || 
+      cd $PKGMK_SOURCE_DIR/libnice && git fetch
+  cp -r $PKGMK_SOURCE_DIR/libnice $SRC
+  cd $SRC/libnice
+  ./autogen.sh --prefix=/usr	
+  sed -i 's|CFLAGS="$CFLAGS -Werror"|CFLAGS="$CFLAGS"|g' configure
+  sed -i 's|ERROR_CFLAGS="$ERROR_CFLAGS -Werror"|ERROR_CFLAGS="$ERROR_CFLAGS"|g' configure
+  sed -i 's|CFLAGS="$CFLAGS -Werror"|CFLAGS="$CFLAGS"|g' gst/Makefile
+  sed -i 's|ERROR_CFLAGS = -Wall -Werror|ERROR_CFLAGS = -Wall|g' gst/Makefile
+  make
+  make prefix=$PKG/usr install
+  sed -i "s|prefix=/usr/local|prefix=/usr|g" $PKG/usr/lib/pkgconfig/nice.pc
+}

@@ -1,0 +1,10 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-x---	root/root	usr/bin/voipctl
+-rwxr-x---	root/root	usr/bin/voipong
+drwxr-xr-x	root/root	usr/etc/
+drwxr-xr-x	root/root	usr/etc/voipong/
+drwxr-xr-x	root/root	usr/etc/voipong/modules/
+-r-x------	root/root	usr/etc/voipong/modules/modvocoder_pcma.so
+-r-x------	root/root	usr/etc/voipong/modules/modvocoder_pcmu.so
+-rw-------	root/root	usr/etc/voipong/voipong.conf

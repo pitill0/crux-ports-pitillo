@@ -1,0 +1,16 @@
+# Description: gtk documentation system
+# URL: http://www.gtk.org/gtk-doc/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libxslt docbook-xml docbook-xsl 
+
+name=gtk-doc
+version=1.10
+release=1
+source=(http://ftp.gnome.org/pub/GNOME/sources/$name/$version/$name-$version.tar.bz2)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr
+  make
+  make DESTDIR=$PKG install
+}

@@ -1,0 +1,17 @@
+# Description: XCDRoast is a CD authoring program with a GUI.
+# URL: http://www.xcdroast.org/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: gdk-pixbuf
+
+name=xcdroast
+version=0.98
+release=1
+source=(http://dl.sourceforge.net/sourceforge/xcdroast/$name-$version\alpha16.tar.gz)
+
+build() {
+  cd $name-$version\alpha16
+  ./configure --prefix=/usr --disable-nls
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/etc
+}

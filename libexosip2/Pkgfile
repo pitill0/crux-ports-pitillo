@@ -1,0 +1,17 @@
+# Description: eXosip2 - the eXtended osip Library
+# URL: http://savannah.gnu.org/projects/exosip
+# Packager: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libosip2 
+
+name=libexosip2
+version=3.3.0
+release=1
+
+source=(http://download.savannah.gnu.org/releases/exosip/libeXosip2-$version.tar.gz)
+
+build() {
+  cd libeXosip2-$version
+  ./configure --prefix=/usr
+  make 
+  make DESTDIR=/$PKG install
+}

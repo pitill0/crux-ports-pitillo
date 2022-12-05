@@ -1,0 +1,20 @@
+# Description: Initiate a persistent database connection 
+# URL: http://search.cpan.org/dist/Apache-DBI/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: perl
+
+name=p5-apachedbi
+version=1.08
+release=1
+source=(http://search.cpan.org/CPAN/authors/id/A/AB/ABH/Apache-DBI-$version.tar.gz)
+
+build() {
+  cd Apache-DBI-$version 
+  perl Makefile.PL
+  make OPTIMIZE="$CFLAGS"
+  make DESTDIR=$PKG install
+  find $PKG -name .packlist -o \
+    -name perllocal.pod -o \
+    -name README -o \
+    -name '*.bs' | xargs rm
+}

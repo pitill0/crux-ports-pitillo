@@ -1,0 +1,20 @@
+# Description: XFire plugin for GAIM
+# URL: http://gfire.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: pidgin
+
+name=pidgin-xfire
+version=0.9.4
+release=1
+
+source=(http://sourceforge.net/projects/gfire/files/gfire/gfire-$version/pidgin-gfire-$version.tar.bz2 \
+        $name-$version-gettex.patch)
+
+build() {
+  cd pidgin-gfire-${version}
+  patch -p1 -i $SRC/$name-$version-gettex.patch
+  sed -i 's|<glib/.*\.h>|<glib.h>|' src/gf_* 
+  ./configure --prefix=/usr --disable-nls 
+  make
+  make DESTDIR=$PKG install
+}

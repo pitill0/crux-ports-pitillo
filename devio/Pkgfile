@@ -1,0 +1,17 @@
+# Description: Read and write block devices 
+# URL: http://devio.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=devio
+version=1.2
+release=1
+source=(http://downloads.sourceforge.net/project/$name/$name/$name-$version/$name-$version.tar.gz)
+
+build()
+{
+  cd $name-$version 
+  ./configure --prefix=/usr
+  make
+  make DESTDIR=$PKG install
+}

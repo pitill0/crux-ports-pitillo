@@ -1,0 +1,19 @@
+# Description: True combat demo to avi converter.
+# URL: http://www.theramenbowl.com/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: true-combat-elite mplayer
+
+name=tcedemo2avi
+version=1.0
+release=1
+source=($name.sh
+	$name.conf
+	COPYING)
+
+build() {
+  mkdir -p $PKG/usr/etc $PKG/usr/share/tcedemo2avi/ $PKG/usr/sbin
+  install -m 744 $name.conf $PKG/usr/etc
+  install -m 755 $name.sh $PKG/usr/sbin
+  install -m 644 COPYING $PKG/usr/share/tcedemo2avi/
+  chown -R root:root $PKG
+}

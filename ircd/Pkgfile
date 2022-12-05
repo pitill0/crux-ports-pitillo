@@ -1,0 +1,21 @@
+# Description: IRC server 
+# URL: http://www.nic.funet.fi/~irc/server/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=ircd
+version=10.3p1
+release=1
+source=(ftp://ftp.funet.fi/pub/unix/irc/server/irc2.${version}.tgz \
+	ircd)
+
+build() {
+  cd irc2.${version}
+  ./configure --prefix=/usr \
+              --disable-nls
+  cd i686-pc-linux-gnu
+  sed -i 's|prefix=/usr/local|/usr|g' Makefile
+  make server
+  make prefix=$PKG/usr install
+  install -D -m 755 $SRC/ircd $PKG/etc/rc.d/ircd
+}

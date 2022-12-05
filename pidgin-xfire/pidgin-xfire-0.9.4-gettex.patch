@@ -1,0 +1,26 @@
+diff -pruN pidgin-gfire-0.9.4.orig/src/gf_games.c pidgin-gfire-0.9.4/src/gf_games.c
+--- pidgin-gfire-0.9.4.orig/src/gf_games.c	2013-07-22 21:10:20.791999066 +0200
++++ pidgin-gfire-0.9.4/src/gf_games.c	2013-07-22 21:10:53.654175680 +0200
+@@ -1530,7 +1530,9 @@ void gfire_game_manager_show(PurplePlugi
+ 		return;
+ 	}
+ 
++#ifdef ENABLE_NLS 
+ 	gtk_builder_set_translation_domain(gfire_gtk_builder, GETTEXT_PACKAGE);
++#endif // ENABLE_NLS 
+ 
+ 	gchar *builder_file = g_build_filename(DATADIR, "purple", "gfire", "games.glade", NULL);
+ 	gtk_builder_add_from_file(gfire_gtk_builder, builder_file, NULL);
+diff -pruN pidgin-gfire-0.9.4.orig/src/gf_server_browser.c pidgin-gfire-0.9.4/src/gf_server_browser.c
+--- pidgin-gfire-0.9.4.orig/src/gf_server_browser.c	2013-07-22 21:10:20.788998685 +0200
++++ pidgin-gfire-0.9.4/src/gf_server_browser.c	2013-07-22 21:11:23.802007314 +0200
+@@ -772,7 +772,9 @@ void gfire_server_browser_show(gfire_ser
+ 		return;
+ 	}
+ 
++#ifdef ENABLE_NLS 
+ 	gtk_builder_set_translation_domain(p_browser->builder, GETTEXT_PACKAGE);
++#endif // ENABLE_NLS 
+ 
+ 	gchar *builder_file = g_build_filename(DATADIR, "purple", "gfire", "servers.glade", NULL);
+ 	gtk_builder_add_from_file(p_browser->builder, builder_file, NULL);

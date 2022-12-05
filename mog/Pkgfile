@@ -1,0 +1,17 @@
+# Description: originally a Konami game for the MSX system
+# URL: http://www.braingames.getput.com/mog/default.asp
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: sdl_mixer sdl_image sdl_sound
+
+name=mog
+version=0.63-1548
+release=2
+source=(http://braingames.jorito.net/mog/downloads/$name.src_$version.tgz)
+
+build() {
+  cd $name-0.63.1548
+  install -d $PKG/usr/bin
+  make 
+  sed 's|"cd \"$(BINDIR)\"|"cd \"/usr/share/mog\"|g' -i Makefile
+  make PREFIX=$PKG/usr GAMEDIR=$PKG/usr BINDIR=$PKG/usr/share/$name STARTUP=$PKG/usr/bin/$name install
+}

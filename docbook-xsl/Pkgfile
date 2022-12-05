@@ -1,0 +1,33 @@
+# Description: Docbook XSL Stylesheets
+# URL: http://docbook.sourceforge.net/
+# Packager: Matt Housh, jaeger at morpheus dot net
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: docbook-xml
+
+name=docbook-xsl
+version=1.75.2
+release=1
+source=(http://downloads.sourceforge.net/sourceforge/docbook/$name-$version.tar.bz2)
+
+build() {
+  cd $name-$version
+  mkdir -p $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/{common,params}
+  cp -a common/*.{dtd,ent,xml,xsl} \
+    $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/common/
+  cp -a params/*.xml \
+    $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/params/
+  for i in fo highlighting html roundtrip
+  do
+    mkdir -p $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/$i
+    cp -a $i/*.{xml,xsl} \
+      $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/$i/
+  done
+  for i in eclipse htmlhelp javahelp lib manpages profiling template \
+    website xhtml
+  do
+    mkdir -p $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/$i
+    cp -a $i/*.xsl $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/$i/
+  done
+  # copy VERSION (required)
+  cp VERSION $PKG/usr/share/xml/docbook/xsl-stylesheets-$version/
+}

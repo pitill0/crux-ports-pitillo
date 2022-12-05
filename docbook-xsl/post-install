@@ -1,0 +1,26 @@
+#!/bin/sh
+
+DBXSLVER=1.73.2
+
+if [ ! -e /etc/xml/catalog ]
+then
+	echo "/etc/xml/catalog doesn't exist! Please install docbook-xml and run the post-install script!"
+	exit 1
+fi
+
+xmlcatalog --noout --add "rewriteSystem" \
+	"http://docbook.sourceforge.net/release/xsl/$DBXSLVER" \
+	"file:///usr/share/xml/docbook/xsl-stylesheets-$DBXSLVER" \
+	/etc/xml/catalog
+xmlcatalog --noout --add "rewriteURI" \
+	"http://docbook.sourceforge.net/release/xsl/$DBXSLVER" \
+	"file:///usr/share/xml/docbook/xsl-stylesheets-$DBXSLVER" \
+	/etc/xml/catalog
+xmlcatalog --noout --add "rewriteSystem" \
+	"http://docbook.sourceforge.net/release/xsl/current" \
+	"file:///usr/share/xml/docbook/xsl-stylesheets-$DBXSLVER" \
+	/etc/xml/catalog
+xmlcatalog --noout --add "rewriteURI" \
+	"http://docbook.sourceforge.net/release/xsl/current" \
+	"file:///usr/share/xml/docbook/xsl-stylesheets-$DBXSLVER" \
+	/etc/xml/catalog

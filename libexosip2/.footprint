@@ -1,0 +1,20 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/sip_reg
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/eXosip2/
+-rw-r--r--	root/root	usr/include/eXosip2/eX_call.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_message.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_options.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_publish.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_refer.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_register.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_setup.h
+-rw-r--r--	root/root	usr/include/eXosip2/eX_subscribe.h
+-rw-r--r--	root/root	usr/include/eXosip2/eXosip.h
+drwxr-xr-x	root/root	usr/lib/
+-rw-r--r--	root/root	usr/lib/libeXosip2.a
+-rwxr-xr-x	root/root	usr/lib/libeXosip2.la
+lrwxrwxrwx	root/root	usr/lib/libeXosip2.so -> libeXosip2.so.4.2.0
+lrwxrwxrwx	root/root	usr/lib/libeXosip2.so.4 -> libeXosip2.so.4.2.0
+-rwxr-xr-x	root/root	usr/lib/libeXosip2.so.4.2.0

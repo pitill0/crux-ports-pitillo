@@ -1,0 +1,17 @@
+# Description: Enhanced CTorrent is a BitTorrent client for unix-like environments
+# URL: http://sourceforge.net/projects/dtorrent/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=ctorrent
+version=3.3.2
+release=1
+source=(http://downloads.sourceforge.net/project/dtorrent/dtorrent/$version/$name-dnh$version.tar.gz)
+
+build() {
+  cd $name-dnh$version
+  ./configure --disable-nls \
+              --prefix=/usr 
+  make
+  make DESTDIR=$PKG install
+}

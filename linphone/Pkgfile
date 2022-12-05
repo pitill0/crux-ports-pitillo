@@ -1,0 +1,24 @@
+# Description: Let you phone to your friends anywhere in the whole world
+# URL: http://www.linphone.org/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: speex intltool ffmpeg libsdl gtk libexosip2 libglade xorg-libxv 
+
+name=linphone
+version=3.6.1
+release=1
+source=(http://download.savannah.gnu.org/releases/$name/stable/sources/$name-$version.tar.gz)
+
+build () {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --enable-gnome_ui=no \
+              --disable-nls \
+              --disable-manual \
+              --disable-strict \
+              --disable-libv4l \
+              --disable-libv4l2 \
+              --mandir=/usr/man 
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share/gnome/
+}

@@ -1,0 +1,16 @@
+# Description: brief interface of the 'packetstream' thread-safe ring buffer 
+# URL: http://nullkey.ath.cx/packetstream
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: elfhacks
+
+name=packetstream
+version=0.1.4
+release=1
+source=(http://pr.willowgarage.com/downloads/$name-$version.tar.gz)
+
+build()
+{
+  cd $name
+  cmake -DCMAKE_INSTALL_PREFIX:PATH=$PKG/usr
+  make install DSTDIR=$PKG/usr
+}

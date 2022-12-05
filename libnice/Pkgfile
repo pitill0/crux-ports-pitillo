@@ -1,0 +1,17 @@
+# Description: Nice is an implementation of the ICE standard. 
+# URL: http://nice.freedesktop.org/wiki/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: glib 
+
+name=libnice
+version=0.1.4
+release=1
+source=(http://nice.freedesktop.org/releases/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr
+  make
+  make prefix=$PKG/usr install
+  rm -r $PKG/usr/share
+}

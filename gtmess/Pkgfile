@@ -1,0 +1,17 @@
+# Description: console MSN Messenger. 
+# URL: http://gtmess.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=gtmess
+version=0.97
+release=1
+source=(http://downloads.sourceforge.net/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --mandir=/usr/man
+  make
+  make DESTDIR=$PKG install
+}

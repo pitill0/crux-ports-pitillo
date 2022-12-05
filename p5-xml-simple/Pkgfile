@@ -1,0 +1,20 @@
+# Description: XML::Parser
+# URL: http://search.cpan.org/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: perl p5-xml-parser
+
+name=p5-xml-simple
+version=2.18
+release=1
+source=(http://cpan.develooper.com/modules/by-category/11_String_Lang_Text_Proc/XML/XML-Simple-2.18.tar.gz)
+
+build() {
+  cd XML-Simple-2.18
+  perl Makefile.PL
+  make OPTIMIZE="$CFLAGS"
+  make DESTDIR=$PKG install
+  find $PKG -name .packlist -o \
+    -name perllocal.pod -o \
+    -name README -o \
+    -name '*.bs' | xargs rm
+}

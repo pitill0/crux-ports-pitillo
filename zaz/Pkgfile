@@ -1,0 +1,18 @@
+# Description: Zaz puzzle game where the player has to arrange balls in triplets
+# URL: http://sourceforge.net/projects/zaz/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libtheora libsdl ftgl sdl_image
+
+name=zaz
+version=1.0.0
+release=1
+source=(http://downloads.sourceforge.net/project/$name/$name-$version.tar.bz2)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls 
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share/doc
+}

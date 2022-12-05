@@ -1,0 +1,15 @@
+# Description: Debrick utility for WRT54G routers
+# URL: http://downloads.openwrt.org/utils/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=wrt54g-debrick-util
+version=48
+release=1
+source=(http://downloads.openwrt.org/utils/HairyDairyMaid_WRT54G_Debrick_Utility_v48.zip)
+
+build() {
+  cd HairyDairyMaid_WRT54G_Debrick_Utility_v48
+  make
+  install -D -m 755 wrt54g $PKG/usr/bin/wrt54g
+}

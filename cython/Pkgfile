@@ -1,0 +1,14 @@
+# Description: language that lets writing C extensions for the Python language
+# URL: http://www.cython.org/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python
+
+name=cython
+version=0.20
+release=1
+source=(http://www.cython.org/release/Cython-$version.tar.gz)
+
+build() {
+  cd Cython-$version
+  python setup.py install --root $PKG
+}

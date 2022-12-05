@@ -1,0 +1,18 @@
+# Description: VoIPong is a utility which detects all Voice Over IP calls on a pipeline.
+# URL: http://www.enderunix.org/voipong/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libpcap
+
+name=voipong
+version=2.0
+release=2
+source=(http://www.enderunix.org/voipong/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  mkdir -p $PKG/usr/bin	
+  mv Makefile.linux Makefile
+  sed -i "s|/usr/local|$PKG/usr|g" Makefile
+  make
+  make DESTDIR=$PKG install
+}

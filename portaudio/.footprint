@@ -1,0 +1,12 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/include/
+-rw-r--r--	root/root	usr/include/pa_linux_alsa.h
+-rw-r--r--	root/root	usr/include/portaudio.h
+drwxr-xr-x	root/root	usr/lib/
+-rw-r--r--	root/root	usr/lib/libportaudio.a
+-rwxr-xr-x	root/root	usr/lib/libportaudio.la
+lrwxrwxrwx	root/root	usr/lib/libportaudio.so -> libportaudio.so.2.0.0
+lrwxrwxrwx	root/root	usr/lib/libportaudio.so.2 -> libportaudio.so.2.0.0
+-rwxr-xr-x	root/root	usr/lib/libportaudio.so.2.0.0
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/portaudio-2.0.pc

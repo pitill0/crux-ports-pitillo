@@ -1,0 +1,26 @@
+# Description: GXMame is a frontend for XMame using the GTK library.
+# URL: http://gxmame.sourceforge.net/	
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: gtk
+
+name=gxmame
+version=0.35beta2
+release=2
+source=(http://downloads.sourceforge.net/sourceforge/$name/$name-$version.tar.gz)
+
+build() {
+    cd $name-$version
+
+    # We need to avoid includes <glib/*.h>
+    find . -type f -print0 | xargs -0 sed -i \
+        -e "s|#include <glib/.*|#include <glib.h>|g"
+
+    ./configure --prefix=/usr \
+                --disable-nls \
+                --enable-joystick \
+                --mandir=$PKG/usr/man
+
+    make
+    make prefix=$PKG/usr install
+    rm -r $PKG/usr/share/doc
+}

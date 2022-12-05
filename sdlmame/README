@@ -1,0 +1,3 @@
+PRE-INSTALL
+- You need to download the source from the website http://rbelmont.mameworld.info and put it at port´s path.
+wget --user-agent=Firefox "http://mamedev.org/downloader.php?file=releases/mame0144s.zip"

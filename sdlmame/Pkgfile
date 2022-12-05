@@ -1,0 +1,16 @@
+# Description: Mame emulator
+# URL: http://rbelmont.mameworld.info/		
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: sdl_ttf gconf
+
+name=sdlmame
+version=0144s
+release=1
+source="mame0144s.zip"
+
+build() {
+  unzip mame.zip
+#  cd $name$version
+  make
+  install -D -m 655 mame $PKG/usr/bin/mame
+}

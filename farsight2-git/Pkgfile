@@ -1,0 +1,22 @@
+# Description: farsight extension
+# URL: http://farsight.freedesktop.org/wiki/FrontPage
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: git gtk-doc gstreamer gst-plugins-base gst-python 
+
+name=farsight2-git
+version=git
+release=1
+source=()
+
+build() {
+  [ ! -d $PKGMK_SOURCE_DIR/farsight2 ] && git clone git://git.collabora.co.uk/git/farsight2.git $PKGMK_SOURCE_DIR/farsight2	\
+    || cd $PKGMK_SOURCE_DIR/farsight2 && git fetch
+
+  cp -r $PKGMK_SOURCE_DIR/farsight2 $SRC
+
+  cd $SRC/farsight2
+  ./autogen.sh --prefix=/usr \
+               --disable-gtk-doc
+  make
+  make DESTDIR=$PKG install
+}

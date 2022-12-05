@@ -1,0 +1,10 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/hostap_crypt_conf
+-rwxr-xr-x	root/root	usr/bin/hostap_diag
+-rwxr-xr-x	root/root	usr/bin/hostap_fw_load
+-rwxr-xr-x	root/root	usr/bin/hostap_io_debug
+-rwxr-xr-x	root/root	usr/bin/hostap_rid
+-rwxr-xr-x	root/root	usr/bin/prism2_param
+-rwxr-xr-x	root/root	usr/bin/prism2_srec
+-rwxr-xr-x	root/root	usr/bin/split_combined_hex

@@ -1,0 +1,20 @@
+# Description: Database independent interface for Perl
+# URL: http://search.cpan.org/~timb/DBI/DBI.pm
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: perl
+
+name=p5-dbi
+version=1.618
+release=1
+source=(http://cpan.cpantesters.org/authors/id/T/TI/TIMB/DBI-$version.tar.gz)
+
+build() {
+  cd DBI-$version 
+  perl Makefile.PL
+  make OPTIMIZE="$CFLAGS"
+  make DESTDIR=$PKG install
+  find $PKG -name .packlist -o \
+    -name perllocal.pod -o \
+    -name README -o \
+    -name '*.bs' | xargs rm
+}

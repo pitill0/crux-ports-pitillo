@@ -1,0 +1,17 @@
+# Description: Aop is a curses based arcade game.
+# URL: http://raffi.at/view/code/aop 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: ncurses
+
+name=aop
+version=0.6
+release=3
+source=(http://raffi.at/code/$name/$name-$version.tar.gz \
+        $name-$version.patch)
+
+build() {
+  cd $name-$version
+  patch -p1 -i $SRC/$name-$version.patch
+  make 
+  make DESTDIR=$PKG install
+}

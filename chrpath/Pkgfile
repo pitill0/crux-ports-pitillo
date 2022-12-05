@@ -1,0 +1,18 @@
+# Description: chrpath allows you to modify the dynamic library load path (rpath) 
+# URL: ftp://ftp.hungry.com/pub/hungry/chrpath/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=chrpath
+version=0.13
+release=1
+source=(http://www.tux.org/pub/X-Windows/ftp.hungry.com/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/doc
+}

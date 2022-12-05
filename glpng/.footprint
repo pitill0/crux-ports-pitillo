@@ -1,0 +1,9 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/include/
+drwxr-xr-x	root/root	usr/include/GL/
+-rw-r--r--	root/root	usr/include/GL/glpng.h
+drwxr-xr-x	root/root	usr/lib/
+-rw-r--r--	root/root	usr/lib/libglpng.a
+lrwxrwxrwx	root/root	usr/lib/libglpng.so -> libglpng.so.1.45
+lrwxrwxrwx	root/root	usr/lib/libglpng.so.1 -> libglpng.so.1.45
+-rw-r--r--	root/root	usr/lib/libglpng.so.1.45

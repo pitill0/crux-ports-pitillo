@@ -1,0 +1,17 @@
+# Description: "falling-blocks" arcade game 
+# URL: http://blockrage.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libsdl
+
+name=blockrage
+version=0.2.3
+release=1
+source=(http://downloads.sourceforge.net/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --mandir=$PKG/usr/man	
+  make
+  make prefix=$PKG/usr install
+}

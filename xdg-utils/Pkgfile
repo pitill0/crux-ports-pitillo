@@ -1,0 +1,18 @@
+# Description: Xdg-utils is a set of command line tools.
+# URL: http://portland.freedesktop.org/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=xdg-utils
+version=1.0.2
+release=1
+source=(http://portland.freedesktop.org/download/$name-$version.tgz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-nls \
+              --mandir=$PKG/usr/man
+  make
+  make prefix=$PKG/usr install
+}

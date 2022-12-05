@@ -1,0 +1,16 @@
+# Description: SIPcrack is a SIP protocol login cracker 
+# URL: http://www.codito.de/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libpcap
+
+name=sipcrack
+version=0.3
+release=1
+source=(http://up.backtrack.cz/data/voip/SIPcrack-${version}pre.tar.gz)
+
+build() {
+  cd SIPcrack-${version}pre
+  make
+  mkdir -p $PKG/usr/sbin
+  install -m 0755 sipcrack sipdump $PKG/usr/sbin
+}

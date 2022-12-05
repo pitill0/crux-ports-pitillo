@@ -1,0 +1,18 @@
+# Description: farsight extension
+# URL: http://farsight.freedesktop.org/wiki/FrontPage
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: gst-plugins-base gst-python libnice 
+
+name=farsight2
+version=0.0.31
+release=1
+source=(http://farsight.freedesktop.org/releases/$name/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --disable-gtk-doc
+  make V=1
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share
+}

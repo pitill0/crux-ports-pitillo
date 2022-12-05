@@ -1,0 +1,16 @@
+# Description: glc is an ALSA and OpenGL capture tool for Linux
+# URL: http://nullkey.ath.cx/projects/glc/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: packetstream mesa3d libsdl libpng
+
+name=glc
+version=0.5.8
+release=1
+source=(https://github.com/nullkey/glc/archive/master.zip)
+
+build()
+{
+  cd $name-master
+  cmake -DCMAKE_INSTALL_PREFIX:PATH=$PKG/usr
+  make install DSTDIR=$PKG/usr
+}

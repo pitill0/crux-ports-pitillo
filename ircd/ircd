@@ -1,0 +1,19 @@
+#!/bin/sh
+#
+# /etc/rc.d/ircd: start/stop irc daemon
+#
+
+case "$1" in
+  start)
+	/usr/sbin/ircd 
+	;;
+  stop)
+	pkill ircd
+	;;
+  *)
+        echo "Usage: $0 [start|stop]"
+        exit 1
+esac
+
+exit 0
+# End of file

@@ -1,0 +1,17 @@
+# Description: Network blcok device client/server 
+# URL: http://nbd.sourceforge.net/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=nbd
+version=3.3
+release=1
+source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.tar.bz2)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --mandir=/usr/man
+  make
+  make DESTDIR=$PKG install
+}

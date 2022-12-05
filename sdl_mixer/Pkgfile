@@ -1,0 +1,18 @@
+# Description: A sample multi-channel audio mixer library.
+# URL: http://www.libsdl.org/projects/SDL_mixer/
+# Packager: Simone Rota, sip at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libvorbis smpeg
+
+name=sdl_mixer
+version=1.2.12
+release=1
+source=(http://www.libsdl.org/projects/SDL_mixer/release/SDL_mixer-$version.tar.gz)
+
+build() {
+  cd SDL_mixer-$version
+#  sed -i -e 's|/usr/local/lib/timidity|/usr/share/timidity|g' timidity/config.h
+  ./configure --prefix=/usr
+  make
+  make DESTDIR=$PKG install
+}

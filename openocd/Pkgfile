@@ -1,0 +1,17 @@
+# Description: on-chip programming and debugging support with JTAG 
+# URL: http://openocd.berlios.de/web/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=openocd
+version=0.7.0
+release=1
+source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.zip)
+
+build() {
+  cd $name-$version
+  ./configure --prefix=/usr \
+              --mandir=/usr/man 
+  make
+  make DESTDIR=$PKG install
+}
