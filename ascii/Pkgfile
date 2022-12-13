@@ -1,12 +1,12 @@
 # Description: Easy conversion table between various bytes representations. 
-# URL: http://www.catb.org/~esr/ascii
+# URL: https://www.catb.org/~esr/ascii
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: 
 
 name=ascii
-version=3.12
+version=3.18
 release=1
-source=(http://www.catb.org/~esr/$name/$name-$version.tar.gz)
+source=(https://www.catb.org/~esr/$name/$name-$version.tar.gz)
 
 build() {
   cd $name-$version

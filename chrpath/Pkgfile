@@ -1,12 +1,13 @@
 # Description: chrpath allows you to modify the dynamic library load path (rpath) 
-# URL: ftp://ftp.hungry.com/pub/hungry/chrpath/ 
+# URL: https://alioth-archive.debian.org/releases/chrpath/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: 
 
 name=chrpath
-version=0.13
+version=0.16
 release=1
-source=(http://www.tux.org/pub/X-Windows/ftp.hungry.com/$name/$name-$version.tar.gz)
+source=(
+https://alioth-archive.debian.org/releases/$name/$name/$version/$name-$version.tar.gz)
 
 build() {
   cd $name-$version
