@@ -1,0 +1,2447 @@
+drwxr-xr-x	root/root	etc/
+drwxr-xr-x	root/root	etc/qmc2/
+-rw-r--r--	root/root	etc/qmc2/qmc2.ini
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+lrwxrwxrwx	root/root	usr/bin/qmc2 -> qmc2-sdlmame
+-rwxr-xr-x	root/root	usr/bin/qmc2-sdlmame
+drwxr-xr-x	root/root	usr/share/
+drwxr-xr-x	root/root	usr/share/applications/
+-rw-r--r--	root/root	usr/share/applications/qmc2-sdlmame.desktop
+drwxr-xr-x	root/root	usr/share/pixmaps/
+-rw-r--r--	root/root	usr/share/pixmaps/mame.png
+drwxr-xr-x	root/root	usr/share/qmc2/
+drwxrwxr-x	root/root	usr/share/qmc2/cab/
+-rw-rw-r--	root/root	usr/share/qmc2/cab/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/cat/
+-rw-rw-r--	root/root	usr/share/qmc2/cat/category.ini
+-rw-rw-r--	root/root	usr/share/qmc2/cat/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/ctl/
+-rw-rw-r--	root/root	usr/share/qmc2/ctl/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/doc/
+drwxrwxr-x	root/root	usr/share/qmc2/doc/html/
+drwxrwxr-x	root/root	usr/share/qmc2/doc/html/de/
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/de/credits.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/de/index.html
+drwxrwxr-x	root/root	usr/share/qmc2/doc/html/images/
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/ballou.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/doc-bg.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/qmc2_logo.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/rene.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/robert.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sammy.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/samwise.gif
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/teddy.png
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/images/vas.png
+drwxrwxr-x	root/root	usr/share/qmc2/doc/html/us/
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/changes.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/copying.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/credits.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/index.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/readme.html
+-rw-rw-r--	root/root	usr/share/qmc2/doc/html/us/todo.html
+drwxrwxr-x	root/root	usr/share/qmc2/fly/
+-rw-rw-r--	root/root	usr/share/qmc2/fly/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/gmn/
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/Concise.html
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/Concise.txt
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/Shideravan System Template.html
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/Zarth's Visual Template.html
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/gmn/images/
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/images/color.png
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/images/image.png
+-rw-rw-r--	root/root	usr/share/qmc2/gmn/template.html
+drwxrwxr-x	root/root	usr/share/qmc2/ico/
+-rw-rw-r--	root/root	usr/share/qmc2/ico/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/img/
+lrwxrwxrwx	root/root	usr/share/qmc2/img/1.png -> classic/1.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/2.png -> classic/2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/3.png -> classic/3.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/4.png -> classic/4.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/7z-compressed.png -> classic/7z-compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/activity_green.png -> classic/activity_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/activity_red.png -> classic/activity_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/add_to_favorites.png -> classic/add_to_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/alien.png -> classic/alien.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/analyze.png -> classic/analyze.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/animbase.png -> classic/animbase.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/arcadecabinet.png -> classic/arcadecabinet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/arcademode.png -> classic/arcademode.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/archive.png -> classic/archive.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/back.png -> classic/back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/book.png -> classic/book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/broom.png -> classic/broom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/browser.png -> classic/browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/brush.png -> classic/brush.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/calculator.png -> classic/calculator.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/camera.png -> classic/camera.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/category.png -> classic/category.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cd.png -> classic/cd.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/characters.png -> classic/characters.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/checkpoint.png -> classic/checkpoint.png
+drwxrwxr-x	root/root	usr/share/qmc2/img/circles/
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/1.png -> ../classic/1.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/2.png -> ../classic/2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/3.png -> ../classic/3.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/4.png -> ../classic/4.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/7z-compressed.png -> ../classic/7z-compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/activity_green.png -> ../classic/activity_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/activity_red.png -> ../classic/activity_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/add_to_favorites.png -> ../classic/add_to_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/alien.png -> ../classic/alien.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/analyze.png -> ../classic/analyze.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/animbase.png -> ../classic/animbase.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/arcadecabinet.png -> ../classic/arcadecabinet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/arcademode.png -> ../classic/arcademode.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/archive.png -> ../classic/archive.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/back.png -> ../classic/back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/book.png -> ../classic/book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/broom.png -> ../classic/broom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/browser.png -> ../classic/browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/brush.png -> ../classic/brush.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/calculator.png -> ../classic/calculator.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/camera.png -> ../classic/camera.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/category.png -> ../classic/category.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/cd.png -> ../classic/cd.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/characters.png -> ../classic/characters.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/checkpoint.png -> ../classic/checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/circuit.png -> ../classic/circuit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/cleanup.png -> ../classic/cleanup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/clock.png -> ../classic/clock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/clone.png -> ../classic/clone.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/colors.png -> ../classic/colors.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/columns.png -> ../classic/columns.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_00.png -> ../classic/component_arrangement_00.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_01.png -> ../classic/component_arrangement_01.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_02.png -> ../classic/component_arrangement_02.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_03.png -> ../classic/component_arrangement_03.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_04.png -> ../classic/component_arrangement_04.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_05.png -> ../classic/component_arrangement_05.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_06.png -> ../classic/component_arrangement_06.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_07.png -> ../classic/component_arrangement_07.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_08.png -> ../classic/component_arrangement_08.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_09.png -> ../classic/component_arrangement_09.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_10.png -> ../classic/component_arrangement_10.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_11.png -> ../classic/component_arrangement_11.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_12.png -> ../classic/component_arrangement_12.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/component_arrangement_13.png -> ../classic/component_arrangement_13.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/compressed.png -> ../classic/compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/configure.png -> ../classic/configure.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/controller.png -> ../classic/controller.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/database.png -> ../classic/database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/database_bad.png -> ../classic/database_bad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/database_good.png -> ../classic/database_good.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/detail.png -> ../classic/detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_cartridge.png -> ../classic/dev_cartridge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_cassette.png -> ../classic/dev_cassette.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_cdrom.png -> ../classic/dev_cdrom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_cylinder.png -> ../classic/dev_cylinder.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_floppydisk.png -> ../classic/dev_floppydisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_harddisk.png -> ../classic/dev_harddisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_magtape.png -> ../classic/dev_magtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_memcard.png -> ../classic/dev_memcard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_parallel.png -> ../classic/dev_parallel.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_printer.png -> ../classic/dev_printer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_punchtape.png -> ../classic/dev_punchtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_quickload.png -> ../classic/dev_quickload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_rom.png -> ../classic/dev_rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_serial.png -> ../classic/dev_serial.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dev_snapshot.png -> ../classic/dev_snapshot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dice.png -> ../classic/dice.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/disk.png -> ../classic/disk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/disk2.png -> ../classic/disk2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/dock.png -> ../classic/dock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/down.png -> ../classic/down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/down_action.png -> ../classic/down_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/download.png -> ../classic/download.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/duckduckgo.png -> ../classic/duckduckgo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/east.png -> ../classic/east.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/edit.png -> ../classic/edit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/editcopy.png -> ../classic/editcopy.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/editcopybad.png -> ../classic/editcopybad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/editcut.png -> ../classic/editcut.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/editdelete.png -> ../classic/editdelete.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/editpaste.png -> ../classic/editpaste.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/edittrash.png -> ../classic/edittrash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/effect.png -> ../classic/effect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/embed.png -> ../classic/embed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/embed_multiple.png -> ../classic/embed_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/embed_multiple_recordmovie.png -> ../classic/embed_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/embed_recordmovie.png -> ../classic/embed_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/enforce.png -> ../classic/enforce.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/exit.png -> ../classic/exit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/exit_small.png -> ../classic/exit_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/export_rom_status.png -> ../classic/export_rom_status.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/favorites.png -> ../classic/favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/favorites_multiple.png -> ../classic/favorites_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/fileclose.png -> ../classic/fileclose.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filefind.png -> ../classic/filefind.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filenew.png -> ../classic/filenew.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/fileopen.png -> ../classic/fileopen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/fileprint.png -> ../classic/fileprint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filesave.png -> ../classic/filesave.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filesaveas.png -> ../classic/filesaveas.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filesaveas_and_apply.png -> ../classic/filesaveas_and_apply.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filter.png -> ../classic/filter.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/filtered_view.png -> ../classic/filtered_view.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/find.png -> ../classic/find.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/find_negate.png -> ../classic/find_negate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/find_softlist.png -> ../classic/find_softlist.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/flat.png -> ../classic/flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/flat_filtered.png -> ../classic/flat_filtered.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/flip.png -> ../classic/flip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/folders-first.png -> ../classic/folders-first.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/folders-off.png -> ../classic/folders-off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/folders-on.png -> ../classic/folders-on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/fonts.png -> ../classic/fonts.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/forum.png -> ../classic/forum.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/forward.png -> ../classic/forward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/ghost.png -> ../classic/ghost.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/google.png -> ../classic/google.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/halt.png -> ../classic/halt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/hash.png -> ../classic/hash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/help.png -> ../classic/help.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/highlight.png -> ../classic/highlight.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/hint.png -> ../classic/hint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/hint_small.png -> ../classic/hint_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/home.png -> ../classic/home.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/homepage.png -> ../classic/homepage.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/html.png -> ../classic/html.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/icon.png -> ../classic/icon.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/info.png -> ../classic/info.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/inspect.png -> ../classic/inspect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/internet.png -> ../classic/internet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/invert_tag.png -> ../classic/invert_tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/invert_tag_all.png -> ../classic/invert_tag_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/invert_tag_down.png -> ../classic/invert_tag_down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/invert_tag_up.png -> ../classic/invert_tag_up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/invert_tag_visible.png -> ../classic/invert_tag_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/joystick.png -> ../classic/joystick.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/keyboard.png -> ../classic/keyboard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/kill.png -> ../classic/kill.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/launch.png -> ../classic/launch.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/launch_multiple.png -> ../classic/launch_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/launch_multiple_recordmovie.png -> ../classic/launch_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/launch_recordmovie.png -> ../classic/launch_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/led_off.png -> ../classic/led_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/led_on.png -> ../classic/led_on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/left_action.png -> ../classic/left_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/lifebelt.png -> ../classic/lifebelt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/loadanim.gif -> ../classic/loadanim.gif
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/locale.png -> ../classic/locale.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/lock.png -> ../classic/lock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/mame.icns -> ../classic/mame.icns
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/mame.ico -> ../classic/mame.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/mame.png -> ../classic/mame.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/mantis.png -> ../classic/mantis.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/marquee.png -> ../classic/marquee.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/maximize.png -> ../classic/maximize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_back.png -> ../classic/media_back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_fastbackward.png -> ../classic/media_fastbackward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_fastforward.png -> ../classic/media_fastforward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_lower_volume.png -> ../classic/media_lower_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_next.png -> ../classic/media_next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_pause.png -> ../classic/media_pause.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_play.png -> ../classic/media_play.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_raise_volume.png -> ../classic/media_raise_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/media_stop.png -> ../classic/media_stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/merge.png -> ../classic/merge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/merge_nok.png -> ../classic/merge_nok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/merge_ok.png -> ../classic/merge_ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/merge_unknown.png -> ../classic/merge_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/midi-in.png -> ../classic/midi-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/midi-out.png -> ../classic/midi-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/minimize.png -> ../classic/minimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/minus.png -> ../classic/minus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/minus_all.png -> ../classic/minus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/minus_multiple.png -> ../classic/minus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/movie.png -> ../classic/movie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/music.png -> ../classic/music.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/next-sail.png -> ../classic/next-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/next.png -> ../classic/next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/no.png -> ../classic/no.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/no_book.png -> ../classic/no_book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/no_checkpoint.png -> ../classic/no_checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/no_sound.png -> ../classic/no_sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/north.png -> ../classic/north.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/notes.png -> ../classic/notes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/ok.png -> ../classic/ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/opengl.png -> ../classic/opengl.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/optimize.png -> ../classic/optimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/pacman.png -> ../classic/pacman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/pdf.png -> ../classic/pdf.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/pencils.png -> ../classic/pencils.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/plus.png -> ../classic/plus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/plus_all.png -> ../classic/plus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/plus_multiple.png -> ../classic/plus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/postscript.png -> ../classic/postscript.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/preview.png -> ../classic/preview.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/previous-sail.png -> ../classic/previous-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/previous.png -> ../classic/previous.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/process.png -> ../classic/process.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/process_multiple.png -> ../classic/process_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/project_mess.png -> ../classic/project_mess.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qchdman.ico -> ../classic/qchdman.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qchdman.png -> ../classic/qchdman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2-arcade-setup.png -> ../classic/qmc2-arcade-setup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2-arcade.ico -> ../classic/qmc2-arcade.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2-arcade.png -> ../classic/qmc2-arcade.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2_logo_big.png -> ../classic/qmc2_logo_big.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2_logo_small.png -> ../classic/qmc2_logo_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qmc2_mame_splash.png -> ../classic/qmc2_mame_splash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/qt-logo.png -> ../classic/qt-logo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rank.png -> ../classic/rank.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rank_bg.png -> ../classic/rank_bg.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rank_flat.png -> ../classic/rank_flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rebuild.png -> ../classic/rebuild.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rebuild_multiple.png -> ../classic/rebuild_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/redo.png -> ../classic/redo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/refresh.png -> ../classic/refresh.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/release.png -> ../classic/release.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/release_alternate.png -> ../classic/release_alternate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/reload.png -> ../classic/reload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/reload_small.png -> ../classic/reload_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/remove.png -> ../classic/remove.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/remove_from_favorites.png -> ../classic/remove_from_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rename.png -> ../classic/rename.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/reset.png -> ../classic/reset.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/right_action.png -> ../classic/right_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rom.png -> ../classic/rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rom_multiple.png -> ../classic/rom_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/romalyzer.png -> ../classic/romalyzer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/romalyzer_flipped.png -> ../classic/romalyzer_flipped.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/romalyzer_multiple.png -> ../classic/romalyzer_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/romalyzer_sw.png -> ../classic/romalyzer_sw.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/rompath.png -> ../classic/rompath.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/scan_manuals.png -> ../classic/scan_manuals.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/search.png -> ../classic/search.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/search_multiple.png -> ../classic/search_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/setup_database.png -> ../classic/setup_database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/sleep.png -> ../classic/sleep.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/slot.png -> ../classic/slot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/software_correct.png -> ../classic/software_correct.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/software_incorrect.png -> ../classic/software_incorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/software_mostlycorrect.png -> ../classic/software_mostlycorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/software_notfound.png -> ../classic/software_notfound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/software_unknown.png -> ../classic/software_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/sort.png -> ../classic/sort.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/sound.png -> ../classic/sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/south.png -> ../classic/south.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/speaker.png -> ../classic/speaker.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_blue_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_blue_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_green_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_green_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_grey_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_grey_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_red_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_red_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_yellowgreen_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/circles/sphere_yellowgreen_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/stop.png -> ../classic/stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/stop_browser.png -> ../classic/stop_browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/swap.png -> ../classic/swap.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tabwidget.png -> ../classic/tabwidget.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tag.png -> ../classic/tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tagged.png -> ../classic/tagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tagged_all.png -> ../classic/tagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tagged_visible.png -> ../classic/tagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/tape.png -> ../classic/tape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/terminate.png -> ../classic/terminate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/thumbnail.png -> ../classic/thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/time.png -> ../classic/time.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/toggle_fullscreen.png -> ../classic/toggle_fullscreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/toolbox.png -> ../classic/toolbox.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/trafficlight_green.png -> ../classic/trafficlight_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/trafficlight_off.png -> ../classic/trafficlight_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/trafficlight_red.png -> ../classic/trafficlight_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/trafficlight_yellow.png -> ../classic/trafficlight_yellow.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/undo.png -> ../classic/undo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/unknown.png -> ../classic/unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/unlock.png -> ../classic/unlock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/untagged.png -> ../classic/untagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/untagged_all.png -> ../classic/untagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/untagged_visible.png -> ../classic/untagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/up.png -> ../classic/up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/up_action.png -> ../classic/up_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/update.png -> ../classic/update.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/url.png -> ../classic/url.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/version.png -> ../classic/version.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/video_thumbnail.png -> ../classic/video_thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/view_detail.png -> ../classic/view_detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/view_tree.png -> ../classic/view_tree.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/viewmag+.png -> ../classic/viewmag+.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/viewmag-.png -> ../classic/viewmag-.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/viewmagfit.png -> ../classic/viewmagfit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/warning.png -> ../classic/warning.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/west.png -> ../classic/west.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/wikilogo.png -> ../classic/wikilogo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/wikipedia.png -> ../classic/wikipedia.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/wip.png -> ../classic/wip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/wizard.png -> ../classic/wizard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/work.png -> ../classic/work.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/world.png -> ../classic/world.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/yandex.png -> ../classic/yandex.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/yes.png -> ../classic/yes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/youtube.png -> ../classic/youtube.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/zip.png -> ../classic/zip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/zoom-in.png -> ../classic/zoom-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/zoom-none.png -> ../classic/zoom-none.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circles/zoom-out.png -> ../classic/zoom-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/circuit.png -> classic/circuit.png
+drwxrwxr-x	root/root	usr/share/qmc2/img/classic/
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/1.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/2.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/3.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/4.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/7z-compressed.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/activity_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/activity_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/add_to_favorites.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/alien.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/analyze.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/animbase.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/arcadecabinet.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/arcademode.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/archive.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/back.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/book.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/broom.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/browser.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/brush.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/calculator.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/camera.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/category.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/cd.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/characters.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/checkpoint.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/circuit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/cleanup.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/clock.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/clone.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/colors.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/columns.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_00.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_01.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_02.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_03.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_04.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_05.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_06.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_07.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_08.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_09.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_10.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_11.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_12.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/component_arrangement_13.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/compressed.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/configure.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/controller.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/database.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/database_bad.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/database_good.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/detail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_cartridge.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_cassette.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_cdrom.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_cylinder.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_floppydisk.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_harddisk.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_magtape.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_memcard.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_parallel.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_printer.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_punchtape.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_quickload.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_rom.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_serial.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dev_snapshot.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dice.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/disk.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/disk2.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/dock.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/down.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/down_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/download.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/duckduckgo.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/east.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/edit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/editcopy.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/editcopybad.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/editcut.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/editdelete.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/editpaste.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/edittrash.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/effect.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/embed.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/embed_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/embed_multiple_recordmovie.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/embed_recordmovie.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/enforce.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/exit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/exit_small.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/export_rom_status.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/favorites.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/favorites_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/fileclose.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filefind.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filenew.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/fileopen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/fileprint.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filesave.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filesaveas.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filesaveas_and_apply.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filter.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/filtered_view.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/find.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/find_negate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/find_softlist.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/flat.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/flat_filtered.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/flip.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/folders-first.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/folders-off.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/folders-on.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/fonts.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/forum.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/forward.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/ghost.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/google.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/halt.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/hash.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/help.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/highlight.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/hint.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/hint_small.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/home.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/homepage.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/html.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/icon.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/info.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/inspect.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/internet.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/invert_tag.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/invert_tag_all.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/invert_tag_down.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/invert_tag_up.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/invert_tag_visible.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/joystick.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/keyboard.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/kill.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/launch.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/launch_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/launch_multiple_recordmovie.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/launch_recordmovie.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/led_off.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/led_on.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/left_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/lifebelt.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/loadanim.gif
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/locale.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/lock.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/mame.icns
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/mame.ico
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/mame.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/mantis.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/marquee.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/maximize.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_back.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_fastbackward.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_fastforward.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_lower_volume.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_next.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_pause.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_play.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_raise_volume.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/media_stop.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/merge.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/merge_nok.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/merge_ok.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/merge_unknown.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/midi-in.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/midi-out.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/minimize.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/minus.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/minus_all.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/minus_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/movie.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/music.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/next-sail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/next.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/no.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/no_book.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/no_checkpoint.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/no_sound.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/north.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/notes.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/ok.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/opengl.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/optimize.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/pacman.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/pdf.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/pencils.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/plus.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/plus_all.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/plus_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/postscript.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/preview.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/previous-sail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/previous.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/process.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/process_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/project_mess.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qchdman.ico
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qchdman.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2-arcade-setup.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2-arcade.ico
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2-arcade.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2_logo_big.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2_logo_small.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qmc2_mame_splash.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/qt-logo.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rank.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rank_bg.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rank_flat.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rebuild.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rebuild_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/redo.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/refresh.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/release.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/release_alternate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/reload.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/reload_small.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/remove.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/remove_from_favorites.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rename.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/reset.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/right_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rom.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rom_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/romalyzer.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/romalyzer_flipped.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/romalyzer_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/romalyzer_sw.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/rompath.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/scan_manuals.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/search.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/search_multiple.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/setup_database.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sleep.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/slot.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/software_correct.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/software_incorrect.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/software_mostlycorrect.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/software_notfound.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/software_unknown.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sort.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sound.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/south.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/speaker.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_blue_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_blue_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_green_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_green_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_grey_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_grey_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_red_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_red_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_yellowgreen_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/sphere_yellowgreen_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/stop.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/stop_browser.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/swap.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tabwidget.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tag.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tagged.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tagged_all.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tagged_visible.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/tape.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/terminate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/thumbnail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/time.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/toggle_fullscreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/toolbox.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/trafficlight_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/trafficlight_off.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/trafficlight_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/trafficlight_yellow.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/undo.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/unknown.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/unlock.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/untagged.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/untagged_all.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/untagged_visible.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/up.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/up_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/update.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/url.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/version.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/video_thumbnail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/view_detail.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/view_tree.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/viewmag+.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/viewmag-.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/viewmagfit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/warning.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/west.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/wikilogo.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/wikipedia.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/wip.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/wizard.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/work.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/world.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/yandex.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/yes.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/youtube.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/zip.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/zoom-in.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/zoom-none.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/classic/zoom-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cleanup.png -> classic/cleanup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/clock.png -> classic/clock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/clone.png -> classic/clone.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/colors.png -> classic/colors.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/columns.png -> classic/columns.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_00.png -> classic/component_arrangement_00.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_01.png -> classic/component_arrangement_01.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_02.png -> classic/component_arrangement_02.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_03.png -> classic/component_arrangement_03.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_04.png -> classic/component_arrangement_04.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_05.png -> classic/component_arrangement_05.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_06.png -> classic/component_arrangement_06.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_07.png -> classic/component_arrangement_07.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_08.png -> classic/component_arrangement_08.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_09.png -> classic/component_arrangement_09.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_10.png -> classic/component_arrangement_10.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_11.png -> classic/component_arrangement_11.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_12.png -> classic/component_arrangement_12.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/component_arrangement_13.png -> classic/component_arrangement_13.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/compressed.png -> classic/compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/configure.png -> classic/configure.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/controller.png -> classic/controller.png
+drwxrwxr-x	root/root	usr/share/qmc2/img/crazy-black/
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/1.png -> ../classic/1.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/2.png -> ../classic/2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/3.png -> ../classic/3.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/4.png -> ../classic/4.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/7z-compressed.png -> ../classic/7z-compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/activity_green.png -> ../classic/activity_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/activity_red.png -> ../classic/activity_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/add_to_favorites.png -> ../classic/add_to_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/alien.png -> ../classic/alien.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/analyze.png -> ../classic/analyze.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/animbase.png -> ../classic/animbase.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/arcadecabinet.png -> ../classic/arcadecabinet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/arcademode.png -> ../classic/arcademode.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/archive.png -> ../classic/archive.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/back.png -> ../classic/back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/book.png -> ../classic/book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/broom.png -> ../classic/broom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/browser.png -> ../classic/browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/brush.png -> ../classic/brush.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/calculator.png -> ../classic/calculator.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/camera.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/category.png -> ../classic/category.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/cd.png -> ../classic/cd.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/characters.png -> ../classic/characters.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/checkpoint.png -> ../classic/checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/circuit.png -> ../classic/circuit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/cleanup.png -> ../classic/cleanup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/clock.png -> ../classic/clock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/clone.png -> ../classic/clone.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/colors.png -> ../classic/colors.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/columns.png -> ../classic/columns.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_00.png -> ../classic/component_arrangement_00.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_01.png -> ../classic/component_arrangement_01.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_02.png -> ../classic/component_arrangement_02.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_03.png -> ../classic/component_arrangement_03.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_04.png -> ../classic/component_arrangement_04.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_05.png -> ../classic/component_arrangement_05.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_06.png -> ../classic/component_arrangement_06.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_07.png -> ../classic/component_arrangement_07.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_08.png -> ../classic/component_arrangement_08.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_09.png -> ../classic/component_arrangement_09.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_10.png -> ../classic/component_arrangement_10.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_11.png -> ../classic/component_arrangement_11.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_12.png -> ../classic/component_arrangement_12.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/component_arrangement_13.png -> ../classic/component_arrangement_13.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/compressed.png -> ../classic/compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/configure.png -> ../classic/configure.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/controller.png -> ../classic/controller.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/database.png -> ../classic/database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/database_bad.png -> ../classic/database_bad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/database_good.png -> ../classic/database_good.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/detail.png -> ../classic/detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_cartridge.png -> ../classic/dev_cartridge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_cassette.png -> ../classic/dev_cassette.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_cdrom.png -> ../classic/dev_cdrom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_cylinder.png -> ../classic/dev_cylinder.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_floppydisk.png -> ../classic/dev_floppydisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_harddisk.png -> ../classic/dev_harddisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_magtape.png -> ../classic/dev_magtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_memcard.png -> ../classic/dev_memcard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_parallel.png -> ../classic/dev_parallel.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_printer.png -> ../classic/dev_printer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_punchtape.png -> ../classic/dev_punchtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_quickload.png -> ../classic/dev_quickload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_rom.png -> ../classic/dev_rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_serial.png -> ../classic/dev_serial.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dev_snapshot.png -> ../classic/dev_snapshot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dice.png -> ../classic/dice.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/disk.png -> ../classic/disk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/disk2.png -> ../classic/disk2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/dock.png -> ../classic/dock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/down.png -> ../classic/down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/down_action.png -> ../classic/down_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/download.png -> ../classic/download.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/duckduckgo.png -> ../classic/duckduckgo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/east.png -> ../classic/east.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/edit.png -> ../classic/edit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/editcopy.png -> ../classic/editcopy.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/editcopybad.png -> ../classic/editcopybad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/editcut.png -> ../classic/editcut.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/editdelete.png -> ../classic/editdelete.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/editpaste.png -> ../classic/editpaste.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/edittrash.png -> ../classic/edittrash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/effect.png -> ../classic/effect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/embed.png -> ../classic/embed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/embed_multiple.png -> ../classic/embed_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/embed_multiple_recordmovie.png -> ../classic/embed_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/embed_recordmovie.png -> ../classic/embed_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/enforce.png -> ../classic/enforce.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/exit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/exit_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/export_rom_status.png -> ../classic/export_rom_status.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/favorites_multiple.png -> ../classic/favorites_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/fileclose.png -> ../classic/fileclose.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filefind.png -> ../classic/filefind.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filenew.png -> ../classic/filenew.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/fileopen.png -> ../classic/fileopen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/fileprint.png -> ../classic/fileprint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filesave.png -> ../classic/filesave.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filesaveas.png -> ../classic/filesaveas.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filesaveas_and_apply.png -> ../classic/filesaveas_and_apply.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filter.png -> ../classic/filter.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/filtered_view.png -> ../classic/filtered_view.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/find.png -> ../classic/find.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/find_negate.png -> ../classic/find_negate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/find_softlist.png -> ../classic/find_softlist.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/flat.png -> ../classic/flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/flat_filtered.png -> ../classic/flat_filtered.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/flip.png -> ../classic/flip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/folders-first.png -> ../classic/folders-first.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/folders-off.png -> ../classic/folders-off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/folders-on.png -> ../classic/folders-on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/fonts.png -> ../classic/fonts.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/forum.png -> ../classic/forum.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/forward.png -> ../classic/forward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/ghost.png -> ../classic/ghost.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/google.png -> ../classic/google.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/halt.png -> ../classic/halt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/hash.png -> ../classic/hash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/help.png -> ../classic/help.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/highlight.png -> ../classic/highlight.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/hint.png -> ../classic/hint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/hint_small.png -> ../classic/hint_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/home.png -> ../classic/home.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/homepage.png -> ../classic/homepage.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/html.png -> ../classic/html.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/icon.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/info.png -> ../classic/info.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/inspect.png -> ../classic/inspect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/internet.png -> ../classic/internet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/invert_tag.png -> ../classic/invert_tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/invert_tag_all.png -> ../classic/invert_tag_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/invert_tag_down.png -> ../classic/invert_tag_down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/invert_tag_up.png -> ../classic/invert_tag_up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/invert_tag_visible.png -> ../classic/invert_tag_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/joystick.png -> ../classic/joystick.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/keyboard.png -> ../classic/keyboard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/kill.png -> ../classic/kill.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/launch.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/launch_multiple.png -> ../classic/launch_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/launch_multiple_recordmovie.png -> ../classic/launch_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/launch_recordmovie.png -> ../classic/launch_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/led_off.png -> ../classic/led_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/led_on.png -> ../classic/led_on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/left_action.png -> ../classic/left_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/lifebelt.png -> ../classic/lifebelt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/loadanim.gif -> ../classic/loadanim.gif
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/locale.png -> ../classic/locale.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/lock.png -> ../classic/lock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/mame.icns -> ../classic/mame.icns
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/mame.ico -> ../classic/mame.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/mame.png -> ../classic/mame.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/mantis.png -> ../classic/mantis.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/marquee.png -> ../classic/marquee.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/maximize.png -> ../classic/maximize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_back.png -> ../classic/media_back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_fastbackward.png -> ../classic/media_fastbackward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_fastforward.png -> ../classic/media_fastforward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_lower_volume.png -> ../classic/media_lower_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_next.png -> ../classic/media_next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_pause.png -> ../classic/media_pause.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_play.png -> ../classic/media_play.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_raise_volume.png -> ../classic/media_raise_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/media_stop.png -> ../classic/media_stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/merge.png -> ../classic/merge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/merge_nok.png -> ../classic/merge_nok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/merge_ok.png -> ../classic/merge_ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/merge_unknown.png -> ../classic/merge_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/midi-in.png -> ../classic/midi-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/midi-out.png -> ../classic/midi-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/minimize.png -> ../classic/minimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/minus.png -> ../classic/minus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/minus_all.png -> ../classic/minus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/minus_multiple.png -> ../classic/minus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/movie.png -> ../classic/movie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/music.png -> ../classic/music.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/next-sail.png -> ../classic/next-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/next.png -> ../classic/next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/no.png -> ../classic/no.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/no_book.png -> ../classic/no_book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/no_checkpoint.png -> ../classic/no_checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/no_sound.png -> ../classic/no_sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/north.png -> ../classic/north.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/notes.png -> ../classic/notes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/ok.png -> ../classic/ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/opengl.png -> ../classic/opengl.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/optimize.png -> ../classic/optimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/pacman.png -> ../classic/pacman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/pdf.png -> ../classic/pdf.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/pencils.png -> ../classic/pencils.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/plus.png -> ../classic/plus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/plus_all.png -> ../classic/plus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/plus_multiple.png -> ../classic/plus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/postscript.png -> ../classic/postscript.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/preview.png -> ../classic/preview.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/previous-sail.png -> ../classic/previous-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/previous.png -> ../classic/previous.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/process.png -> ../classic/process.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/process_multiple.png -> ../classic/process_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/project_mess.png -> ../classic/project_mess.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qchdman.ico -> ../classic/qchdman.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qchdman.png -> ../classic/qchdman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2-arcade-setup.png -> ../classic/qmc2-arcade-setup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2-arcade.ico -> ../classic/qmc2-arcade.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2-arcade.png -> ../classic/qmc2-arcade.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2_logo_big.png -> ../classic/qmc2_logo_big.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2_logo_small.png -> ../classic/qmc2_logo_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qmc2_mame_splash.png -> ../classic/qmc2_mame_splash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/qt-logo.png -> ../classic/qt-logo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rank.png -> ../classic/rank.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rank_bg.png -> ../classic/rank_bg.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rank_flat.png -> ../classic/rank_flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rebuild.png -> ../classic/rebuild.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rebuild_multiple.png -> ../classic/rebuild_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/redo.png -> ../classic/redo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/refresh.png -> ../classic/refresh.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/release.png -> ../classic/release.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/release_alternate.png -> ../classic/release_alternate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/reload.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/reload_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/remove.png -> ../classic/remove.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/remove_from_favorites.png -> ../classic/remove_from_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rename.png -> ../classic/rename.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/reset.png -> ../classic/reset.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/right_action.png -> ../classic/right_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rom_multiple.png -> ../classic/rom_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/romalyzer.png -> ../classic/romalyzer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/romalyzer_flipped.png -> ../classic/romalyzer_flipped.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/romalyzer_multiple.png -> ../classic/romalyzer_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/romalyzer_sw.png -> ../classic/romalyzer_sw.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/rompath.png -> ../classic/rompath.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/scan_manuals.png -> ../classic/scan_manuals.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/search.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/search_multiple.png -> ../classic/search_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/setup_database.png -> ../classic/setup_database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sleep.png -> ../classic/sleep.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/slot.png -> ../classic/slot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/software_correct.png -> ../classic/software_correct.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/software_incorrect.png -> ../classic/software_incorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/software_mostlycorrect.png -> ../classic/software_mostlycorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/software_notfound.png -> ../classic/software_notfound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/software_unknown.png -> ../classic/software_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sort.png -> ../classic/sort.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/south.png -> ../classic/south.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/speaker.png -> ../classic/speaker.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_blue_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sphere_blue_device.png -> ../classic/sphere_blue_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_green_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sphere_green_device.png -> ../classic/sphere_green_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_grey_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sphere_grey_device.png -> ../classic/sphere_grey_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_red_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sphere_red_device.png -> ../classic/sphere_red_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/sphere_yellowgreen_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/sphere_yellowgreen_device.png -> ../classic/sphere_yellowgreen_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/stop.png -> ../classic/stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/stop_browser.png -> ../classic/stop_browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/swap.png -> ../classic/swap.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tabwidget.png -> ../classic/tabwidget.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tag.png -> ../classic/tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tagged.png -> ../classic/tagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tagged_all.png -> ../classic/tagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tagged_visible.png -> ../classic/tagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/tape.png -> ../classic/tape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/terminate.png -> ../classic/terminate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/time.png -> ../classic/time.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/toggle_fullscreen.png -> ../classic/toggle_fullscreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/toolbox.png -> ../classic/toolbox.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/trafficlight_green.png -> ../classic/trafficlight_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/trafficlight_off.png -> ../classic/trafficlight_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/trafficlight_red.png -> ../classic/trafficlight_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/trafficlight_yellow.png -> ../classic/trafficlight_yellow.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/undo.png -> ../classic/undo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/unknown.png -> ../classic/unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/unlock.png -> ../classic/unlock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/untagged.png -> ../classic/untagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/untagged_all.png -> ../classic/untagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/untagged_visible.png -> ../classic/untagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/up.png -> ../classic/up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/up_action.png -> ../classic/up_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/update.png -> ../classic/update.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/url.png -> ../classic/url.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/version.png -> ../classic/version.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/video_thumbnail.png -> ../classic/video_thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/view_detail.png -> ../classic/view_detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/view_tree.png -> ../classic/view_tree.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/viewmag+.png -> ../classic/viewmag+.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/viewmag-.png -> ../classic/viewmag-.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/viewmagfit.png -> ../classic/viewmagfit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/warning.png -> ../classic/warning.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/west.png -> ../classic/west.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/wikilogo.png -> ../classic/wikilogo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/wikipedia.png -> ../classic/wikipedia.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/wip.png -> ../classic/wip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/wizard.png -> ../classic/wizard.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/work.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/world.png -> ../classic/world.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/yandex.png -> ../classic/yandex.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/yes.png -> ../classic/yes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/youtube.png -> ../classic/youtube.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy-black/zip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/zoom-in.png -> ../classic/zoom-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/zoom-none.png -> ../classic/zoom-none.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy-black/zoom-out.png -> ../classic/zoom-out.png
+drwxrwxr-x	root/root	usr/share/qmc2/img/crazy/
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/1.png -> ../classic/1.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/2.png -> ../classic/2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/3.png -> ../classic/3.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/4.png -> ../classic/4.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/7z-compressed.png -> ../classic/7z-compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/activity_green.png -> ../classic/activity_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/activity_red.png -> ../classic/activity_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/add_to_favorites.png -> ../classic/add_to_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/alien.png -> ../classic/alien.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/analyze.png -> ../classic/analyze.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/animbase.png -> ../classic/animbase.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/arcadecabinet.png -> ../classic/arcadecabinet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/arcademode.png -> ../classic/arcademode.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/archive.png -> ../classic/archive.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/back.png -> ../classic/back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/book.png -> ../classic/book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/broom.png -> ../classic/broom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/browser.png -> ../classic/browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/brush.png -> ../classic/brush.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/calculator.png -> ../classic/calculator.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/camera.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/category.png -> ../classic/category.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/cd.png -> ../classic/cd.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/characters.png -> ../classic/characters.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/checkpoint.png -> ../classic/checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/circuit.png -> ../classic/circuit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/cleanup.png -> ../classic/cleanup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/clock.png -> ../classic/clock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/clone.png -> ../classic/clone.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/colors.png -> ../classic/colors.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/columns.png -> ../classic/columns.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_00.png -> ../classic/component_arrangement_00.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_01.png -> ../classic/component_arrangement_01.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_02.png -> ../classic/component_arrangement_02.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_03.png -> ../classic/component_arrangement_03.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_04.png -> ../classic/component_arrangement_04.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_05.png -> ../classic/component_arrangement_05.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_06.png -> ../classic/component_arrangement_06.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_07.png -> ../classic/component_arrangement_07.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_08.png -> ../classic/component_arrangement_08.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_09.png -> ../classic/component_arrangement_09.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_10.png -> ../classic/component_arrangement_10.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_11.png -> ../classic/component_arrangement_11.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_12.png -> ../classic/component_arrangement_12.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/component_arrangement_13.png -> ../classic/component_arrangement_13.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/compressed.png -> ../classic/compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/configure.png -> ../classic/configure.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/controller.png -> ../classic/controller.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/database.png -> ../classic/database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/database_bad.png -> ../classic/database_bad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/database_good.png -> ../classic/database_good.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/detail.png -> ../classic/detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_cartridge.png -> ../classic/dev_cartridge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_cassette.png -> ../classic/dev_cassette.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_cdrom.png -> ../classic/dev_cdrom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_cylinder.png -> ../classic/dev_cylinder.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_floppydisk.png -> ../classic/dev_floppydisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_harddisk.png -> ../classic/dev_harddisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_magtape.png -> ../classic/dev_magtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_memcard.png -> ../classic/dev_memcard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_parallel.png -> ../classic/dev_parallel.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_printer.png -> ../classic/dev_printer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_punchtape.png -> ../classic/dev_punchtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_quickload.png -> ../classic/dev_quickload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_rom.png -> ../classic/dev_rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_serial.png -> ../classic/dev_serial.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dev_snapshot.png -> ../classic/dev_snapshot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dice.png -> ../classic/dice.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/disk.png -> ../classic/disk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/disk2.png -> ../classic/disk2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/dock.png -> ../classic/dock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/down.png -> ../classic/down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/down_action.png -> ../classic/down_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/download.png -> ../classic/download.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/duckduckgo.png -> ../classic/duckduckgo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/east.png -> ../classic/east.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/edit.png -> ../classic/edit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/editcopy.png -> ../classic/editcopy.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/editcopybad.png -> ../classic/editcopybad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/editcut.png -> ../classic/editcut.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/editdelete.png -> ../classic/editdelete.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/editpaste.png -> ../classic/editpaste.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/edittrash.png -> ../classic/edittrash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/effect.png -> ../classic/effect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/embed.png -> ../classic/embed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/embed_multiple.png -> ../classic/embed_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/embed_multiple_recordmovie.png -> ../classic/embed_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/embed_recordmovie.png -> ../classic/embed_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/enforce.png -> ../classic/enforce.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/exit.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/exit_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/export_rom_status.png -> ../classic/export_rom_status.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/favorites_multiple.png -> ../classic/favorites_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/fileclose.png -> ../classic/fileclose.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filefind.png -> ../classic/filefind.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filenew.png -> ../classic/filenew.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/fileopen.png -> ../classic/fileopen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/fileprint.png -> ../classic/fileprint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filesave.png -> ../classic/filesave.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filesaveas.png -> ../classic/filesaveas.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filesaveas_and_apply.png -> ../classic/filesaveas_and_apply.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filter.png -> ../classic/filter.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/filtered_view.png -> ../classic/filtered_view.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/find.png -> ../classic/find.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/find_negate.png -> ../classic/find_negate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/find_softlist.png -> ../classic/find_softlist.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/flat.png -> ../classic/flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/flat_filtered.png -> ../classic/flat_filtered.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/flip.png -> ../classic/flip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/folders-first.png -> ../classic/folders-first.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/folders-off.png -> ../classic/folders-off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/folders-on.png -> ../classic/folders-on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/fonts.png -> ../classic/fonts.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/forum.png -> ../classic/forum.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/forward.png -> ../classic/forward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/ghost.png -> ../classic/ghost.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/google.png -> ../classic/google.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/halt.png -> ../classic/halt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/hash.png -> ../classic/hash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/help.png -> ../classic/help.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/highlight.png -> ../classic/highlight.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/hint.png -> ../classic/hint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/hint_small.png -> ../classic/hint_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/home.png -> ../classic/home.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/homepage.png -> ../classic/homepage.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/html.png -> ../classic/html.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/icon.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/info.png -> ../classic/info.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/inspect.png -> ../classic/inspect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/internet.png -> ../classic/internet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/invert_tag.png -> ../classic/invert_tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/invert_tag_all.png -> ../classic/invert_tag_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/invert_tag_down.png -> ../classic/invert_tag_down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/invert_tag_up.png -> ../classic/invert_tag_up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/invert_tag_visible.png -> ../classic/invert_tag_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/joystick.png -> ../classic/joystick.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/keyboard.png -> ../classic/keyboard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/kill.png -> ../classic/kill.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/launch.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/launch_multiple.png -> ../classic/launch_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/launch_multiple_recordmovie.png -> ../classic/launch_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/launch_recordmovie.png -> ../classic/launch_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/led_off.png -> ../classic/led_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/led_on.png -> ../classic/led_on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/left_action.png -> ../classic/left_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/lifebelt.png -> ../classic/lifebelt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/loadanim.gif -> ../classic/loadanim.gif
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/locale.png -> ../classic/locale.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/lock.png -> ../classic/lock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/mame.icns -> ../classic/mame.icns
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/mame.ico -> ../classic/mame.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/mame.png -> ../classic/mame.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/mantis.png -> ../classic/mantis.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/marquee.png -> ../classic/marquee.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/maximize.png -> ../classic/maximize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_back.png -> ../classic/media_back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_fastbackward.png -> ../classic/media_fastbackward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_fastforward.png -> ../classic/media_fastforward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_lower_volume.png -> ../classic/media_lower_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_next.png -> ../classic/media_next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_pause.png -> ../classic/media_pause.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_play.png -> ../classic/media_play.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_raise_volume.png -> ../classic/media_raise_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/media_stop.png -> ../classic/media_stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/merge.png -> ../classic/merge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/merge_nok.png -> ../classic/merge_nok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/merge_ok.png -> ../classic/merge_ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/merge_unknown.png -> ../classic/merge_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/midi-in.png -> ../classic/midi-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/midi-out.png -> ../classic/midi-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/minimize.png -> ../classic/minimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/minus.png -> ../classic/minus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/minus_all.png -> ../classic/minus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/minus_multiple.png -> ../classic/minus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/movie.png -> ../classic/movie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/music.png -> ../classic/music.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/next-sail.png -> ../classic/next-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/next.png -> ../classic/next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/no.png -> ../classic/no.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/no_book.png -> ../classic/no_book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/no_checkpoint.png -> ../classic/no_checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/no_sound.png -> ../classic/no_sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/north.png -> ../classic/north.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/notes.png -> ../classic/notes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/ok.png -> ../classic/ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/opengl.png -> ../classic/opengl.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/optimize.png -> ../classic/optimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/pacman.png -> ../classic/pacman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/pdf.png -> ../classic/pdf.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/pencils.png -> ../classic/pencils.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/plus.png -> ../classic/plus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/plus_all.png -> ../classic/plus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/plus_multiple.png -> ../classic/plus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/postscript.png -> ../classic/postscript.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/preview.png -> ../classic/preview.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/previous-sail.png -> ../classic/previous-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/previous.png -> ../classic/previous.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/process.png -> ../classic/process.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/process_multiple.png -> ../classic/process_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/project_mess.png -> ../classic/project_mess.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qchdman.ico -> ../classic/qchdman.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qchdman.png -> ../classic/qchdman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2-arcade-setup.png -> ../classic/qmc2-arcade-setup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2-arcade.ico -> ../classic/qmc2-arcade.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2-arcade.png -> ../classic/qmc2-arcade.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2_logo_big.png -> ../classic/qmc2_logo_big.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2_logo_small.png -> ../classic/qmc2_logo_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qmc2_mame_splash.png -> ../classic/qmc2_mame_splash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/qt-logo.png -> ../classic/qt-logo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rank.png -> ../classic/rank.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rank_bg.png -> ../classic/rank_bg.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rank_flat.png -> ../classic/rank_flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rebuild.png -> ../classic/rebuild.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rebuild_multiple.png -> ../classic/rebuild_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/redo.png -> ../classic/redo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/refresh.png -> ../classic/refresh.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/release.png -> ../classic/release.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/release_alternate.png -> ../classic/release_alternate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/reload.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/reload_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/remove.png -> ../classic/remove.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/remove_from_favorites.png -> ../classic/remove_from_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rename.png -> ../classic/rename.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/reset.png -> ../classic/reset.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/right_action.png -> ../classic/right_action.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rom_multiple.png -> ../classic/rom_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/romalyzer.png -> ../classic/romalyzer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/romalyzer_flipped.png -> ../classic/romalyzer_flipped.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/romalyzer_multiple.png -> ../classic/romalyzer_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/romalyzer_sw.png -> ../classic/romalyzer_sw.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/rompath.png -> ../classic/rompath.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/scan_manuals.png -> ../classic/scan_manuals.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/search.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/search_multiple.png -> ../classic/search_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/setup_database.png -> ../classic/setup_database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sleep.png -> ../classic/sleep.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/slot.png -> ../classic/slot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/software_correct.png -> ../classic/software_correct.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/software_incorrect.png -> ../classic/software_incorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/software_mostlycorrect.png -> ../classic/software_mostlycorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/software_notfound.png -> ../classic/software_notfound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/software_unknown.png -> ../classic/software_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sort.png -> ../classic/sort.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/south.png -> ../classic/south.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/speaker.png -> ../classic/speaker.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_blue_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sphere_blue_device.png -> ../classic/sphere_blue_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_green_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sphere_green_device.png -> ../classic/sphere_green_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_grey_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sphere_grey_device.png -> ../classic/sphere_grey_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_red_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sphere_red_device.png -> ../classic/sphere_red_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/sphere_yellowgreen_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/sphere_yellowgreen_device.png -> ../classic/sphere_yellowgreen_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/stop.png -> ../classic/stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/stop_browser.png -> ../classic/stop_browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/swap.png -> ../classic/swap.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tabwidget.png -> ../classic/tabwidget.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tag.png -> ../classic/tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tagged.png -> ../classic/tagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tagged_all.png -> ../classic/tagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tagged_visible.png -> ../classic/tagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/tape.png -> ../classic/tape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/terminate.png -> ../classic/terminate.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/time.png -> ../classic/time.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/toggle_fullscreen.png -> ../classic/toggle_fullscreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/toolbox.png -> ../classic/toolbox.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/trafficlight_green.png -> ../classic/trafficlight_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/trafficlight_off.png -> ../classic/trafficlight_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/trafficlight_red.png -> ../classic/trafficlight_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/trafficlight_yellow.png -> ../classic/trafficlight_yellow.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/undo.png -> ../classic/undo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/unknown.png -> ../classic/unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/unlock.png -> ../classic/unlock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/untagged.png -> ../classic/untagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/untagged_all.png -> ../classic/untagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/untagged_visible.png -> ../classic/untagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/up.png -> ../classic/up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/up_action.png -> ../classic/up_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/update.png -> ../classic/update.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/url.png -> ../classic/url.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/version.png -> ../classic/version.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/video_thumbnail.png -> ../classic/video_thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/view_detail.png -> ../classic/view_detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/view_tree.png -> ../classic/view_tree.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/viewmag+.png -> ../classic/viewmag+.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/viewmag-.png -> ../classic/viewmag-.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/viewmagfit.png -> ../classic/viewmagfit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/warning.png -> ../classic/warning.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/west.png -> ../classic/west.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/wikilogo.png -> ../classic/wikilogo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/wikipedia.png -> ../classic/wikipedia.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/wip.png -> ../classic/wip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/wizard.png -> ../classic/wizard.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/work.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/world.png -> ../classic/world.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/yandex.png -> ../classic/yandex.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/yes.png -> ../classic/yes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/youtube.png -> ../classic/youtube.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/crazy/zip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/zoom-in.png -> ../classic/zoom-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/zoom-none.png -> ../classic/zoom-none.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/crazy/zoom-out.png -> ../classic/zoom-out.png
+drwxrwxr-x	root/root	usr/share/qmc2/img/cubes/
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/1.png -> ../classic/1.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/2.png -> ../classic/2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/3.png -> ../classic/3.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/4.png -> ../classic/4.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/7z-compressed.png -> ../classic/7z-compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/activity_green.png -> ../classic/activity_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/activity_red.png -> ../classic/activity_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/add_to_favorites.png -> ../classic/add_to_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/alien.png -> ../classic/alien.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/analyze.png -> ../classic/analyze.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/animbase.png -> ../classic/animbase.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/arcadecabinet.png -> ../classic/arcadecabinet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/arcademode.png -> ../classic/arcademode.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/archive.png -> ../classic/archive.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/back.png -> ../classic/back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/book.png -> ../classic/book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/broom.png -> ../classic/broom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/browser.png -> ../classic/browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/brush.png -> ../classic/brush.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/calculator.png -> ../classic/calculator.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/camera.png -> ../classic/camera.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/category.png -> ../classic/category.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/cd.png -> ../classic/cd.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/characters.png -> ../classic/characters.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/checkpoint.png -> ../classic/checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/circuit.png -> ../classic/circuit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/cleanup.png -> ../classic/cleanup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/clock.png -> ../classic/clock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/clone.png -> ../classic/clone.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/colors.png -> ../classic/colors.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/columns.png -> ../classic/columns.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_00.png -> ../classic/component_arrangement_00.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_01.png -> ../classic/component_arrangement_01.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_02.png -> ../classic/component_arrangement_02.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_03.png -> ../classic/component_arrangement_03.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_04.png -> ../classic/component_arrangement_04.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_05.png -> ../classic/component_arrangement_05.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_06.png -> ../classic/component_arrangement_06.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_07.png -> ../classic/component_arrangement_07.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_08.png -> ../classic/component_arrangement_08.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_09.png -> ../classic/component_arrangement_09.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_10.png -> ../classic/component_arrangement_10.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_11.png -> ../classic/component_arrangement_11.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_12.png -> ../classic/component_arrangement_12.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/component_arrangement_13.png -> ../classic/component_arrangement_13.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/compressed.png -> ../classic/compressed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/configure.png -> ../classic/configure.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/controller.png -> ../classic/controller.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/database.png -> ../classic/database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/database_bad.png -> ../classic/database_bad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/database_good.png -> ../classic/database_good.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/detail.png -> ../classic/detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_cartridge.png -> ../classic/dev_cartridge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_cassette.png -> ../classic/dev_cassette.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_cdrom.png -> ../classic/dev_cdrom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_cylinder.png -> ../classic/dev_cylinder.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_floppydisk.png -> ../classic/dev_floppydisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_harddisk.png -> ../classic/dev_harddisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_magtape.png -> ../classic/dev_magtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_memcard.png -> ../classic/dev_memcard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_parallel.png -> ../classic/dev_parallel.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_printer.png -> ../classic/dev_printer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_punchtape.png -> ../classic/dev_punchtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_quickload.png -> ../classic/dev_quickload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_rom.png -> ../classic/dev_rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_serial.png -> ../classic/dev_serial.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dev_snapshot.png -> ../classic/dev_snapshot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dice.png -> ../classic/dice.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/disk.png -> ../classic/disk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/disk2.png -> ../classic/disk2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/dock.png -> ../classic/dock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/down.png -> ../classic/down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/down_action.png -> ../classic/down_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/download.png -> ../classic/download.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/duckduckgo.png -> ../classic/duckduckgo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/east.png -> ../classic/east.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/edit.png -> ../classic/edit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/editcopy.png -> ../classic/editcopy.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/editcopybad.png -> ../classic/editcopybad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/editcut.png -> ../classic/editcut.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/editdelete.png -> ../classic/editdelete.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/editpaste.png -> ../classic/editpaste.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/edittrash.png -> ../classic/edittrash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/effect.png -> ../classic/effect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/embed.png -> ../classic/embed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/embed_multiple.png -> ../classic/embed_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/embed_multiple_recordmovie.png -> ../classic/embed_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/embed_recordmovie.png -> ../classic/embed_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/enforce.png -> ../classic/enforce.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/exit.png -> ../classic/exit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/exit_small.png -> ../classic/exit_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/export_rom_status.png -> ../classic/export_rom_status.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/favorites.png -> ../classic/favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/favorites_multiple.png -> ../classic/favorites_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/fileclose.png -> ../classic/fileclose.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filefind.png -> ../classic/filefind.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filenew.png -> ../classic/filenew.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/fileopen.png -> ../classic/fileopen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/fileprint.png -> ../classic/fileprint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filesave.png -> ../classic/filesave.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filesaveas.png -> ../classic/filesaveas.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filesaveas_and_apply.png -> ../classic/filesaveas_and_apply.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filter.png -> ../classic/filter.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/filtered_view.png -> ../classic/filtered_view.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/find.png -> ../classic/find.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/find_negate.png -> ../classic/find_negate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/find_softlist.png -> ../classic/find_softlist.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/flat.png -> ../classic/flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/flat_filtered.png -> ../classic/flat_filtered.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/flip.png -> ../classic/flip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/folders-first.png -> ../classic/folders-first.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/folders-off.png -> ../classic/folders-off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/folders-on.png -> ../classic/folders-on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/fonts.png -> ../classic/fonts.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/forum.png -> ../classic/forum.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/forward.png -> ../classic/forward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/ghost.png -> ../classic/ghost.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/google.png -> ../classic/google.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/halt.png -> ../classic/halt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/hash.png -> ../classic/hash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/help.png -> ../classic/help.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/highlight.png -> ../classic/highlight.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/hint.png -> ../classic/hint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/hint_small.png -> ../classic/hint_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/home.png -> ../classic/home.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/homepage.png -> ../classic/homepage.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/html.png -> ../classic/html.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/icon.png -> ../classic/icon.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/info.png -> ../classic/info.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/inspect.png -> ../classic/inspect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/internet.png -> ../classic/internet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/invert_tag.png -> ../classic/invert_tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/invert_tag_all.png -> ../classic/invert_tag_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/invert_tag_down.png -> ../classic/invert_tag_down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/invert_tag_up.png -> ../classic/invert_tag_up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/invert_tag_visible.png -> ../classic/invert_tag_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/joystick.png -> ../classic/joystick.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/keyboard.png -> ../classic/keyboard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/kill.png -> ../classic/kill.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/launch.png -> ../classic/launch.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/launch_multiple.png -> ../classic/launch_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/launch_multiple_recordmovie.png -> ../classic/launch_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/launch_recordmovie.png -> ../classic/launch_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/led_off.png -> ../classic/led_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/led_on.png -> ../classic/led_on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/left_action.png -> ../classic/left_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/lifebelt.png -> ../classic/lifebelt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/loadanim.gif -> ../classic/loadanim.gif
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/locale.png -> ../classic/locale.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/lock.png -> ../classic/lock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/mame.icns -> ../classic/mame.icns
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/mame.ico -> ../classic/mame.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/mame.png -> ../classic/mame.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/mantis.png -> ../classic/mantis.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/marquee.png -> ../classic/marquee.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/maximize.png -> ../classic/maximize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_back.png -> ../classic/media_back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_fastbackward.png -> ../classic/media_fastbackward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_fastforward.png -> ../classic/media_fastforward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_lower_volume.png -> ../classic/media_lower_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_next.png -> ../classic/media_next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_pause.png -> ../classic/media_pause.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_play.png -> ../classic/media_play.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_raise_volume.png -> ../classic/media_raise_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/media_stop.png -> ../classic/media_stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/merge.png -> ../classic/merge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/merge_nok.png -> ../classic/merge_nok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/merge_ok.png -> ../classic/merge_ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/merge_unknown.png -> ../classic/merge_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/midi-in.png -> ../classic/midi-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/midi-out.png -> ../classic/midi-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/minimize.png -> ../classic/minimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/minus.png -> ../classic/minus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/minus_all.png -> ../classic/minus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/minus_multiple.png -> ../classic/minus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/movie.png -> ../classic/movie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/music.png -> ../classic/music.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/next-sail.png -> ../classic/next-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/next.png -> ../classic/next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/no.png -> ../classic/no.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/no_book.png -> ../classic/no_book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/no_checkpoint.png -> ../classic/no_checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/no_sound.png -> ../classic/no_sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/north.png -> ../classic/north.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/notes.png -> ../classic/notes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/ok.png -> ../classic/ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/opengl.png -> ../classic/opengl.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/optimize.png -> ../classic/optimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/pacman.png -> ../classic/pacman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/pdf.png -> ../classic/pdf.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/pencils.png -> ../classic/pencils.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/plus.png -> ../classic/plus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/plus_all.png -> ../classic/plus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/plus_multiple.png -> ../classic/plus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/postscript.png -> ../classic/postscript.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/preview.png -> ../classic/preview.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/previous-sail.png -> ../classic/previous-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/previous.png -> ../classic/previous.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/process.png -> ../classic/process.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/process_multiple.png -> ../classic/process_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/project_mess.png -> ../classic/project_mess.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qchdman.ico -> ../classic/qchdman.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qchdman.png -> ../classic/qchdman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2-arcade-setup.png -> ../classic/qmc2-arcade-setup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2-arcade.ico -> ../classic/qmc2-arcade.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2-arcade.png -> ../classic/qmc2-arcade.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2_logo_big.png -> ../classic/qmc2_logo_big.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2_logo_small.png -> ../classic/qmc2_logo_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qmc2_mame_splash.png -> ../classic/qmc2_mame_splash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/qt-logo.png -> ../classic/qt-logo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rank.png -> ../classic/rank.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rank_bg.png -> ../classic/rank_bg.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rank_flat.png -> ../classic/rank_flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rebuild.png -> ../classic/rebuild.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rebuild_multiple.png -> ../classic/rebuild_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/redo.png -> ../classic/redo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/refresh.png -> ../classic/refresh.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/release.png -> ../classic/release.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/release_alternate.png -> ../classic/release_alternate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/reload.png -> ../classic/reload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/reload_small.png -> ../classic/reload_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/remove.png -> ../classic/remove.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/remove_from_favorites.png -> ../classic/remove_from_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rename.png -> ../classic/rename.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/reset.png -> ../classic/reset.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/right_action.png -> ../classic/right_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rom.png -> ../classic/rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rom_multiple.png -> ../classic/rom_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/romalyzer.png -> ../classic/romalyzer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/romalyzer_flipped.png -> ../classic/romalyzer_flipped.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/romalyzer_multiple.png -> ../classic/romalyzer_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/romalyzer_sw.png -> ../classic/romalyzer_sw.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/rompath.png -> ../classic/rompath.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/scan_manuals.png -> ../classic/scan_manuals.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/search.png -> ../classic/search.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/search_multiple.png -> ../classic/search_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/setup_database.png -> ../classic/setup_database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/sleep.png -> ../classic/sleep.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/slot.png -> ../classic/slot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/software_correct.png -> ../classic/software_correct.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/software_incorrect.png -> ../classic/software_incorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/software_mostlycorrect.png -> ../classic/software_mostlycorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/software_notfound.png -> ../classic/software_notfound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/software_unknown.png -> ../classic/software_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/sort.png -> ../classic/sort.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/sound.png -> ../classic/sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/south.png -> ../classic/south.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/speaker.png -> ../classic/speaker.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_blue.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_blue_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_blue_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_green.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_green_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_green_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_grey.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_grey_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_grey_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_red.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_red_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_red_device.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_yellowgreen.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_yellowgreen_bios.png
+-rw-rw-r--	root/root	usr/share/qmc2/img/cubes/sphere_yellowgreen_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/stop.png -> ../classic/stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/stop_browser.png -> ../classic/stop_browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/swap.png -> ../classic/swap.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tabwidget.png -> ../classic/tabwidget.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tag.png -> ../classic/tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tagged.png -> ../classic/tagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tagged_all.png -> ../classic/tagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tagged_visible.png -> ../classic/tagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/tape.png -> ../classic/tape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/terminate.png -> ../classic/terminate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/thumbnail.png -> ../classic/thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/time.png -> ../classic/time.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/toggle_fullscreen.png -> ../classic/toggle_fullscreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/toolbox.png -> ../classic/toolbox.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/trafficlight_green.png -> ../classic/trafficlight_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/trafficlight_off.png -> ../classic/trafficlight_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/trafficlight_red.png -> ../classic/trafficlight_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/trafficlight_yellow.png -> ../classic/trafficlight_yellow.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/undo.png -> ../classic/undo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/unknown.png -> ../classic/unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/unlock.png -> ../classic/unlock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/untagged.png -> ../classic/untagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/untagged_all.png -> ../classic/untagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/untagged_visible.png -> ../classic/untagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/up.png -> ../classic/up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/up_action.png -> ../classic/up_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/update.png -> ../classic/update.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/url.png -> ../classic/url.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/version.png -> ../classic/version.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/video_thumbnail.png -> ../classic/video_thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/view_detail.png -> ../classic/view_detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/view_tree.png -> ../classic/view_tree.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/viewmag+.png -> ../classic/viewmag+.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/viewmag-.png -> ../classic/viewmag-.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/viewmagfit.png -> ../classic/viewmagfit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/warning.png -> ../classic/warning.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/west.png -> ../classic/west.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/wikilogo.png -> ../classic/wikilogo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/wikipedia.png -> ../classic/wikipedia.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/wip.png -> ../classic/wip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/wizard.png -> ../classic/wizard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/work.png -> ../classic/work.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/world.png -> ../classic/world.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/yandex.png -> ../classic/yandex.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/yes.png -> ../classic/yes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/youtube.png -> ../classic/youtube.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/zip.png -> ../classic/zip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/zoom-in.png -> ../classic/zoom-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/zoom-none.png -> ../classic/zoom-none.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/cubes/zoom-out.png -> ../classic/zoom-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/database.png -> classic/database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/database_bad.png -> classic/database_bad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/database_good.png -> classic/database_good.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/detail.png -> classic/detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_cartridge.png -> classic/dev_cartridge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_cassette.png -> classic/dev_cassette.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_cdrom.png -> classic/dev_cdrom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_cylinder.png -> classic/dev_cylinder.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_floppydisk.png -> classic/dev_floppydisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_harddisk.png -> classic/dev_harddisk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_magtape.png -> classic/dev_magtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_memcard.png -> classic/dev_memcard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_parallel.png -> classic/dev_parallel.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_printer.png -> classic/dev_printer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_punchtape.png -> classic/dev_punchtape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_quickload.png -> classic/dev_quickload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_rom.png -> classic/dev_rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_serial.png -> classic/dev_serial.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dev_snapshot.png -> classic/dev_snapshot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dice.png -> classic/dice.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/disk.png -> classic/disk.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/disk2.png -> classic/disk2.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/dock.png -> classic/dock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/down.png -> classic/down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/down_action.png -> classic/down_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/download.png -> classic/download.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/duckduckgo.png -> classic/duckduckgo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/east.png -> classic/east.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/edit.png -> classic/edit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/editcopy.png -> classic/editcopy.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/editcopybad.png -> classic/editcopybad.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/editcut.png -> classic/editcut.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/editdelete.png -> classic/editdelete.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/editpaste.png -> classic/editpaste.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/edittrash.png -> classic/edittrash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/effect.png -> classic/effect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/embed.png -> classic/embed.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/embed_multiple.png -> classic/embed_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/embed_multiple_recordmovie.png -> classic/embed_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/embed_recordmovie.png -> classic/embed_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/enforce.png -> classic/enforce.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/exit.png -> classic/exit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/exit_small.png -> classic/exit_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/export_rom_status.png -> classic/export_rom_status.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/favorites.png -> classic/favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/favorites_multiple.png -> classic/favorites_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/fileclose.png -> classic/fileclose.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filefind.png -> classic/filefind.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filenew.png -> classic/filenew.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/fileopen.png -> classic/fileopen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/fileprint.png -> classic/fileprint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filesave.png -> classic/filesave.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filesaveas.png -> classic/filesaveas.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filesaveas_and_apply.png -> classic/filesaveas_and_apply.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filter.png -> classic/filter.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/filtered_view.png -> classic/filtered_view.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/find.png -> classic/find.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/find_negate.png -> classic/find_negate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/find_softlist.png -> classic/find_softlist.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/flat.png -> classic/flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/flat_filtered.png -> classic/flat_filtered.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/flip.png -> classic/flip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/folders-first.png -> classic/folders-first.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/folders-off.png -> classic/folders-off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/folders-on.png -> classic/folders-on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/fonts.png -> classic/fonts.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/forum.png -> classic/forum.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/forward.png -> classic/forward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/ghost.png -> classic/ghost.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/google.png -> classic/google.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/halt.png -> classic/halt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/hash.png -> classic/hash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/help.png -> classic/help.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/highlight.png -> classic/highlight.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/hint.png -> classic/hint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/hint_small.png -> classic/hint_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/home.png -> classic/home.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/homepage.png -> classic/homepage.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/html.png -> classic/html.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/icon.png -> classic/icon.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/info.png -> classic/info.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/inspect.png -> classic/inspect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/internet.png -> classic/internet.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/invert_tag.png -> classic/invert_tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/invert_tag_all.png -> classic/invert_tag_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/invert_tag_down.png -> classic/invert_tag_down.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/invert_tag_up.png -> classic/invert_tag_up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/invert_tag_visible.png -> classic/invert_tag_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/joystick.png -> classic/joystick.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/keyboard.png -> classic/keyboard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/kill.png -> classic/kill.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/launch.png -> classic/launch.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/launch_multiple.png -> classic/launch_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/launch_multiple_recordmovie.png -> classic/launch_multiple_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/launch_recordmovie.png -> classic/launch_recordmovie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/led_off.png -> classic/led_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/led_on.png -> classic/led_on.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/left_action.png -> classic/left_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/lifebelt.png -> classic/lifebelt.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/loadanim.gif -> classic/loadanim.gif
+lrwxrwxrwx	root/root	usr/share/qmc2/img/locale.png -> classic/locale.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/lock.png -> classic/lock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/mame.icns -> classic/mame.icns
+lrwxrwxrwx	root/root	usr/share/qmc2/img/mame.ico -> classic/mame.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/mame.png -> classic/mame.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/mantis.png -> classic/mantis.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/marquee.png -> classic/marquee.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/maximize.png -> classic/maximize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_back.png -> classic/media_back.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_fastbackward.png -> classic/media_fastbackward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_fastforward.png -> classic/media_fastforward.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_lower_volume.png -> classic/media_lower_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_next.png -> classic/media_next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_pause.png -> classic/media_pause.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_play.png -> classic/media_play.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_raise_volume.png -> classic/media_raise_volume.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/media_stop.png -> classic/media_stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/merge.png -> classic/merge.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/merge_nok.png -> classic/merge_nok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/merge_ok.png -> classic/merge_ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/merge_unknown.png -> classic/merge_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/midi-in.png -> classic/midi-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/midi-out.png -> classic/midi-out.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/minimize.png -> classic/minimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/minus.png -> classic/minus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/minus_all.png -> classic/minus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/minus_multiple.png -> classic/minus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/movie.png -> classic/movie.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/music.png -> classic/music.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/next-sail.png -> classic/next-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/next.png -> classic/next.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/no.png -> classic/no.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/no_book.png -> classic/no_book.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/no_checkpoint.png -> classic/no_checkpoint.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/no_sound.png -> classic/no_sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/north.png -> classic/north.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/notes.png -> classic/notes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/ok.png -> classic/ok.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/opengl.png -> classic/opengl.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/optimize.png -> classic/optimize.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/pacman.png -> classic/pacman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/pdf.png -> classic/pdf.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/pencils.png -> classic/pencils.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/plus.png -> classic/plus.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/plus_all.png -> classic/plus_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/plus_multiple.png -> classic/plus_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/postscript.png -> classic/postscript.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/preview.png -> classic/preview.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/previous-sail.png -> classic/previous-sail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/previous.png -> classic/previous.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/process.png -> classic/process.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/process_multiple.png -> classic/process_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/project_mess.png -> classic/project_mess.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qchdman.ico -> classic/qchdman.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qchdman.png -> classic/qchdman.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2-arcade-setup.png -> classic/qmc2-arcade-setup.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2-arcade.ico -> classic/qmc2-arcade.ico
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2-arcade.png -> classic/qmc2-arcade.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2_logo_big.png -> classic/qmc2_logo_big.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2_logo_small.png -> classic/qmc2_logo_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qmc2_mame_splash.png -> classic/qmc2_mame_splash.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/qt-logo.png -> classic/qt-logo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rank.png -> classic/rank.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rank_bg.png -> classic/rank_bg.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rank_flat.png -> classic/rank_flat.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rebuild.png -> classic/rebuild.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rebuild_multiple.png -> classic/rebuild_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/redo.png -> classic/redo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/refresh.png -> classic/refresh.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/release.png -> classic/release.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/release_alternate.png -> classic/release_alternate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/reload.png -> classic/reload.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/reload_small.png -> classic/reload_small.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/remove.png -> classic/remove.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/remove_from_favorites.png -> classic/remove_from_favorites.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rename.png -> classic/rename.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/reset.png -> classic/reset.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/right_action.png -> classic/right_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rom.png -> classic/rom.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rom_multiple.png -> classic/rom_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/romalyzer.png -> classic/romalyzer.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/romalyzer_flipped.png -> classic/romalyzer_flipped.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/romalyzer_multiple.png -> classic/romalyzer_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/romalyzer_sw.png -> classic/romalyzer_sw.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/rompath.png -> classic/rompath.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/scan_manuals.png -> classic/scan_manuals.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/search.png -> classic/search.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/search_multiple.png -> classic/search_multiple.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/setup_database.png -> classic/setup_database.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sleep.png -> classic/sleep.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/slot.png -> classic/slot.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/software_correct.png -> classic/software_correct.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/software_incorrect.png -> classic/software_incorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/software_mostlycorrect.png -> classic/software_mostlycorrect.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/software_notfound.png -> classic/software_notfound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/software_unknown.png -> classic/software_unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sort.png -> classic/sort.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sound.png -> classic/sound.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/south.png -> classic/south.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/speaker.png -> classic/speaker.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_blue.png -> classic/sphere_blue.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_blue_bios.png -> classic/sphere_blue_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_blue_device.png -> classic/sphere_blue_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_green.png -> classic/sphere_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_green_bios.png -> classic/sphere_green_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_green_device.png -> classic/sphere_green_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_grey.png -> classic/sphere_grey.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_grey_bios.png -> classic/sphere_grey_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_grey_device.png -> classic/sphere_grey_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_red.png -> classic/sphere_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_red_bios.png -> classic/sphere_red_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_red_device.png -> classic/sphere_red_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_yellowgreen.png -> classic/sphere_yellowgreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_yellowgreen_bios.png -> classic/sphere_yellowgreen_bios.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/sphere_yellowgreen_device.png -> classic/sphere_yellowgreen_device.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/stop.png -> classic/stop.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/stop_browser.png -> classic/stop_browser.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/swap.png -> classic/swap.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tabwidget.png -> classic/tabwidget.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tag.png -> classic/tag.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tagged.png -> classic/tagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tagged_all.png -> classic/tagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tagged_visible.png -> classic/tagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/tape.png -> classic/tape.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/terminate.png -> classic/terminate.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/thumbnail.png -> classic/thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/time.png -> classic/time.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/toggle_fullscreen.png -> classic/toggle_fullscreen.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/toolbox.png -> classic/toolbox.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/trafficlight_green.png -> classic/trafficlight_green.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/trafficlight_off.png -> classic/trafficlight_off.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/trafficlight_red.png -> classic/trafficlight_red.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/trafficlight_yellow.png -> classic/trafficlight_yellow.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/undo.png -> classic/undo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/unknown.png -> classic/unknown.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/unlock.png -> classic/unlock.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/untagged.png -> classic/untagged.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/untagged_all.png -> classic/untagged_all.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/untagged_visible.png -> classic/untagged_visible.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/up.png -> classic/up.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/up_action.png -> classic/up_action.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/update.png -> classic/update.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/url.png -> classic/url.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/version.png -> classic/version.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/video_thumbnail.png -> classic/video_thumbnail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/view_detail.png -> classic/view_detail.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/view_tree.png -> classic/view_tree.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/viewmag+.png -> classic/viewmag+.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/viewmag-.png -> classic/viewmag-.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/viewmagfit.png -> classic/viewmagfit.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/warning.png -> classic/warning.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/west.png -> classic/west.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/wikilogo.png -> classic/wikilogo.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/wikipedia.png -> classic/wikipedia.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/wip.png -> classic/wip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/wizard.png -> classic/wizard.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/work.png -> classic/work.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/world.png -> classic/world.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/yandex.png -> classic/yandex.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/yes.png -> classic/yes.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/youtube.png -> classic/youtube.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/zip.png -> classic/zip.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/zoom-in.png -> classic/zoom-in.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/zoom-none.png -> classic/zoom-none.png
+lrwxrwxrwx	root/root	usr/share/qmc2/img/zoom-out.png -> classic/zoom-out.png
+drwxrwxr-x	root/root	usr/share/qmc2/js/
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/LICENSE
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/README.pdfjs
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/build/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/build/pdf.js
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/build/pdf.worker.js
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78ms-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/78ms-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/83pv-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90ms-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90ms-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90msp-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90msp-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90pv-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/90pv-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Add-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Add-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Add-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Add-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-0.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-1.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-3.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-4.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-5.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-6.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-CNS1-UCS2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-0.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-1.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-3.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-4.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-5.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-GB1-UCS2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-0.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-1.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-3.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-4.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-5.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-6.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Japan1-UCS2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Korea1-0.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Korea1-1.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Korea1-2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Adobe-Korea1-UCS2.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/B5pc-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/B5pc-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS1-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS1-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS2-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/CNS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETHK-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETHK-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETen-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETen-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETenms-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/ETenms-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Ext-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Ext-RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Ext-RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Ext-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GB-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GB-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GB-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GB-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBK-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBK-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBK2K-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBK2K-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBKp-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBKp-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBT-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBT-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBT-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBT-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBTpc-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBTpc-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBpc-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/GBpc-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKdla-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKdla-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKdlb-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKdlb-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKgccs-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKgccs-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKm314-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKm314-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKm471-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKm471-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKscs-B5-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/HKscs-B5-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Hankaku.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Hiragana.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-Johab-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-Johab-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCms-UHC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCms-UHC-HW-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCms-UHC-HW-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCms-UHC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCpc-EUC-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/KSCpc-EUC-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Katakana.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/LICENSE
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/NWP-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/NWP-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/RKSJ-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/RKSJ-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/Roman.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UCS2-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UCS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF16-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF16-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF8-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniCNS-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UCS2-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UCS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF16-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF16-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF8-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniGB-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UCS2-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UCS2-HW-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UCS2-HW-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UCS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF16-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF16-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF8-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF16-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF16-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF8-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJIS2004-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISPro-UCS2-HW-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISPro-UCS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISPro-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISX0213-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISX0213-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISX02132004-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniJISX02132004-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UCS2-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UCS2-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF16-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF16-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF32-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF32-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF8-H.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/UniKS-UTF8-V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/V.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/cmaps/WP-Symbol.bcmap
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/compatibility.js
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/debugger.js
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/images/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-check.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-comment.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-help.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-insert.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-key.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-newparagraph.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-noicon.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-note.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/annotation-paragraph.svg
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-next-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-next-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-next.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-next@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-previous-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-previous-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-previous.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/findbarButton-previous@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/grab.cur
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/grabbing.cur
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/loading-icon.gif
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/loading-small.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/loading-small@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-documentProperties.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-documentProperties@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-firstPage.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-firstPage@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-handTool.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-handTool@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-lastPage.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-lastPage@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-rotateCcw.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-rotateCcw@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-rotateCw.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/secondaryToolbarButton-rotateCw@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/shadow.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/texture.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-bookmark.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-bookmark@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-download.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-download@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-menuArrows.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-menuArrows@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-openFile.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-openFile@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageDown-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageDown-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageDown.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageDown@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageUp-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageUp-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageUp.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-pageUp@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-presentationMode.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-presentationMode@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-print.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-print@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-search.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-search@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-secondaryToolbarToggle@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-sidebarToggle-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-sidebarToggle-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-sidebarToggle.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-sidebarToggle@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewAttachments.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewAttachments@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewOutline-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewOutline-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewOutline.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewOutline@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewThumbnail.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-viewThumbnail@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-zoomIn.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-zoomIn@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-zoomOut.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/toolbarButton-zoomOut@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-collapsed-rtl.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-collapsed-rtl@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-collapsed.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-collapsed@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-expanded.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/images/treeitem-expanded@2x.png
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/l10n.js
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ach/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ach/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/af/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/af/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ak/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ak/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/an/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/an/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ar/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ar/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/as/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/as/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ast/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ast/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/az/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/az/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/be/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/be/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/bg/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/bg/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/bn-BD/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/bn-BD/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/bn-IN/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/bn-IN/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/br/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/br/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/bs/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/bs/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ca/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ca/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/cs/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/cs/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/csb/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/csb/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/cy/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/cy/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/da/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/da/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/de/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/de/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/el/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/el/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-GB/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-GB/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-US/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-US/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-ZA/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/en-ZA/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/eo/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/eo/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-AR/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-AR/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-CL/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-CL/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-ES/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-ES/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-MX/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/es-MX/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/et/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/et/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/eu/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/eu/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/fa/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/fa/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ff/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ff/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/fi/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/fi/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/fr/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/fr/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/fy-NL/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/fy-NL/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ga-IE/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ga-IE/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/gd/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/gd/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/gl/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/gl/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/gu-IN/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/gu-IN/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/he/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/he/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/hi-IN/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/hi-IN/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/hr/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/hr/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/hu/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/hu/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/hy-AM/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/hy-AM/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/id/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/id/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/is/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/is/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/it/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/it/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ja/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ja/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ka/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ka/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/kk/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/kk/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/km/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/km/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/kn/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/kn/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ko/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ko/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ku/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ku/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/lg/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/lg/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/lij/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/lij/viewer.properties
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/locale.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/lt/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/lt/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/lv/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/lv/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/mai/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/mai/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/mk/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/mk/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ml/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ml/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/mn/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/mn/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/mr/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/mr/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ms/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ms/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/my/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/my/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/nb-NO/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/nb-NO/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/nl/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/nl/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/nn-NO/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/nn-NO/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/nso/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/nso/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/oc/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/oc/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/or/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/or/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/pa-IN/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/pa-IN/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/pl/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/pl/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/pt-BR/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/pt-BR/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/pt-PT/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/pt-PT/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/rm/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/rm/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ro/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ro/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ru/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ru/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/rw/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/rw/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sah/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sah/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/si/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/si/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sk/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sk/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sl/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sl/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/son/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/son/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sq/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sq/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sr/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sr/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sv-SE/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sv-SE/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/sw/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/sw/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ta-LK/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ta-LK/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ta/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ta/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/te/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/te/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/th/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/th/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/tl/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/tl/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/tn/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/tn/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/tr/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/tr/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/uk/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/uk/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/ur/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/ur/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/vi/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/vi/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/wo/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/wo/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/xh/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/xh/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/zh-CN/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/zh-CN/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/zh-TW/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/zh-TW/viewer.properties
+drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/web/locale/zu/
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/locale/zu/viewer.properties
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/viewer.css
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/viewer.html
+-rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/web/viewer.js
+drwxrwxr-x	root/root	usr/share/qmc2/man/
+-rw-rw-r--	root/root	usr/share/qmc2/man/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/mrq/
+-rw-rw-r--	root/root	usr/share/qmc2/mrq/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/opt/
+drwxrwxr-x	root/root	usr/share/qmc2/opt/MAME/
+-rw-rw-r--	root/root	usr/share/qmc2/opt/MAME/template.xml
+drwxrwxr-x	root/root	usr/share/qmc2/opt/SDLMAME/
+-rw-rw-r--	root/root	usr/share/qmc2/opt/SDLMAME/template-SDL2.xml
+drwxrwxr-x	root/root	usr/share/qmc2/pcb/
+-rw-rw-r--	root/root	usr/share/qmc2/pcb/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/prv/
+-rw-rw-r--	root/root	usr/share/qmc2/prv/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/swn/
+-rw-rw-r--	root/root	usr/share/qmc2/swn/Shideravan Software Template.html
+-rw-rw-r--	root/root	usr/share/qmc2/swn/dirinfo.txt
+-rw-rw-r--	root/root	usr/share/qmc2/swn/template.html
+drwxrwxr-x	root/root	usr/share/qmc2/sws/
+-rw-rw-r--	root/root	usr/share/qmc2/sws/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/ttl/
+-rw-rw-r--	root/root	usr/share/qmc2/ttl/dirinfo.txt
+drwxrwxr-x	root/root	usr/share/qmc2/vdo/
+-rw-rw-r--	root/root	usr/share/qmc2/vdo/dirinfo.txt

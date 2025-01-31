@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgLjp1XVN1ZMrou/PKzX1trzhAnT/l1d7xXnhrFXnyuRXcYqxhbOQDVXoZgexUZEFFrI2oaNFDknlB75lbWGPLAo=
+SHA256 (Pkgfile) = a6771816883ebe845ee233955420bef24cabda3b7eb6187809d6f7626ebb028c
+SHA256 (.footprint) = 5553db5ef6289efe5a5b35f28e82e4d75f54b13cbd2cd45ea0a8428f54f3c4fd
+SHA256 (qmc2-mame-fe-0.243.tar.gz) = 0608a4e08bc451ae01856b85525f1dc767e01eb823e7e294c772876971e7609b
+SHA256 (webengine.patch) = cd72449743a25fd759bb65d205dd2fd3ba0aaeab618efdae80dddc903e8148dd

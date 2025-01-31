@@ -1,0 +1,18 @@
+# Description: M.A.M.E. Catalog / Launcher II - also referred to as QMC2
+# URL: https://github.com/qmc2/qmc2-mame-fe
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: qtwebengine 
+
+name=qmc2-mame-fe
+version=0.243
+release=1
+source=(https://github.com/qmc2/${name}/archive/v${version}/${name}-${version}.tar.gz
+  webengine.patch)
+
+build() {
+  cd $name-$version
+  patch -p1 -i $SRC/webengine.patch  
+  make PREFIX=/usr DATADIR=/usr/share SYSCONFDIR=/etc QTDIR=/usr QMAKE=qmake-qt5 SYSTEM_MINIZIP=0 SYSTEM_ZLIB=1
+  make PREFIX=/usr DATADIR=/usr/share SYSCONFDIR=/etc QTDIR=/usr QMAKE=qmake-qt5 DESTDIR=$PKG install
+  install -Dm644 data/img/mame.png -t $PKG/usr/share/pixmaps
+}
