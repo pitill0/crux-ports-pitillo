@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgMFu6g4ccHe9aZoLaoWPvgTRsJ3vHLjkP9g/7hqSeEmz1Rgj4KN00jTfL8Md5gZKfkREIDqEH962JjibDeFEyA8=
+SHA256 (Pkgfile) = 06f4bd6b9ba583beb00c98056dbb50345957d04198b28b4a12ac7f4c0c74af31
+SHA256 (.footprint) = a80111f51ac55e1ef55f5ae64ccd5821471ef3ee92da975002d386e0c2f2f9b0
+SHA256 (lua-5.4.7.tar.gz) = 9fbf5e28ef86c69858f6d3d34eccc32e911c1a28b4120ff3e84aaa70cfbf1e30
+SHA256 (liblua.so.patch) = a8a7f89ab0c03b4bc1d58a935c54df792ad628edb4d1788c5ac66e4fc2d9f800
+SHA256 (lua.pc) = ca9252633e782b8f85d6a94ea4f6babd4fe30bd759085b373160b1878e36ff78
