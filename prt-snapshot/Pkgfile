@@ -1,0 +1,16 @@
+# Description: Make status snapshots of installed packages and manage them with prt-get
+# URL: https://github.com/pitill0/prt-snapshot
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=prt-snapshot
+version=1.0
+release=1
+source=(https://github.com/pitill0/prt-snapshot/releases/download/${version}/${name}-v${version}.tar.xz)
+
+build() {
+  cd $name-v$version
+  install -d $PKG/var/lib/pkg/snapshots
+  install -d $PKG/usr/bin
+  install -m 755 $name $PKG/usr/bin
+}
