@@ -1,0 +1,8 @@
+#
+# /etc/ports/pitillo.httpup: pitill's CRUX ports
+#
+
+ROOT_DIR=/usr/ports/pitillo
+URL=https://raw.githubusercontent.com/pitill0/crux-ports-pitillo/3.8/
+
+# End of file
