@@ -1,6 +1,6 @@
 README.md
 \.git*
-^core\-arm\.httpup
+^pitillo\.httpup
 *~
 \.*~
 *work
