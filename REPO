@@ -1,6 +1,7 @@
 d:mame
 d:ircd
 d:jnettop
+d:genimage
 d:sdl_sound
 d:farsight2-git
 d:tcedemo2avi
@@ -77,6 +78,9 @@ f:457a6b035044efc9f294e4e2b0d99746:ircd/Pkgfile
 f:31a941589d5fa7fe8c9661b2e0968682:jnettop/.md5sum
 f:768476460d5a140482cfcede6e99dc39:jnettop/.footprint
 f:291f71d65c9e6b68d4a263a68218c806:jnettop/Pkgfile
+f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
+f:aec8e93b2b30e378f2500b94595e038f:genimage/Pkgfile
+f:cda49364b04fdae78f081d295497b20b:genimage/.signature
 f:a4527dd1adef756c43f3b5c95b7dae62:sdl_sound/.md5sum
 f:fd90bd331906452756d06457f2252207:sdl_sound/.footprint
 f:fbb13bb0f79c48e0546de13459550b99:sdl_sound/Pkgfile
