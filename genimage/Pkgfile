@@ -1,7 +1,7 @@
 # Description: tool to generate multiple filesystem and flash/disk images from a given root filesystem tree
 # URL: https://github.com/pengutronix/genimage
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: libconfuse
+# Depends on: confuse
 
 name=genimage
 version=19
