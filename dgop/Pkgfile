@@ -1,7 +1,7 @@
 # Description: System monitoring tool with CLI and REST API.
 # URL: https://github.com/AvengeMedia/dgop 
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: 
+# Depends on: go 
 
 name=dgop
 version=0.0.9
