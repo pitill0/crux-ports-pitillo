@@ -6,7 +6,7 @@
 name=btop
 version=1.4.4
 release=1
-source=(https://github.com/aristocratos/${name}/archive/refs/tags/v${version}.tar.gz)
+source=(https://github.com/aristocratos/${name}/archive/v${version}/${name}-${version}.tar.gz)
 
 build() {
   cd $name-$version

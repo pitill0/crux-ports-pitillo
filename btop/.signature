@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgEJswps+MohPgKOLQO482DISjXzP0TTUt7xgvM43QngyckcqMg/RHjkEV9E9GGxMWcjOIHo4V0nMah8t3hUNvQA=
-SHA256 (Pkgfile) = 6e8cd03910150c43c6caa33ff5e470d5895bdf2a5da8eeb812b1feb601cdf7f0
+RWQpLSJPEvsFgDPqh8Qox04OY6U6lD+67uzK9wrmZAF2030afu67m+p6ppZXCaKdTzC9gI9BEPhXzx6/BR5JWoxdZr8tGDZ/XAo=
+SHA256 (Pkgfile) = ceb43d7a12ecb83ee3fc9c8c105642e252580a2d815188f0508a55b5c2576188
 SHA256 (.footprint) = 2c02c3bef1e00a7b62afe52debffc0f9808b1cbf82dc6db4990b82db8f5b575b
-SHA256 (v1.4.4.tar.gz) = 98d464041015c888c7b48de14ece5ebc6e410bc00ca7bb7c5a8010fe781f1dd8
+SHA256 (btop-1.4.4.tar.gz) = 98d464041015c888c7b48de14ece5ebc6e410bc00ca7bb7c5a8010fe781f1dd8
