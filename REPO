@@ -32,6 +32,7 @@ d:voipong
 d:sdl_sound
 d:xcdroast
 d:pidgin-xfire
+d:dgop
 d:xdg-utils
 d:aop
 d:leafpad
@@ -184,6 +185,9 @@ f:687570647d76996f2fd9e0d4174f26c5:pidgin-xfire/pidgin-xfire-0.9.4-gettex.patch
 f:910c7483c5fee8257af82478becef245:pidgin-xfire/.md5sum
 f:ba9ab8eeb5feb604a2d402adedfa9602:pidgin-xfire/.footprint
 f:92cb1cef1a6883262a0d059e1aaa8c27:pidgin-xfire/Pkgfile
+f:1696a6becf4ce3fbc86ba1a1f46cbf30:dgop/.signature
+f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
+f:2b566fd554b0425e94990c9f89f249fa:dgop/Pkgfile
 f:62af58f08c0a76e3ef59c40492d6364e:xdg-utils/.md5sum
 f:792cc1080079d365a6c2939dbdc36015:xdg-utils/.footprint
 f:be893d3a8d1007f468abdb30e830b141:xdg-utils/Pkgfile
