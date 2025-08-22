@@ -1,0 +1,16 @@
+# Description: System monitoring tool with CLI and REST API.
+# URL: https://github.com/AvengeMedia/dgop 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: 
+
+name=dgop
+version=0.0.9
+release=1
+source=(https://github.com/AvengeMedia/dgop/archive/v${version}/$name-v$version.tar.gz.tar.gz)
+
+build() {
+  cd $name-$version
+  make
+  install -d $PKG/usr/bin
+  make PREFIX=/usr INSTALL_DIR=$PKG/usr/bin/ install
+}
