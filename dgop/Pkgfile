@@ -4,7 +4,7 @@
 # Depends on: go 
 
 name=dgop
-version=0.0.9
+version=0.1.1
 release=1
 source=(https://github.com/AvengeMedia/dgop/archive/v${version}/$name-v$version.tar.gz.tar.gz)
 
