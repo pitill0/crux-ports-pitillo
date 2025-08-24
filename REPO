@@ -186,9 +186,9 @@ f:687570647d76996f2fd9e0d4174f26c5:pidgin-xfire/pidgin-xfire-0.9.4-gettex.patch
 f:910c7483c5fee8257af82478becef245:pidgin-xfire/.md5sum
 f:ba9ab8eeb5feb604a2d402adedfa9602:pidgin-xfire/.footprint
 f:92cb1cef1a6883262a0d059e1aaa8c27:pidgin-xfire/Pkgfile
-f:76b7a0a675571b579cd50082eb8f92c3:dgop/.signature
+f:346d2e0620b32225b10c68505cb29a6e:dgop/.signature
 f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
-f:fe641c8824012b7c6696d8dab91ca156:dgop/Pkgfile
+f:c6fe6c56fe39db9de4cdf14cb07cef67:dgop/Pkgfile
 f:62af58f08c0a76e3ef59c40492d6364e:xdg-utils/.md5sum
 f:792cc1080079d365a6c2939dbdc36015:xdg-utils/.footprint
 f:be893d3a8d1007f468abdb30e830b141:xdg-utils/Pkgfile
