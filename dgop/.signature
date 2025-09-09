@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgN6JN+r8bCctIuDfJTq4tXWbie92PgupGSDZgBUlgi6S/maJo9hrd3xRe+/3o4zntstKidJj8IzwMbAzj5hU4gU=
-SHA256 (Pkgfile) = 20b6be0121f316967b9b03ea5b500d0ea884d82a0a38e1db59333cfd9a51db91
+RWQpLSJPEvsFgDBEeQ4xftxq4+8tLK/Q4Sy197AiXmIp78JIPHj6uKbQnzzolVLdHHRWP9gx3loYIu3D2nREqmTCt96Woi7UDgU=
+SHA256 (Pkgfile) = 862ca7867b58209c66f9c708a1008c1629c6db5296d68f48dbc2644ab435427f
 SHA256 (.footprint) = f07c477387a50fffa8966545931b4bfdb2a3fcb0e8e1136dc1d98bf10493ee0c
-SHA256 (dgop-v0.1.1.tar.gz.tar.gz) = 2fbef609ca1f56878eace3c96d0e70cbc23a7beee102fe01c2c4a9270f95591e
+SHA256 (dgop-v0.1.2.tar.gz.tar.gz) = 15a85775b98adc00751943f274b58fc12088bbc0013565b6dbf5c6d7eb48c1cf
