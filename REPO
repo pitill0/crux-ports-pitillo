@@ -11,7 +11,6 @@ d:hostap-utils
 d:gxmame
 d:prt-snapshot
 d:ircd
-d:p5-xml-simple
 d:sdl_sound
 d:dgop
 d:orbit2
@@ -22,10 +21,8 @@ d:aop
 d:tcedemo2avi
 d:leafpad
 d:libnice-git
-d:sdl_image
 d:cscope
 d:blockrage
-d:sdl_mixer
 d:libexosip2
 d:quilt
 d:minidlna
@@ -34,8 +31,6 @@ d:gconf
 d:mame
 d:pidgin-xfire
 d:wrt54g-debrick-util
-d:libnice
-d:gtk-doc
 d:genimage
 d:djmount
 d:p5-apachedbi
@@ -55,7 +50,6 @@ d:glc
 d:libosip2
 d:mog
 d:devio
-d:portaudio
 d:glpng
 d:xinput_calibrator
 d:linphone
@@ -63,7 +57,6 @@ d:jnettop
 d:btop
 d:voipong
 d:packetstream
-d:xdg-utils
 d:elfhacks
 d:x11vnc
 d:openocd
@@ -108,9 +101,6 @@ f:956098da758813ec2c4db29088c984ac:ircd/ircd
 f:6fdaa34a86f302bea8dab6a969eed663:ircd/.md5sum
 f:d2cfe766f43935ceffc4524cd922e95b:ircd/.footprint
 f:457a6b035044efc9f294e4e2b0d99746:ircd/Pkgfile
-f:5f0457110bdecb50a76d24a2460d74de:p5-xml-simple/.md5sum
-f:f214a08379c1e545c32f6f2530d67115:p5-xml-simple/.footprint
-f:cc04cffd419a4a13b8e134386222a785:p5-xml-simple/Pkgfile
 f:a4527dd1adef756c43f3b5c95b7dae62:sdl_sound/.md5sum
 f:fd90bd331906452756d06457f2252207:sdl_sound/.footprint
 f:fbb13bb0f79c48e0546de13459550b99:sdl_sound/Pkgfile
@@ -148,18 +138,12 @@ f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:d41d8cd98f00b204e9800998ecf8427e:libnice-git/.md5sum
 f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:a154fd5cffb964937e3215bd3cf44552:libnice-git/Pkgfile
-f:4782dc48bf3b5722e96086127cd51303:sdl_image/.md5sum
-f:9410da4567e7f3a53b4db884e72ca0e7:sdl_image/.footprint
-f:74e81334abeb59f04ce6f8a01b8d3f44:sdl_image/Pkgfile
 f:60f4c232f2a4281d1f6f5442e32459a0:cscope/.md5sum
 f:a5e072905cf190f7b3c028700229f22f:cscope/.footprint
 f:77493fd4d2542e8b3213988c4a48ac14:cscope/Pkgfile
 f:8e39bf8ddb17fe33283f4005e051a66f:blockrage/.md5sum
 f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
 f:59e6e278090bb1c28befca330a58d55e:blockrage/Pkgfile
-f:ca3e2c9278171cee209b1b800245b309:sdl_mixer/.md5sum
-f:58ef00cae1e6f7cd41804b4c7afbce7f:sdl_mixer/.footprint
-f:ebdbe66fef6f6d00040d5f936016b0d3:sdl_mixer/Pkgfile
 f:5c38b26570af8534e68c932d3d67c5e6:libexosip2/.md5sum
 f:65986ffe24d77581c059f04b0c9fbf76:libexosip2/.footprint
 f:3ec01d08bc8dbcc2e0866b212734db0d:libexosip2/Pkgfile
@@ -183,12 +167,6 @@ f:92cb1cef1a6883262a0d059e1aaa8c27:pidgin-xfire/Pkgfile
 f:8947cdaa7757bdd273532841fb707eaa:wrt54g-debrick-util/.md5sum
 f:f8eafdb13be31b2eaff54e2fa2ae5bf5:wrt54g-debrick-util/.footprint
 f:687f68301467ae94db7e5600abd59c07:wrt54g-debrick-util/Pkgfile
-f:174b644761637ecc69e5f6e0c725d9f6:libnice/.md5sum
-f:5f82d0c040dbbfb4fd4e4651498d552b:libnice/.footprint
-f:5c2218e3b9d136ca7f8e16a369748346:libnice/Pkgfile
-f:69cb54a84cc53d49d7bf8c3b05c3dd65:gtk-doc/.md5sum
-f:6f492f7f4ff2187717ca9e1809f2aa4b:gtk-doc/.footprint
-f:d5353e338c746253685ce84febbfaeb3:gtk-doc/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
 f:47aae1c26aa797df324209a9bec6f7d5:genimage/Pkgfile
 f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
@@ -248,9 +226,6 @@ f:c68c654cacaee6e36f46c497e261e3f1:mog/Pkgfile
 f:a0af654e264959cc4300217d9a3ad2dc:devio/.md5sum
 f:9ef1a1cea756a680ac07fa30e40ac30f:devio/.footprint
 f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
-f:be27ea61bc73368aa6557e176f89a0cc:portaudio/.md5sum
-f:fb8d6b04917fb5d37bc2bc91713165f4:portaudio/.footprint
-f:047ba84670392f55afcc2b21933b8650:portaudio/Pkgfile
 f:d41d8cd98f00b204e9800998ecf8427e:glpng/.md5sum
 f:69665fd79260ab6aea928ba75c41c5f1:glpng/.footprint
 f:d9e94c525bf303806147012d01852524:glpng/Pkgfile
@@ -272,9 +247,6 @@ f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:f66f3ede9cf2d55dcbc2f4e91352317b:packetstream/.md5sum
 f:445e999b83a0f35d6794b50210c87827:packetstream/.footprint
 f:cf84a3f5480c8bff68f7d0409a8065a5:packetstream/Pkgfile
-f:62af58f08c0a76e3ef59c40492d6364e:xdg-utils/.md5sum
-f:792cc1080079d365a6c2939dbdc36015:xdg-utils/.footprint
-f:be893d3a8d1007f468abdb30e830b141:xdg-utils/Pkgfile
 f:f8413bbd0351a20025c1724b26cdbdc9:elfhacks/.md5sum
 f:71483583da34ff68026747a3cf28dee0:elfhacks/.footprint
 f:a69596d9358eb8646416ef8f7a6485f6:elfhacks/Pkgfile
