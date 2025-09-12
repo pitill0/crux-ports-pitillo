@@ -6,7 +6,6 @@ d:pd
 d:p5-mysql
 d:ctorrent
 d:gxmessage
-d:lua
 d:fcheck
 d:hostap-utils
 d:gxmame
@@ -18,7 +17,6 @@ d:dgop
 d:orbit2
 d:texi2html
 d:gtkdialog
-d:docbook-xml
 d:ascii
 d:aop
 d:tcedemo2avi
@@ -45,7 +43,6 @@ d:qmc2-mame-fe
 d:sdlmame
 d:farsight2
 d:cython
-d:docbook-xsl
 d:zaz
 d:siege
 d:nbd
@@ -67,7 +64,6 @@ d:btop
 d:voipong
 d:packetstream
 d:xdg-utils
-d:chrpath
 d:elfhacks
 d:x11vnc
 d:openocd
@@ -96,11 +92,6 @@ f:526a882bc68cc148ed146429dfbeae89:ctorrent/Pkgfile
 f:19df661b260866620e443f59db887558:gxmessage/.md5sum
 f:959a7573c59459a1a31d8662ef52775b:gxmessage/.footprint
 f:83ece1eea20028ff3d5850a906c4da53:gxmessage/Pkgfile
-f:86e27ae24436a3b0a5a1bb92da48baf5:lua/.footprint
-f:11bf137f084ead58422fdd2571b821c4:lua/liblua.so.patch
-f:9e00c4d5663cff673b7df8ca65087e9e:lua/Pkgfile
-f:e81e2b1d80de911e8f989adad2202083:lua/.signature
-f:e7ba6c2b695b0b84a5ea0cbff5fc9067:lua/lua.pc
 f:6e3b5e87d8f4b52b099ccb6cfaf92631:fcheck/.md5sum
 f:454759bf4b784c080c747cd0aa467dfd:fcheck/.footprint
 f:e9df3ff37a599b93da8874e19f9d832c:fcheck/Pkgfile
@@ -137,10 +128,6 @@ f:de04091483b0e58f6269b69ad9b189f2:gtkdialog/.md5sum
 f:9a8f4172b35af38d8f0b3b1c44daabf8:gtkdialog/.footprint
 f:179a726ef453b561b669e8f7b4054ea5:gtkdialog/README
 f:5b43daaf0390ed9a16bc5fd31d12bfd2:gtkdialog/Pkgfile
-f:66d45d9fee843a9685db59d6a008b313:docbook-xml/post-install
-f:3f725f2687bf1683f8b0c6842f370a1a:docbook-xml/.md5sum
-f:d437e40507527321d7d331a7417b16d4:docbook-xml/.footprint
-f:a67585552ed7cf3b2dbe6178d1e0bb0a:docbook-xml/Pkgfile
 f:79e11f2ae2f54cf0cdb377ab8c2822a1:ascii/.footprint
 f:ad43fe6a01aabd982e8e9cc00cd50d9f:ascii/Pkgfile
 f:1365a0ff95bf233098afce55cab927a5:ascii/.signature
@@ -225,10 +212,6 @@ f:71f8d02a4acb6d518889138c6f476372:farsight2/Pkgfile
 f:efc3c48304fc637fcd55505cdb677342:cython/.md5sum
 f:d4a326b2a886ce0177b93d5d895d9e06:cython/.footprint
 f:dd5bdb4086e774b726a547fc039ac404:cython/Pkgfile
-f:794cab1929c0e125fe48871141f84662:docbook-xsl/post-install
-f:69d6130b25b417553ccaff9ccc7ab7f6:docbook-xsl/.md5sum
-f:e6d7e6828fa3c8a23b87fbb71a2c4456:docbook-xsl/.footprint
-f:f6f1363c68fa4e7b0e1da2e70ac1d594:docbook-xsl/Pkgfile
 f:cb58d1db92cb3d4da3349d5e415b9405:zaz/.md5sum
 f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
 f:87ccff3bf3e8ad0f52f33f9c89e03c77:zaz/Pkgfile
@@ -292,9 +275,6 @@ f:cf84a3f5480c8bff68f7d0409a8065a5:packetstream/Pkgfile
 f:62af58f08c0a76e3ef59c40492d6364e:xdg-utils/.md5sum
 f:792cc1080079d365a6c2939dbdc36015:xdg-utils/.footprint
 f:be893d3a8d1007f468abdb30e830b141:xdg-utils/Pkgfile
-f:691ffda8a1a2960cd92da75086753be1:chrpath/.footprint
-f:f19c4169ad677b9ae3a23ddf60ec9ace:chrpath/Pkgfile
-f:738e899e0497c3fde3836bf149a3c572:chrpath/.signature
 f:f8413bbd0351a20025c1724b26cdbdc9:elfhacks/.md5sum
 f:71483583da34ff68026747a3cf28dee0:elfhacks/.footprint
 f:a69596d9358eb8646416ef8f7a6485f6:elfhacks/Pkgfile
