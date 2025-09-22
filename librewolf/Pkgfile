@@ -1,0 +1,59 @@
+# Description: Custom and independent version of Firefox
+# URL: https://codeberg.org/librewolf/ 
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: alsa-lib brotli graphite2 gtk3 nss xorg-libxcomposite xorg-libxcursor xorg-libxinerama
+
+
+name=librewolf
+version=143.0
+release=1
+source=(https://gitlab.com/api/v4/projects/32320088/packages/generic/${name}-source/${version}-1/${name}-${version}-1.source.tar.gz
+  ${name}.desktop)
+
+build() {
+OPTIONS="\
+  --with-app-name=${name} \
+  --with-branding=browser/branding/${name} \
+  --prefix=/usr \
+  --libdir=/usr/lib \
+  --with-system-zlib \
+  --with-unsigned-addon-scopes=app,system \
+  --without-system-nss \
+  --without-system-nspr \
+  --without-wasm-sandboxed-libraries \
+  --allow-addon-sideload \
+  --enable-alsa \
+  --enable-application=browser \
+  --enable-optimize \
+  --enable-pulseaudio \
+  --enable-release \
+  --disable-bootstrap \
+  --disable-default-browser-agent \
+  --disable-strip \
+  --disable-install-strip \
+  --disable-tests \
+  --enable-cpp-rtti \
+  --enable-accessibility \
+  --disable-crashreporter \
+  --disable-debug-symbols \
+  --disable-debug \
+  --disable-elf-hack \
+  --disable-updater"
+
+  cd ${name}-${version}-1
+  rm mozconfig
+  for option in $OPTIONS; do echo "ac_add_options $option" >> .mozconfig; done
+  ./mach build
+  DESTDIR=$PKG ./mach install
+
+  for i in 16 32 48 64 128; do
+    install -Dm644 browser/branding/${name}/default$i.png \
+      "$PKG/usr/share/icons/hicolor/${i}x${i}/apps/${name}.png"
+  done
+
+  install -Dm644 browser/branding/${name}/default16.png \
+    "$PKG/usr/share/icons/hicolor/symbolic/apps/${name}-symbolic.png"
+
+  install -Dm644 $SRC/${name}.desktop \
+    "$PKG/usr/share/applications/${name}.desktop"
+}
