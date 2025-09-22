@@ -1,0 +1,16 @@
+# Description: CS50's own internal library used in many of its tools 
+# URL: https://pypi.org/project/lib50/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on:
+
+name=python3-lib50
+version=3.1.4
+release=1
+source=(https://pypi.org/packages/source/l/lib50/lib50-$version.tar.gz)
+
+build() {
+  cd lib50-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}
