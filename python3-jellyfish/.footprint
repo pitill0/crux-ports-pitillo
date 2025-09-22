@@ -1,0 +1,21 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/python3.12/
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/METADATA
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/RECORD
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/WHEEL
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/licenses/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish-1.2.0.dist-info/licenses/LICENSE
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/jellyfish/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__init__.py
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__init__.pyi
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/jellyfish/__pycache__/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__pycache__/__init__.cpython-312.opt-1.pyc
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__pycache__/__init__.cpython-312.pyc
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__pycache__/_jellyfish.cpython-312.opt-1.pyc
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/__pycache__/_jellyfish.cpython-312.pyc
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/_jellyfish.py
+-rwxr-xr-x	root/root	usr/lib/python3.12/site-packages/jellyfish/_rustyfish.cpython-312-x86_64-linux-gnu.so
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/jellyfish/py.typed (EMPTY)
