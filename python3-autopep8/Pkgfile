@@ -1,0 +1,16 @@
+# Description: automatically formats Python code to conform to the PEP 8 style guide
+# URL: https://pypi.org/project/autopep8/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3-wheel
+
+name=python3-autopep8
+version=2.3.2
+release=1
+source=(https://pypi.org/packages/source/a/autopep8/autopep8-$version.tar.gz)
+
+build() {
+  cd autopep8-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}

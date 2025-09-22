@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgMmdDw6uIUSu9uj0qhF0ReZvwwoPg/V0bZZoVBnNY8O9dH2RVJARpq5nnfKppJZPtvYY63W0SRc0ADY7XDJqkgM=
+SHA256 (Pkgfile) = b16233a798a8f73a3315ef0db2b37c3e795f45f29e8896d1e2d00af99cc0d49a
+SHA256 (.footprint) = 4284ee10c28487f3de62c6f13caf03e2b8c6c856d226ee11c9459e71eb827ef0
+SHA256 (autopep8-2.3.2.tar.gz) = 89440a4f969197b69a995e4ce0661b031f455a9f776d2c5ba3dbd83466931758

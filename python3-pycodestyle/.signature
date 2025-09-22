@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgDacAXcwGu1lNAXcjlVitVyzxJNES65U/lvHHsclAE1esIRFsg55sLDtRxKXyDCocGFppK2d3dqUcDiVPQ2Q1AQ=
+SHA256 (Pkgfile) = 06ff82e4999b5141903c3760d9fba485c0bae1430a8d09621f69d176b028a525
+SHA256 (.footprint) = 28fafd755386dffb03a8f704feb2f0c5bee26f7715df0e3bc39e18d0d89a45b6
+SHA256 (pycodestyle-2.14.0.tar.gz) = c4b5b517d278089ff9d0abdec919cd97262a3367449ea1c8b49b91529167b783

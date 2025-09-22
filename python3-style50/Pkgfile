@@ -1,0 +1,16 @@
+# Description: tool with which code can be checked against the CS50 style guide
+# URL: https://pypi.org/project/style50/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3-icdiff python3-magic python3-autopep8 python3-pycodestyle python3-jsbeautifier
+
+name=python3-style50
+version=2.10.4
+release=1
+source=(https://pypi.org/packages/source/s/style50/style50-$version.tar.gz)
+
+build() {
+  cd style50-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}

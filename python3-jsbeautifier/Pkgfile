@@ -1,0 +1,16 @@
+# Description: Beautify, unpack or deobfuscate JavaScript
+# URL: https://pypi.org/project/jsbeautifier
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3-wheel
+
+name=python3-jsbeautifier
+version=1.15.4
+release=1
+source=(https://pypi.org/packages/source/j/jsbeautifier/jsbeautifier-$version.tar.gz)
+
+build() {
+  cd jsbeautifier-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}

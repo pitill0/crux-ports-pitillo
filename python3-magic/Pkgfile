@@ -1,0 +1,16 @@
+# Description: Python interface to the libmagic file type identification library 
+# URL: https://pypi.org/project/python-magic/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3-wheel
+
+name=python3-magic
+version=0.4.27
+release=1
+source=(https://pypi.org/packages/source/p/python-magic/python-magic-$version.tar.gz)
+
+build() {
+  cd python-magic-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}

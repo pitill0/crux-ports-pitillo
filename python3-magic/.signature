@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgDo/P3q1qM4n6WppC5FTFFaQR/iPWPX5ZP7w1s9eCIXl5V8ml8ZA8mtkn6GB8DTT0Fmvzd+W+z/BavXuv75oWQU=
+SHA256 (Pkgfile) = 3466dc9fcb6140be939622197d53d7bba65861d0f29c3cc6d420c38b8110c6c9
+SHA256 (.footprint) = be1c15ef98b562606fb5946a117205d004db509b11173c5ec321de991ce059e1
+SHA256 (python-magic-0.4.27.tar.gz) = c1ba14b08e4a5f5c31a302b7721239695b2f0f058d125bd5ce1ee36b9d9d3c3b

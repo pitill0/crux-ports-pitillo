@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJR0DRMP8luHZZfxTvWT/heVrnS63L6v1qysZwPBY/5cSK61lgmdxBjsuUPAJmtAuUCeneGp5pG2USM5+pqp1AM=
+SHA256 (Pkgfile) = f2d8031ec166d134549582e51279dc4d19a55f935f4824167ceac33261c5c5f5
+SHA256 (.footprint) = 2e072e87f81a99e64665fbdd38a2221a68a495fb0ae541d4c361b52017135614
+SHA256 (icdiff-2.0.7.tar.gz) = f79a318891adbf59a45e3a7694f5e1f18c5407065264637072ac8363b759866f
