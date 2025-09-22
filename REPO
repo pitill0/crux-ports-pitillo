@@ -6,6 +6,7 @@ d:pd
 d:p5-mysql
 d:ctorrent
 d:gxmessage
+d:python3-lib50
 d:fcheck
 d:hostap-utils
 d:gxmame
@@ -86,6 +87,9 @@ f:526a882bc68cc148ed146429dfbeae89:ctorrent/Pkgfile
 f:19df661b260866620e443f59db887558:gxmessage/.md5sum
 f:959a7573c59459a1a31d8662ef52775b:gxmessage/.footprint
 f:83ece1eea20028ff3d5850a906c4da53:gxmessage/Pkgfile
+f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
+f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
+f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:6e3b5e87d8f4b52b099ccb6cfaf92631:fcheck/.md5sum
 f:454759bf4b784c080c747cd0aa467dfd:fcheck/.footprint
 f:e9df3ff37a599b93da8874e19f9d832c:fcheck/Pkgfile
@@ -137,8 +141,8 @@ f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
-f:9d64adf343f6d6e3d7b1caba12ff9c42:python3-check50/Pkgfile
-f:2c28f28db74f40ba5df586d26adc0c51:python3-check50/.signature
+f:4fee302c44d5764309a01a704217f70b:python3-check50/Pkgfile
+f:48e4fe5ab70f508b19b23daa410e4860:python3-check50/.signature
 f:d41d8cd98f00b204e9800998ecf8427e:libnice-git/.md5sum
 f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:a154fd5cffb964937e3215bd3cf44552:libnice-git/Pkgfile
