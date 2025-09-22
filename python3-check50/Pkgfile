@@ -1,7 +1,7 @@
 # Description: check solutions to problems for CS50
 # URL: https://pypi.org/project/check50/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: python3
+# Depends on: python3-pexpect python3-lib50
 
 name=python3-check50
 version=3.4.0
