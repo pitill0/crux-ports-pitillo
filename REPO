@@ -24,6 +24,7 @@ d:leafpad
 d:python3-check50
 d:libnice-git
 d:cscope
+d:python3-jellyfish
 d:blockrage
 d:libexosip2
 d:quilt
@@ -141,14 +142,17 @@ f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
-f:4fee302c44d5764309a01a704217f70b:python3-check50/Pkgfile
-f:48e4fe5ab70f508b19b23daa410e4860:python3-check50/.signature
+f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
+f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
 f:d41d8cd98f00b204e9800998ecf8427e:libnice-git/.md5sum
 f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:a154fd5cffb964937e3215bd3cf44552:libnice-git/Pkgfile
 f:60f4c232f2a4281d1f6f5442e32459a0:cscope/.md5sum
 f:a5e072905cf190f7b3c028700229f22f:cscope/.footprint
 f:77493fd4d2542e8b3213988c4a48ac14:cscope/Pkgfile
+f:ad1b0606297bffb991cd8ba74800ebd8:python3-jellyfish/.footprint
+f:e7748fc6c5973fa6bcf92714c2f7c8d4:python3-jellyfish/Pkgfile
+f:f3c4a48bc6118eeb8ffb26b9aebd6b17:python3-jellyfish/.signature
 f:8e39bf8ddb17fe33283f4005e051a66f:blockrage/.md5sum
 f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
 f:59e6e278090bb1c28befca330a58d55e:blockrage/Pkgfile
