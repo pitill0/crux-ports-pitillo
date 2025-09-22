@@ -20,6 +20,7 @@ d:ascii
 d:aop
 d:tcedemo2avi
 d:leafpad
+d:python3-check50
 d:libnice-git
 d:cscope
 d:blockrage
@@ -135,6 +136,9 @@ f:275c322bab0b0657b8ef4c516212b161:tcedemo2avi/Pkgfile
 f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
+f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
+f:9d64adf343f6d6e3d7b1caba12ff9c42:python3-check50/Pkgfile
+f:2c28f28db74f40ba5df586d26adc0c51:python3-check50/.signature
 f:d41d8cd98f00b204e9800998ecf8427e:libnice-git/.md5sum
 f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:a154fd5cffb964937e3215bd3cf44552:libnice-git/Pkgfile
