@@ -51,6 +51,7 @@ d:nbd
 d:xcdroast
 d:xdialog
 d:gtmess
+d:librewolf
 d:lightmediascanner
 d:sipcrack
 d:glc
@@ -238,6 +239,10 @@ f:f68b69ed7d9d8385859f181c7f38dc25:xdialog/Pkgfile
 f:4d41afaa8f75f64e14524897853dfbc9:gtmess/.md5sum
 f:a88cf6264b9a8ab0c0f5d2ecad2aaaeb:gtmess/.footprint
 f:3ab04fa03c62d6a02cceee60dcce4f97:gtmess/Pkgfile
+f:e7ee17cfc14ad05265fc0c871bbcce1d:librewolf/.footprint
+f:8861a196761dc5e469e20ae2c91cb060:librewolf/librewolf.desktop
+f:2fd8f20b9accd7130b3c7e1749bbfd1b:librewolf/Pkgfile
+f:2f9f96ed1964d60fbd197892acb4ecda:librewolf/.signature
 f:f9212944b960777b208e66dedead55fb:lightmediascanner/.md5sum
 f:98c670a08d55375f0196bdd8bd625336:lightmediascanner/.footprint
 f:144827de9e22099bca373ce43e109c6e:lightmediascanner/Pkgfile
