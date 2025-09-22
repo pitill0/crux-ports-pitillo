@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgNXb7JICVHK/drieXbP0IfMXOzheJd9gqkBsd2Eh1GBwbpGsR33KDWNWJNZIbjBWbMy0RWP3iq6yEPomibkMxAA=
+SHA256 (Pkgfile) = db9a7ccdc4418ac6255f6e049d87e72aafc5529cb21f427b6cbdd98cede5776d
+SHA256 (.footprint) = d77ca9f40e34f31b0a19baca8d9bc0c69ace5dcd001f651306cb47e2619718ae
+SHA256 (check50-v3.4.0.tar.gz) = 69d9594daf9dbad9fafb17a94e2e5ca66498a469c1d7256c5ba6c9b35426b70d

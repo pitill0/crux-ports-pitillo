@@ -1,0 +1,16 @@
+# Description: check solutions to problems for CS50
+# URL: https://pypi.org/project/check50/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3
+
+name=python3-check50
+version=3.4.0
+release=1
+source=(https://github.com/cs50/check50/archive/v${version}/check50-v$version.tar.gz)
+
+build() {
+  cd check50-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}
