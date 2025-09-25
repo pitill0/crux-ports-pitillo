@@ -1,0 +1,16 @@
+# Description: free and open-source cross-platform library for the development of multimedia applications using Python
+# URL: https://pypi.org/project/pygame/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: alsa-lib brotli graphite2 harfbuzz sdl2_ttf xorg-libxauxorg-libxcbxorg-libxdmcp
+
+name=python3-pygame
+version=2.6.1
+release=1
+source=(https://pypi.org/packages/source/p/pygame/pygame-$version.tar.gz)
+
+build() {
+  cd pygame-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --destdir=$PKG dist/*.whl
+}

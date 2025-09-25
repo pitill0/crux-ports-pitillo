@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJnkZk/l0k9yiCMd02yHC4Ej/7Qp0InDAIol6sN6g503brNg8xIlSuhJKGO/K4xIwhCnXSOTaOa+qLKPfVcuBgc=
+SHA256 (Pkgfile) = c04121c6faa082d241bd7039d921f6b0bdcd2d00333f291d5fcf95eabca98b62
+SHA256 (.footprint) = 97792ca68fc8a437b96e2fcf5a14a549114744eb21a5ac892976698fcf019c3e
+SHA256 (pygame-2.6.1.tar.gz) = 56fb02ead529cee00d415c3e007f75e0780c655909aaa8e8bf616ee09c9feb1f
