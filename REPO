@@ -114,8 +114,8 @@ f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
 f:526a882bc68cc148ed146429dfbeae89:ctorrent/Pkgfile
-f:e26bbdb25ff9c5e42a683302bcea279f:ctorrent/.md5sum
 f:e1c632edfa96d1c24d51591338d5ea82:ctorrent/.footprint
+f:d2c4347bedde5f70797324836bfbc64f:ctorrent/.signature
 f:47aae1c26aa797df324209a9bec6f7d5:genimage/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
 f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
