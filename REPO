@@ -55,7 +55,6 @@ d:python3-pygame
 d:dgop
 d:xinput_calibrator
 d:pd
-d:ircd
 d:btop
 d:linphone
 f:69ff34ade4bf5b98a95f8946eb7ba17f:python3-autopep8/Pkgfile
@@ -238,10 +237,6 @@ f:4ae9c0b1e022b629cf1c392ac25ec807:xinput_calibrator/.footprint
 f:d1e2da1c35b1cfea0e41cca606689f1e:pd/Pkgfile
 f:6819d03a99e5331e1ed4c576ac3af50f:pd/.md5sum
 f:ee47871655ce02a55796aaf11de8847d:pd/.footprint
-f:457a6b035044efc9f294e4e2b0d99746:ircd/Pkgfile
-f:6fdaa34a86f302bea8dab6a969eed663:ircd/.md5sum
-f:d2cfe766f43935ceffc4524cd922e95b:ircd/.footprint
-f:956098da758813ec2c4db29088c984ac:ircd/ircd
 f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
 f:0cca529faf9e55839840851535586ddd:btop/.footprint
 f:471528e80ba757909cfce96ec5802787:btop/.signature
