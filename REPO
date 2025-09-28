@@ -5,7 +5,6 @@ d:wrt54g-debrick-util
 d:python3-pycodestyle
 d:gxmame
 d:aop
-d:lightmediascanner
 d:p5-dbi
 d:python3-jellyfish
 d:prt-snapshot
@@ -77,9 +76,6 @@ f:8701264f0eccd993012a46bbac96eb60:aop/Pkgfile
 f:cad5c5c8ae18299047bec16621c96316:aop/.footprint
 f:9cce67fba3e420ebc878734e2a0bde1c:aop/.signature
 f:cdbda15d804fde906a6112231a853a53:aop/aop-0.6.patch
-f:144827de9e22099bca373ce43e109c6e:lightmediascanner/Pkgfile
-f:f9212944b960777b208e66dedead55fb:lightmediascanner/.md5sum
-f:98c670a08d55375f0196bdd8bd625336:lightmediascanner/.footprint
 f:fd01a89627122a6bb632c9ac435cb981:p5-dbi/Pkgfile
 f:988484c6e9a39620f714fd88eba3cb55:p5-dbi/.md5sum
 f:c0c0019436837abfb218721cbd06ab1a:p5-dbi/.footprint
