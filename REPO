@@ -1,5 +1,6 @@
 d:python3-autopep8
 d:voipong
+d:glcs
 d:python3-magic
 d:wrt54g-debrick-util
 d:python3-pycodestyle
@@ -14,7 +15,6 @@ d:prt-snapshot
 d:ctorrent
 d:genimage
 d:djmount
-d:glc
 d:siege
 d:nbd
 d:wavemon
@@ -77,6 +77,9 @@ f:4ce595b44309ed182e931ed301ae12a1:python3-autopep8/.signature
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:a6b892d3c25199bb595d657403df44bf:voipong/.md5sum
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
+f:44f5e1b1087f68b96540bba4d706a61f:glcs/Pkgfile
+f:87b463fcdef0e0e35f0d0706c750b782:glcs/.md5sum
+f:e1e9ffe7d5306745dcb77f5044c1ef99:glcs/.footprint
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
@@ -122,9 +125,6 @@ f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
 f:fc13af0b2f38668f0f824182b766e184:djmount/Pkgfile
 f:9b1c16faca8a43c60f91e545712a8bb8:djmount/.md5sum
 f:29dfd1ed7f3e02b1ed790159604de513:djmount/.footprint
-f:44f5e1b1087f68b96540bba4d706a61f:glc/Pkgfile
-f:87b463fcdef0e0e35f0d0706c750b782:glc/.md5sum
-f:e1e9ffe7d5306745dcb77f5044c1ef99:glc/.footprint
 f:3084a5f881efb83a3c0616cf18dd0b64:siege/Pkgfile
 f:975a3a780ff198467a3fccc4ab811a57:siege/.md5sum
 f:b39bf8fd34ecd1786d6d7d8aa347c985:siege/.footprint
