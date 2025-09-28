@@ -201,9 +201,9 @@ f:ed5543829cd605eb57324fca2f37d042:x11vnc/.footprint
 f:3e394c434f5eb8bdae20cd5a180f9990:openocd/Pkgfile
 f:24ee2197cb15623abf59081980504d31:openocd/.md5sum
 f:b6a7528c4497705145c95cec0e3cb63e:openocd/.footprint
-f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
-f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
-f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
+f:0305f39e3f616280c433bfc5680111f1:leafpad/Pkgfile
+f:c37a825a375f43e33ca89e993f7e04f0:leafpad/.footprint
+f:429c54b9377468dce773b5ddce7d5859:leafpad/.signature
 f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
 f:344c64bcf7b99c190d33b363b590334c:p5-mysql/Pkgfile
 f:9b34228554553fc517351cacfb515353:p5-mysql/.md5sum
