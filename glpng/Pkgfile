@@ -1,7 +1,7 @@
 # Description: glpng is a small toolkit to make loading PNG image files as an OpenGL texture
 # URL: http://gitorious.org/games/glpng 
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: git mesa3d 
+# Depends on: git libpng mesa
 
 name=glpng
 version=git
@@ -9,8 +9,14 @@ release=1
 source=()
 
 build() {
-  git clone git://repo.or.cz/glpng.git
-  cd $name
+  if [ ! -d $PKGMK_SOURCE_DIR/${name} ]; then
+    (git clone git://repo.or.cz/$name.git $PKGMK_SOURCE_DIR/$name)
+  else
+    cd $PKGMK_SOURCE_DIR/$name && git fetch
+  fi
+  cp -r $PKGMK_SOURCE_DIR/$name $SRC
+
+  cd $SRC/${name}
   make
   make DESTDIR=$PKG/usr install
   rm -r $PKG/usr/share
