@@ -31,7 +31,6 @@ d:sipcrack
 d:blockrage
 d:xdialog
 d:texi2html
-d:cython
 d:tcedemo2avi
 d:mog
 d:qmc2-mame-fe
@@ -174,9 +173,6 @@ f:e71abb900467d22c6532ec80c0c71ab5:xdialog/.footprint
 f:a58f2aa7f5a656396f5b7ce4b49d2c81:texi2html/Pkgfile
 f:a5aa0b58e0ee1f6776fc661ee5d8f6b1:texi2html/.md5sum
 f:f4f697e3d8ede9f44510a9fc12d9238a:texi2html/.footprint
-f:dd5bdb4086e774b726a547fc039ac404:cython/Pkgfile
-f:efc3c48304fc637fcd55505cdb677342:cython/.md5sum
-f:d4a326b2a886ce0177b93d5d895d9e06:cython/.footprint
 f:275c322bab0b0657b8ef4c516212b161:tcedemo2avi/Pkgfile
 f:01d5ec227d6b18e776db98e995789568:tcedemo2avi/.md5sum
 f:ba031d74d81d9e0a5577fdb0c07a672a:tcedemo2avi/tcedemo2avi.conf
