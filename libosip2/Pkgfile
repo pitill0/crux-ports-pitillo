@@ -12,7 +12,7 @@ source=(http://ftp.gnu.org/gnu/osip/$name-$version.tar.gz)
 build () {
   cd $name-$version
   ./configure --prefix=/usr \
-              --mandir=$PKG/usr/man
+              --mandir=/usr/share/man
   make
-  make prefix=$PKG/usr install
+  make DESTDIR=$PKG install
 }
