@@ -19,7 +19,6 @@ d:nbd
 d:wavemon
 d:librewolf
 d:python3-icdiff
-d:orbit2
 d:cscope
 d:nikto
 d:sdlmame
@@ -43,7 +42,6 @@ d:python3-jsbeautifier
 d:quilt
 d:minidlna
 d:libosip2
-d:gconf
 d:p5-apachedbi
 d:glpng
 d:libexosip2
@@ -131,9 +129,6 @@ f:8861a196761dc5e469e20ae2c91cb060:librewolf/librewolf.desktop
 f:01cd144e0103865e6bb23af3ca220948:python3-icdiff/Pkgfile
 f:c60aec2ea9bc86efb462fa39775ad7c4:python3-icdiff/.footprint
 f:888e79cbf29f6199211b587227248573:python3-icdiff/.signature
-f:a941703b6958ac98be9710a0587ff50c:orbit2/Pkgfile
-f:a107a4ec8547da63aa642f3e00c8c4b7:orbit2/.md5sum
-f:83f1064fe940f18f45efeb0f9040c1d3:orbit2/.footprint
 f:77493fd4d2542e8b3213988c4a48ac14:cscope/Pkgfile
 f:a5e072905cf190f7b3c028700229f22f:cscope/.footprint
 f:99bdd9465569ad00ccfe27d5b2d3cce5:cscope/.signature
@@ -208,9 +203,6 @@ f:5c0848dedf2f8c5c7755069fb34131ca:minidlna/.footprint
 f:b22218c66b54135e3ddcf509cf6cab09:libosip2/Pkgfile
 f:203f9269036eb5fe17ab648b877b667d:libosip2/.md5sum
 f:dc54ac820f75c92a9699ee92c1fea52d:libosip2/.footprint
-f:3669cf13721f16a086038f985e003d51:gconf/Pkgfile
-f:75ff3d31e166c9ab85ddf24a9bb384bf:gconf/.md5sum
-f:ec75bd862872965d873cebb40e36d35f:gconf/.footprint
 f:9a13303b3dc99c0f825140b3fd11f99f:p5-apachedbi/Pkgfile
 f:6fa577e0ee9dcc01a191b37e63cb8d73:p5-apachedbi/.md5sum
 f:a8a0c270ea12768aa4f2a877c41b3299:p5-apachedbi/.footprint
