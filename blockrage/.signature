@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgF6JR+JYdtoaFyzAI2MnGWWIM9bKqHIwHDHkSHqcdU8ENi/PAMZ0xv3gr1c/Y3Np01Us1003hh4HmbheyaJipQ0=
+SHA256 (Pkgfile) = a0e7bff0b20063cd62e870a25ad36aba2a05ff412cd273a42e0115ad3160f906
+SHA256 (.footprint) = 622f877f9fd6a9748ad2ef3e7942102739be526fc8b7827c1e34911b428e84ed
+SHA256 (blockrage-0.2.3.tar.gz) = f9722e519fb74be2ecb9377fd2470c94382088a67df33acea215fd0a5a0b4cb6
+SHA256 (statx.patch) = 0f80e61fb7925c38365cf49fc96ec067085946765e4a8da94d42f45e2b84f3e8

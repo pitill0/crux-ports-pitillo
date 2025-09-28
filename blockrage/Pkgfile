@@ -5,11 +5,15 @@
 
 name=blockrage
 version=0.2.3
-release=1
-source=(http://downloads.sourceforge.net/$name/$name-$version.tar.gz)
+release=2
+source=(http://downloads.sourceforge.net/$name/$name-$version.tar.gz
+        statx.patch)
 
 build() {
   cd $name-$version
+
+  patch -p1 -i $SRC/statx.patch
+
   ./configure --prefix=/usr \
               --mandir=$PKG/usr/man	
   make
