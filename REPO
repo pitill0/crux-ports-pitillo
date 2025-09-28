@@ -183,9 +183,9 @@ f:a94185c01389ddc01057eb7c29f984a2:quilt/.footprint
 f:ce6090b0c3350801c5c96e8f891b1695:minidlna/Pkgfile
 f:851dbb2c0306f00ab324efaaba028947:minidlna/.md5sum
 f:5c0848dedf2f8c5c7755069fb34131ca:minidlna/.footprint
-f:b22218c66b54135e3ddcf509cf6cab09:libosip2/Pkgfile
-f:203f9269036eb5fe17ab648b877b667d:libosip2/.md5sum
-f:dc54ac820f75c92a9699ee92c1fea52d:libosip2/.footprint
+f:bdd6acaf650895eb690d08da85cedfb1:libosip2/Pkgfile
+f:2e14e9d9ee0373dd761c4cda76a4954c:libosip2/.footprint
+f:897b40c449c3149b3936af4bf6b11fa7:libosip2/.signature
 f:9a13303b3dc99c0f825140b3fd11f99f:p5-apachedbi/Pkgfile
 f:6fa577e0ee9dcc01a191b37e63cb8d73:p5-apachedbi/.md5sum
 f:a8a0c270ea12768aa4f2a877c41b3299:p5-apachedbi/.footprint
