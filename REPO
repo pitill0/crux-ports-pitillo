@@ -145,8 +145,8 @@ f:a941703b6958ac98be9710a0587ff50c:orbit2/Pkgfile
 f:a107a4ec8547da63aa642f3e00c8c4b7:orbit2/.md5sum
 f:83f1064fe940f18f45efeb0f9040c1d3:orbit2/.footprint
 f:77493fd4d2542e8b3213988c4a48ac14:cscope/Pkgfile
-f:60f4c232f2a4281d1f6f5442e32459a0:cscope/.md5sum
 f:a5e072905cf190f7b3c028700229f22f:cscope/.footprint
+f:99bdd9465569ad00ccfe27d5b2d3cce5:cscope/.signature
 f:15f7e2a61ef6cb2e922abd545cc04da5:nikto/Pkgfile
 f:7dd063c7a248f61753bc578b1f627b5c:nikto/.md5sum
 f:6ab0eed6e508409b0f52beb9a2ac9990:nikto/.footprint
