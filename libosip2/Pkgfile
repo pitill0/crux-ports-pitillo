@@ -5,14 +5,14 @@
 # Depends on:
 
 name=libosip2
-version=3.3.0
+version=3.6.0
 release=1
 source=(http://ftp.gnu.org/gnu/osip/$name-$version.tar.gz)
 
 build () {
   cd $name-$version
   ./configure --prefix=/usr \
-              --mandir=$PKG//usr
+              --mandir=$PKG/usr/man
   make
   make prefix=$PKG/usr install
 }

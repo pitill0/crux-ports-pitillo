@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgLrtxilAL+X5ajyaExsRABUPXO5beK6qs65HNA4t5yReKwuB1PUQ+8GtOwt3CrS8VP5xR4WOuSSg0xlO/bJhrwE=
+SHA256 (Pkgfile) = 98356e6d27a08a50d142b19df9f4c7eb6223f09f1384c105bdf8016568d59cdf
+SHA256 (.footprint) = 29aaf2ed77be09f0f1a4d370efdc35c0f6a966b45336681ab945e4db4105b2fd
+SHA256 (libosip2-3.6.0.tar.gz) = c9a18b0c760506d150017cdb1fa5c1cefe12b8dcbbf9a7e784eb75af376e96cd

@@ -49,15 +49,16 @@ drwxr-xr-x	root/root	usr/include/osipparser2/headers/
 drwxr-xr-x	root/root	usr/lib/
 -rw-r--r--	root/root	usr/lib/libosip2.a
 -rwxr-xr-x	root/root	usr/lib/libosip2.la
-lrwxrwxrwx	root/root	usr/lib/libosip2.so -> libosip2.so.4.2.0
-lrwxrwxrwx	root/root	usr/lib/libosip2.so.4 -> libosip2.so.4.2.0
--rwxr-xr-x	root/root	usr/lib/libosip2.so.4.2.0
+lrwxrwxrwx	root/root	usr/lib/libosip2.so -> libosip2.so.7.2.0
+lrwxrwxrwx	root/root	usr/lib/libosip2.so.7 -> libosip2.so.7.2.0
+-rwxr-xr-x	root/root	usr/lib/libosip2.so.7.2.0
 -rw-r--r--	root/root	usr/lib/libosipparser2.a
 -rwxr-xr-x	root/root	usr/lib/libosipparser2.la
-lrwxrwxrwx	root/root	usr/lib/libosipparser2.so -> libosipparser2.so.4.2.0
-lrwxrwxrwx	root/root	usr/lib/libosipparser2.so.4 -> libosipparser2.so.4.2.0
--rwxr-xr-x	root/root	usr/lib/libosipparser2.so.4.2.0
+lrwxrwxrwx	root/root	usr/lib/libosipparser2.so -> libosipparser2.so.7.2.0
+lrwxrwxrwx	root/root	usr/lib/libosipparser2.so.7 -> libosipparser2.so.7.2.0
+-rwxr-xr-x	root/root	usr/lib/libosipparser2.so.7.2.0
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/libosip2.pc
-drwxr-xr-x	root/root	usr/man1/
--rw-r--r--	root/root	usr/man1/osip.1
+drwxr-xr-x	root/root	usr/man/
+drwxr-xr-x	root/root	usr/man/man1/
+-rw-r--r--	root/root	usr/man/man1/osip.1.gz
