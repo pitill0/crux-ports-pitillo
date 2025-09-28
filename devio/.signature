@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJyeRCeT+WMQG1hldcva9ED6JQngV0jyGfaSW+tc1gHRSE3RHraAYntzPMZQMftZ58M2QNKkIndoINrRXQhvEQg=
+SHA256 (Pkgfile) = d71b2e3da4254576047903db6481951abf70a44cba9ffe5cbfda0e074bb60709
+SHA256 (.footprint) = 0fa89c023c63221827e045f0a9b37594d98cd647a4eef741bf0134aec56d629c
+SHA256 (devio-1.2.tar.gz) = a71e87f49f52cd90dbd45431f65e83d18e073fb2669f91c29c59019b175cd5a8
