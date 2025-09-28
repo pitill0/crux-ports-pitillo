@@ -249,9 +249,9 @@ f:b6a7528c4497705145c95cec0e3cb63e:openocd/.footprint
 f:3ab04fa03c62d6a02cceee60dcce4f97:gtmess/Pkgfile
 f:4d41afaa8f75f64e14524897853dfbc9:gtmess/.md5sum
 f:a88cf6264b9a8ab0c0f5d2ecad2aaaeb:gtmess/.footprint
-f:a69596d9358eb8646416ef8f7a6485f6:elfhacks/Pkgfile
-f:f8413bbd0351a20025c1724b26cdbdc9:elfhacks/.md5sum
+f:a38fe974da9eac972d6d11684f15e791:elfhacks/Pkgfile
 f:71483583da34ff68026747a3cf28dee0:elfhacks/.footprint
+f:b43d9fd410cfbb3417c36c093fc4523f:elfhacks/.signature
 f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
