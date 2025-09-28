@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJakvIvFozUaLf869TUzU8ucGJDn8OvGSj31DfwSEcxYv0Yz6KOB3bohyak0RJZLFRI1goXPJDdR1vyA7AVy9QE=
+SHA256 (Pkgfile) = 7d45073ff520bb117eda50228d59bb044e13766a1ce7c74b5df8a5f37bacb6c1
+SHA256 (.footprint) = 6792361b47dc241ac1939e693c3ef4221c77f0675f855af2108e5bc6500f30da
+SHA256 (hostap-utils-0.4.7.tar.gz) = c6f598d8e356c1620fa009eca0a700bf1105e16817eefd77d891994261009355
