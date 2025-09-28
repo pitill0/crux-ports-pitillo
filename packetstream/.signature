@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgBZFu626Md6SmHPNXSZWySXqK1+Tja4s3iG6abWIedGFqqkq2woa7wNloMs+F35F9ho+eAycTzUaIYLR3AB2vAw=
+SHA256 (Pkgfile) = 5d07d952b1fa94f1662cec525f085d4caf02f64a8e4c3fd313a541a38dcf2caa
+SHA256 (.footprint) = 525e3039a56b1d9c5b1be92faaab66c0ab24b3b94c17f9c63cc5b9024452fe70
+SHA256 (packetstream-0.1.4.tar.gz) = 8a67532290a88ead17900512c3c9d788ca055f18ff27aeef9f33ea9cc5e3c608
