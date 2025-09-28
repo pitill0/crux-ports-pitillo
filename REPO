@@ -53,7 +53,6 @@ d:dgop
 d:xinput_calibrator
 d:pd
 d:btop
-d:linphone
 f:69ff34ade4bf5b98a95f8946eb7ba17f:python3-autopep8/Pkgfile
 f:b595572a49bbf0c8130516c6989a6053:python3-autopep8/.footprint
 f:4ce595b44309ed182e931ed301ae12a1:python3-autopep8/.signature
@@ -228,6 +227,3 @@ f:ee47871655ce02a55796aaf11de8847d:pd/.footprint
 f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
 f:0cca529faf9e55839840851535586ddd:btop/.footprint
 f:471528e80ba757909cfce96ec5802787:btop/.signature
-f:6667f4650f253136cb448797472717ec:linphone/Pkgfile
-f:7a238c70cf854f1df7f65cb77478295a:linphone/.md5sum
-f:76970758e4789b4e9db4b69996032336:linphone/.footprint
