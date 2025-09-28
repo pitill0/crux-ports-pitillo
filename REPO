@@ -9,7 +9,6 @@ d:lightmediascanner
 d:p5-dbi
 d:python3-jellyfish
 d:jnettop
-d:gtkdialog
 d:prt-snapshot
 d:ctorrent
 d:genimage
@@ -95,11 +94,6 @@ f:f3c4a48bc6118eeb8ffb26b9aebd6b17:python3-jellyfish/.signature
 f:291f71d65c9e6b68d4a263a68218c806:jnettop/Pkgfile
 f:31a941589d5fa7fe8c9661b2e0968682:jnettop/.md5sum
 f:768476460d5a140482cfcede6e99dc39:jnettop/.footprint
-f:9b520274e22e4e6f18fbaafe339d24de:gtkdialog/gtkdialog_0.7.20_glade.patch
-f:5b43daaf0390ed9a16bc5fd31d12bfd2:gtkdialog/Pkgfile
-f:de04091483b0e58f6269b69ad9b189f2:gtkdialog/.md5sum
-f:9a8f4172b35af38d8f0b3b1c44daabf8:gtkdialog/.footprint
-f:179a726ef453b561b669e8f7b4054ea5:gtkdialog/README
 f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
