@@ -27,6 +27,7 @@ d:pidgin-xfire
 d:libnice-git
 d:sipcrack
 d:blockrage
+d:libidl
 d:xdialog
 d:texi2html
 d:tcedemo2avi
@@ -157,6 +158,9 @@ f:1eddebced89d7ceee09725961f3ec489:blockrage/Pkgfile
 f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
 f:411322ab9a089334415259c03717403f:blockrage/.signature
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
+f:ba269048ff338124d8962ee6c4951da0:libidl/Pkgfile
+f:8cf5b2440e0713d5ab98cccf2ab3e9a6:libidl/.footprint
+f:da1c16e4c77c2b70ae4aaed511d68d5b:libidl/.signature
 f:f68b69ed7d9d8385859f181c7f38dc25:xdialog/Pkgfile
 f:47473d02ff9a2fb4a13ed2582c1c9958:xdialog/.md5sum
 f:e71abb900467d22c6532ec80c0c71ab5:xdialog/.footprint
