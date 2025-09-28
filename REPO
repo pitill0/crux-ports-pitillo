@@ -45,7 +45,6 @@ d:glpng
 d:libexosip2
 d:x11vnc
 d:openocd
-d:gtmess
 d:leafpad
 d:p5-mysql
 d:gxmessage
@@ -208,9 +207,6 @@ f:ed5543829cd605eb57324fca2f37d042:x11vnc/.footprint
 f:3e394c434f5eb8bdae20cd5a180f9990:openocd/Pkgfile
 f:24ee2197cb15623abf59081980504d31:openocd/.md5sum
 f:b6a7528c4497705145c95cec0e3cb63e:openocd/.footprint
-f:3ab04fa03c62d6a02cceee60dcce4f97:gtmess/Pkgfile
-f:4d41afaa8f75f64e14524897853dfbc9:gtmess/.md5sum
-f:a88cf6264b9a8ab0c0f5d2ecad2aaaeb:gtmess/.footprint
 f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
