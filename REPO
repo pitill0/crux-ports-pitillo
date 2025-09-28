@@ -14,7 +14,6 @@ d:gtkdialog
 d:prt-snapshot
 d:ctorrent
 d:genimage
-d:djmount
 d:siege
 d:nbd
 d:wavemon
@@ -118,9 +117,6 @@ f:d2c4347bedde5f70797324836bfbc64f:ctorrent/.signature
 f:47aae1c26aa797df324209a9bec6f7d5:genimage/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
 f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
-f:fc13af0b2f38668f0f824182b766e184:djmount/Pkgfile
-f:9b1c16faca8a43c60f91e545712a8bb8:djmount/.md5sum
-f:29dfd1ed7f3e02b1ed790159604de513:djmount/.footprint
 f:3084a5f881efb83a3c0616cf18dd0b64:siege/Pkgfile
 f:975a3a780ff198467a3fccc4ab811a57:siege/.md5sum
 f:b39bf8fd34ecd1786d6d7d8aa347c985:siege/.footprint
