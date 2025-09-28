@@ -215,8 +215,8 @@ f:9b34228554553fc517351cacfb515353:p5-mysql/.md5sum
 f:beb864c5315034325ceb2d22926c2eb2:p5-mysql/.footprint
 f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
-f:c9d6acb9772cc4f508f34d562d70b123:hostap-utils/.md5sum
 f:da73070346b37482b456a220fdd2d038:hostap-utils/.footprint
+f:26ab33ca1c2f84be931e0583c5589c9d:hostap-utils/.signature
 f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
 f:9ef1a1cea756a680ac07fa30e40ac30f:devio/.footprint
 f:f14f8bd133786be8737f66bd1c43b2ed:devio/.signature
