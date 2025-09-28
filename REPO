@@ -167,9 +167,10 @@ f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:6023834d423de3b1664f04bffeb0b3a0:sipcrack/Pkgfile
 f:c5c49600eb4c3e60c2ca54812ba7072c:sipcrack/.md5sum
 f:f5cc952f496b96480015bdc5ba4aeac7:sipcrack/.footprint
-f:59e6e278090bb1c28befca330a58d55e:blockrage/Pkgfile
-f:8e39bf8ddb17fe33283f4005e051a66f:blockrage/.md5sum
+f:1eddebced89d7ceee09725961f3ec489:blockrage/Pkgfile
 f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
+f:411322ab9a089334415259c03717403f:blockrage/.signature
+f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
 f:f68b69ed7d9d8385859f181c7f38dc25:xdialog/Pkgfile
 f:47473d02ff9a2fb4a13ed2582c1c9958:xdialog/.md5sum
 f:e71abb900467d22c6532ec80c0c71ab5:xdialog/.footprint
