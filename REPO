@@ -232,9 +232,10 @@ f:a8a0c270ea12768aa4f2a877c41b3299:p5-apachedbi/.footprint
 f:8a5e31e6b8e33fd6058ef7160fd92a8d:farsight2-git/Pkgfile
 f:d41d8cd98f00b204e9800998ecf8427e:farsight2-git/.md5sum
 f:b1ca15fc4c68c437165d6d67aced6738:farsight2-git/.footprint
-f:d9e94c525bf303806147012d01852524:glpng/Pkgfile
+f:6689990df52b37e015e27fd232b0cc77:glpng/Pkgfile
 f:d41d8cd98f00b204e9800998ecf8427e:glpng/.md5sum
-f:69665fd79260ab6aea928ba75c41c5f1:glpng/.footprint
+f:4523b26860b268c15f47e3b4e52f67d2:glpng/.footprint
+f:a2f91045b8f10a377c48a60eef223db2:glpng/.signature
 f:3ec01d08bc8dbcc2e0866b212734db0d:libexosip2/Pkgfile
 f:5c38b26570af8534e68c932d3d67c5e6:libexosip2/.md5sum
 f:65986ffe24d77581c059f04b0c9fbf76:libexosip2/.footprint
