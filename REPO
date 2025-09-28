@@ -19,7 +19,6 @@ d:nbd
 d:wavemon
 d:librewolf
 d:python3-icdiff
-d:farsight2
 d:orbit2
 d:cscope
 d:nikto
@@ -133,9 +132,6 @@ f:8861a196761dc5e469e20ae2c91cb060:librewolf/librewolf.desktop
 f:01cd144e0103865e6bb23af3ca220948:python3-icdiff/Pkgfile
 f:c60aec2ea9bc86efb462fa39775ad7c4:python3-icdiff/.footprint
 f:888e79cbf29f6199211b587227248573:python3-icdiff/.signature
-f:71f8d02a4acb6d518889138c6f476372:farsight2/Pkgfile
-f:03593e3f4efecaf17e555bad7b4555cb:farsight2/.md5sum
-f:912cca5e6035e41608c324db0a078b34:farsight2/.footprint
 f:a941703b6958ac98be9710a0587ff50c:orbit2/Pkgfile
 f:a107a4ec8547da63aa642f3e00c8c4b7:orbit2/.md5sum
 f:83f1064fe940f18f45efeb0f9040c1d3:orbit2/.footprint
