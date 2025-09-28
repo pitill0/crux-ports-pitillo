@@ -20,7 +20,6 @@ d:cscope
 d:nikto
 d:sdlmame
 d:pidgin-xfire
-d:libnice-git
 d:sipcrack
 d:blockrage
 d:libidl
@@ -126,9 +125,6 @@ f:687570647d76996f2fd9e0d4174f26c5:pidgin-xfire/pidgin-xfire-0.9.4-gettex.patch
 f:92cb1cef1a6883262a0d059e1aaa8c27:pidgin-xfire/Pkgfile
 f:910c7483c5fee8257af82478becef245:pidgin-xfire/.md5sum
 f:ba9ab8eeb5feb604a2d402adedfa9602:pidgin-xfire/.footprint
-f:a154fd5cffb964937e3215bd3cf44552:libnice-git/Pkgfile
-f:d41d8cd98f00b204e9800998ecf8427e:libnice-git/.md5sum
-f:150ef0a2a4ef615538c73e9668ff4640:libnice-git/.footprint
 f:6023834d423de3b1664f04bffeb0b3a0:sipcrack/Pkgfile
 f:c5c49600eb4c3e60c2ca54812ba7072c:sipcrack/.md5sum
 f:f5cc952f496b96480015bdc5ba4aeac7:sipcrack/.footprint
