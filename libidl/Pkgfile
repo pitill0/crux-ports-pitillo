@@ -1,0 +1,17 @@
+# Description: libraries for Interface Definition Language files
+# URL: https://www.linuxfromscratch.org/blfs/view/7.4/general/libidl.html
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: glib 
+
+name=libidl
+version=0.8.14
+release=1
+source=(http://ftp.gnome.org/pub/gnome/sources/libIDL/${version%.*}/libIDL-$version.tar.bz2)
+
+build() {
+  cd libIDL-$version
+  ./configure --prefix=/usr
+  make
+  make DESTDIR=$PKG install
+  rm -r $PKG/usr/share
+}
