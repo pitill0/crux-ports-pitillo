@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgMMPRXjVa/t8HYmMJHeHhAk79u8Oz1ulODo7Am8vt5pxTL0l1gZPp8953UgH0PmhmpPTEVVRgIo5B2nnxFATfAU=
+SHA256 (Pkgfile) = 6c5300db1b5867d339f6daba4e5952c086bd235e5bd7be5baaa681b4d6e9fb81
+SHA256 (.footprint) = 11d177053295ed8a1c42bc7ec63fd2656dd86f72d0f04183dcd6d9f67bfe3a0f
+SHA256 (ctorrent-dnh3.3.2.tar.gz) = c87366c91475931f75b924119580abd06a7b3cb3f00fef47346552cab1e24863
