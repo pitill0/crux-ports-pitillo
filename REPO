@@ -61,7 +61,6 @@ d:hostap-utils
 d:devio
 d:zaz
 d:python3-style50
-d:chromium-bsu
 d:python3-pygame
 d:dgop
 d:xinput_calibrator
@@ -270,9 +269,6 @@ f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
 f:58cc547c104520e2feaa77b8dd9b070d:python3-style50/Pkgfile
 f:a840a61f4ea6c326906f19c72b631a04:python3-style50/.footprint
 f:41e19c6eb4d1f2d648fdd42dcee142ba:python3-style50/.signature
-f:a3938935ff937ed2634f4b8b794038cb:chromium-bsu/Pkgfile
-f:b3f13b4e5af510b50447b0a86e8a61d8:chromium-bsu/.md5sum
-f:435c97a2f47236e202ebbf9b535167b7:chromium-bsu/.footprint
 f:f21561f5c89df3f007acf8d02a3ee476:python3-pygame/Pkgfile
 f:eb3de37fbd6f5cbafb238c73b2c4dd6a:python3-pygame/.footprint
 f:c4f811b40ac17a0638aa84ff1bb1a337:python3-pygame/.signature
