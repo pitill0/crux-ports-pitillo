@@ -47,7 +47,6 @@ d:x11vnc
 d:openocd
 d:leafpad
 d:p5-mysql
-d:gxmessage
 d:hostap-utils
 d:devio
 d:zaz
@@ -214,9 +213,6 @@ f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
 f:344c64bcf7b99c190d33b363b590334c:p5-mysql/Pkgfile
 f:9b34228554553fc517351cacfb515353:p5-mysql/.md5sum
 f:beb864c5315034325ceb2d22926c2eb2:p5-mysql/.footprint
-f:83ece1eea20028ff3d5850a906c4da53:gxmessage/Pkgfile
-f:19df661b260866620e443f59db887558:gxmessage/.md5sum
-f:959a7573c59459a1a31d8662ef52775b:gxmessage/.footprint
 f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
 f:c9d6acb9772cc4f508f34d562d70b123:hostap-utils/.md5sum
