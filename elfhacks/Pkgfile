@@ -6,7 +6,7 @@
 name=elfhacks
 version=0.4.1
 release=1
-source=(http://pr.willowgarage.com/downloads/$name-$version.tar.gz)
+source=(http://download.ros.org/downloads/$name-$version.tar.gz)
 		
 build()
 {

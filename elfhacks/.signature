@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgP7/Hr9vj++tGRhNwpS7DrNu08Syj6/5pQvsPy2zqLGZPevVqGNm1U1FKQr0aYJxH+y8MHIkLFuiPbk/cD7/cQ0=
+SHA256 (Pkgfile) = 38a36e381299b3fbc7bbe087b6f889571f76a277a95bc9458065f5dfd2f41092
+SHA256 (.footprint) = 98aec6b8620b86f423f18700124e2aa6880fcf410b7d46b8b614eee9d681185f
+SHA256 (elfhacks-0.4.1.tar.gz) = d1f4d57850586dd58e83bead2893f6ade90719960119cdde097ef9e6cd274804
