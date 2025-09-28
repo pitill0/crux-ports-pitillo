@@ -257,8 +257,8 @@ f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
 f:c9d6acb9772cc4f508f34d562d70b123:hostap-utils/.md5sum
 f:da73070346b37482b456a220fdd2d038:hostap-utils/.footprint
 f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
-f:a0af654e264959cc4300217d9a3ad2dc:devio/.md5sum
 f:9ef1a1cea756a680ac07fa30e40ac30f:devio/.footprint
+f:f14f8bd133786be8737f66bd1c43b2ed:devio/.signature
 f:87ccff3bf3e8ad0f52f33f9c89e03c77:zaz/Pkgfile
 f:cb58d1db92cb3d4da3349d5e415b9405:zaz/.md5sum
 f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
