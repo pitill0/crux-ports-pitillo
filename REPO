@@ -8,7 +8,6 @@ d:aop
 d:lightmediascanner
 d:p5-dbi
 d:python3-jellyfish
-d:jnettop
 d:prt-snapshot
 d:ctorrent
 d:genimage
@@ -88,9 +87,6 @@ f:c0c0019436837abfb218721cbd06ab1a:p5-dbi/.footprint
 f:e7748fc6c5973fa6bcf92714c2f7c8d4:python3-jellyfish/Pkgfile
 f:ad1b0606297bffb991cd8ba74800ebd8:python3-jellyfish/.footprint
 f:f3c4a48bc6118eeb8ffb26b9aebd6b17:python3-jellyfish/.signature
-f:291f71d65c9e6b68d4a263a68218c806:jnettop/Pkgfile
-f:31a941589d5fa7fe8c9661b2e0968682:jnettop/.md5sum
-f:768476460d5a140482cfcede6e99dc39:jnettop/.footprint
 f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
