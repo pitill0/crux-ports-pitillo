@@ -50,7 +50,6 @@ d:x11vnc
 d:openocd
 d:gtmess
 d:leafpad
-d:fcheck
 d:p5-mysql
 d:gxmessage
 d:hostap-utils
@@ -231,9 +230,6 @@ f:015d47fc1151f615fefa81b7c8b39144:leafpad/Pkgfile
 f:d3bd16e159a3db8633d6d56131826b2f:leafpad/.md5sum
 f:209716c607f1bca57d3bee4af7367206:leafpad/.footprint
 f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
-f:e9df3ff37a599b93da8874e19f9d832c:fcheck/Pkgfile
-f:6e3b5e87d8f4b52b099ccb6cfaf92631:fcheck/.md5sum
-f:454759bf4b784c080c747cd0aa467dfd:fcheck/.footprint
 f:344c64bcf7b99c190d33b363b590334c:p5-mysql/Pkgfile
 f:9b34228554553fc517351cacfb515353:p5-mysql/.md5sum
 f:beb864c5315034325ceb2d22926c2eb2:p5-mysql/.footprint
