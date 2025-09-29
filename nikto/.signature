@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJBd9uWrw7kWrp5Gj/LfzVtrA4kx9DvqhkRp0+kX1Jmf7RL+iyXWHfCBOySLflWAg/ShQWuESw1SAstvx7xFqwA=
+SHA256 (Pkgfile) = 4ace517157458189346a90cddf9c378eb484a8e74052f4ce2feb023e640bd2f8
+SHA256 (.footprint) = 291d7da41a70264cbb21f08780a5254e5bd8c1ed696209aefcc15a29314c2c71
+SHA256 (nikto-v2.5.0.tar.gz) = fb0dc4b2bc92cb31f8069f64ea4d47295bcd11067a7184da955743de7d97709d
