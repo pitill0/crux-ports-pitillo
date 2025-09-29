@@ -1,0 +1,30 @@
+# Description: MAME is a multi-purpose emulation framework.
+# URL: https://github.com/mamedev/mame
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: rapidjson portmidi portaudio qt5 lua++ sdl2_ttf brotli double-conversion graphite2 icu lame mpg123 pugixml pulseaudio utf8proc glm portmidi
+
+name=mame
+version=0.274
+release=1
+source=(https://github.com/${name}dev/${name}/archive/${name}0274/${name}-${name}0274.tar.gz
+  mame.sh)
+
+build() {
+  cd ${name}-${name}0274
+  # Fix boost/asio.h and lua
+  sed -e 's|USE_SYSTEM_LIB_ASIO = 1|USE_SYSTEM_LIB_ASIO = 0|g' -i makefile 
+  sed -e 's|USE_SYSTEM_LIB_LUA = 1|USE_SYSTEM_LIB_LUA = 0|g' -i makefile
+  # Use system libraries
+  sed -e 's|\# USE_SYSTEM_LIB|USE_SYSTEM_LIB|g' -i makefile
+  # Use C++ LUA
+  sed -e 's|ext_lib("lua")|ext_lib("lua++")|' -i scripts/src/main.lua -i scripts/src/3rdparty.lua
+  # Drop hardcoded libexec
+  sed -e 's|libexec/||' -i scripts/src/osd/modules.lua 
+
+  make -j$JOBS OPTIMIZE=2 QT_HOME=/usr/lib/qt5 VERBOSE=1 NOWERROR=1 TOOLS=1
+  
+  # Install the mame script
+  install -Dm755 $SRC/${name}.sh $PKG/usr/bin/${name}
+  # Install the binaries
+  install -Dm755 ${name} -t $PKG/usr/lib/${name}
+}
