@@ -4,9 +4,9 @@
 # Depends on: 
 
 name=texi2html
-version=1.64
+version=5.0
 release=1
-source=(http://www.mathematik.uni-kl.de/~obachman/Texi2html/Distrib/$name-$version.tar.gz)
+source=(http://download.savannah.gnu.org/releases/texi2html/texi2html-5.0.tar.bz2)
 
 build() {
   cd $name-$version
@@ -14,5 +14,5 @@ build() {
               --disable-nls
   make
   make DESTDIR=$PKG install
-  rm -r $PKG/usr/{info,html}
+#  rm -r $PKG/usr/{info,html}
 }
