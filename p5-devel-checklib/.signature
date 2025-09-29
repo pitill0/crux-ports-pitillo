@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgOhm4hRU7yw4Zqe84ByKWsOjtkQ3uCya8n9FF3E5AFF6JBeGIRR3bSvq/ALNfDvQl2NLg8C6SOri6mUH312zHgU=
+SHA256 (Pkgfile) = 96d5f1d7a2bca7096a293399e6000020fd55c4d3c53626c5329447eb19ba1ac6
+SHA256 (.footprint) = 32fa0c83fe78d60c60ac79e1071568e2c06edfaa2b9c1cbb74e534ef8f97f7d1
+SHA256 (Devel-CheckLib-1.16.tar.gz) = 869d38c258e646dcef676609f0dd7ca90f085f56cf6fd7001b019a5d5b831fca

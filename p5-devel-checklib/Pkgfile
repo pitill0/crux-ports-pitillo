@@ -1,0 +1,20 @@
+# Description: check that a library is available
+# URL: https://metacpan.org/dist/Devel-CheckLib
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: perl
+
+name=p5-devel-checklib
+version=1.16
+release=1
+source=(http://search.cpan.org/CPAN/authors/id/M/MA/MATTN/Devel-CheckLib-$version.tar.gz)
+
+build() {
+  cd Devel-CheckLib-$version 
+  perl Makefile.PL
+  make OPTIMIZE="$CFLAGS"
+  make DESTDIR=$PKG install
+  find $PKG -name .packlist -o \
+    -name perllocal.pod -o \
+    -name README -o \
+    -name '*.bs' | xargs rm
+}
