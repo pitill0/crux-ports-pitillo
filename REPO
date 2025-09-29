@@ -148,9 +148,9 @@ f:a33854ba6e3fe5f6ac28dbe6e3d31312:qmc2-mame-fe/Pkgfile
 f:403d929003a08699f4dc7395c61eff6a:qmc2-mame-fe/.footprint
 f:69a3f8e7ba305d9975fe1b4c3814e4da:qmc2-mame-fe/webengine.patch
 f:2edd42b0f38b160f1ae0c1d0e6edea90:qmc2-mame-fe/.signature
-f:fbb13bb0f79c48e0546de13459550b99:sdl_sound/Pkgfile
-f:a4527dd1adef756c43f3b5c95b7dae62:sdl_sound/.md5sum
-f:fd90bd331906452756d06457f2252207:sdl_sound/.footprint
+f:e54034e7619e977b93a174c7dca92a43:sdl_sound/Pkgfile
+f:32f15779774a12b51fa538eeb03e7e07:sdl_sound/.footprint
+f:0e58dbf83bc9381675d570e202d4d3e3:sdl_sound/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
