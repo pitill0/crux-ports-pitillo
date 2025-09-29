@@ -171,6 +171,10 @@ f:3d50ecf4b4e96de0f15f80ae4f4dca84:ascii/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
+f:66c98d25e63b6ec0e83c83e0b98d5bca:mame/Pkgfile
+f:ae2aab5ac2b78a031a873fc6714462f9:mame/mame.sh
+f:85418acebdbcb30394ce020c80167f96:mame/.footprint
+f:386ac3914e012d7df0fceab0f4ef6257:mame/.signature
 f:cce319d655f3dae9bb608dc07ac549fb:mame/README
 f:bfa6956d3ffb8645599db1d3a02c432b:portmidi/Pkgfile
 f:389c98eaaf8e8fd712fa7a4ac8a1e0f4:portmidi/.footprint
