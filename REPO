@@ -123,9 +123,9 @@ f:da1c16e4c77c2b70ae4aaed511d68d5b:libidl/.signature
 f:f68b69ed7d9d8385859f181c7f38dc25:xdialog/Pkgfile
 f:47473d02ff9a2fb4a13ed2582c1c9958:xdialog/.md5sum
 f:e71abb900467d22c6532ec80c0c71ab5:xdialog/.footprint
-f:a58f2aa7f5a656396f5b7ce4b49d2c81:texi2html/Pkgfile
-f:a5aa0b58e0ee1f6776fc661ee5d8f6b1:texi2html/.md5sum
-f:f4f697e3d8ede9f44510a9fc12d9238a:texi2html/.footprint
+f:f0d42d8ecfe81f1c95de25d57a8eca2a:texi2html/Pkgfile
+f:8bad8a15c2cf0e3354dc02c2a0fc6a9f:texi2html/.footprint
+f:b6c22c0caac3e4174ce93544d3ae0060:texi2html/.signature
 f:275c322bab0b0657b8ef4c516212b161:tcedemo2avi/Pkgfile
 f:01d5ec227d6b18e776db98e995789568:tcedemo2avi/.md5sum
 f:ba031d74d81d9e0a5577fdb0c07a672a:tcedemo2avi/tcedemo2avi.conf
