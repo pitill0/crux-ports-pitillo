@@ -18,6 +18,7 @@ d:python3-icdiff
 d:cscope
 d:nikto
 d:sdlmame
+d:p5-devel-checklib
 d:pidgin-xfire
 d:sipcrack
 d:blockrage
@@ -117,6 +118,9 @@ f:e8e9b2e5ff3cbce0df07af65bda31c91:sdlmame/Pkgfile
 f:24fcf18ba99822599c13b220f3242817:sdlmame/.md5sum
 f:31aa60226d347dc70f8710d5c32649e5:sdlmame/.footprint
 f:19fe7f9651b5d4157b14947e006dd478:sdlmame/README
+f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
+f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
+f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
 f:687570647d76996f2fd9e0d4174f26c5:pidgin-xfire/pidgin-xfire-0.9.4-gettex.patch
 f:92cb1cef1a6883262a0d059e1aaa8c27:pidgin-xfire/Pkgfile
 f:910c7483c5fee8257af82478becef245:pidgin-xfire/.md5sum
