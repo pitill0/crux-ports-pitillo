@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgLQhtTai4+cbDay73lN6gl5BtrwP+wh3gCr/FWiIf6qzK4sLGWRtZUAF7ZDN3MFWYADv4sUYfn6cOOBp5trPBQo=
+SHA256 (Pkgfile) = f46352e60a27c9c269d1f2fddf3c76da2af17b42c8cde954830f88c3cabcafd9
+SHA256 (.footprint) = 2e3a506c5a3225b1bf046ff69770423e5e4637251bde02dfe9d0ef2e66b0c182
+SHA256 (DBI-1.643.tar.gz) = 8a2b993db560a2c373c174ee976a51027dd780ec766ae17620c20393d2e836fa

@@ -4,7 +4,7 @@
 # Depends on: perl
 
 name=p5-dbi
-version=1.618
+version=1.643
 release=1
 source=(http://cpan.cpantesters.org/authors/id/T/TI/TIMB/DBI-$version.tar.gz)
 
