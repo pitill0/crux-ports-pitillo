@@ -33,6 +33,7 @@ d:xcdroast
 d:ascii
 d:python3-lib50
 d:mame
+d:portmidi
 d:python3-jsbeautifier
 d:quilt
 d:minidlna
@@ -165,6 +166,9 @@ f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:cce319d655f3dae9bb608dc07ac549fb:mame/README
+f:bfa6956d3ffb8645599db1d3a02c432b:portmidi/Pkgfile
+f:389c98eaaf8e8fd712fa7a4ac8a1e0f4:portmidi/.footprint
+f:b380744a7ad0722c9d91de2f34a9f197:portmidi/.signature
 f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
 f:0941a58f34fa8bc65ea8f018554b5851:python3-jsbeautifier/.footprint
 f:297357aca142f7f8244658ebafd94b25:python3-jsbeautifier/.signature
