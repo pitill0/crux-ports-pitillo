@@ -4,14 +4,15 @@
 # Depends on:
 
 name=openocd
-version=0.7.0
+version=0.12.0
 release=1
 source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.zip)
 
 build() {
   cd $name-$version
   ./configure --prefix=/usr \
-              --mandir=/usr/man 
+              --mandir=/usr/share/man \
+              --disable-werror
   make
   make DESTDIR=$PKG install
 }
