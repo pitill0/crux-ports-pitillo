@@ -231,9 +231,9 @@ f:7c78746f0f4b46347f1024740ffc9b7e:dgop/.signature
 f:1ce54c2ca9dfe0e90f2108846b4f4f3a:xinput_calibrator/Pkgfile
 f:4c7b7f00ddaf0f1543b3af72fa23b5da:xinput_calibrator/.md5sum
 f:4ae9c0b1e022b629cf1c392ac25ec807:xinput_calibrator/.footprint
-f:d1e2da1c35b1cfea0e41cca606689f1e:pd/Pkgfile
-f:6819d03a99e5331e1ed4c576ac3af50f:pd/.md5sum
-f:ee47871655ce02a55796aaf11de8847d:pd/.footprint
+f:9eae692a40c27dce0a7b7d700ae620e7:pd/Pkgfile
+f:ae31e3ea328797a76dbbbe4d11a9a035:pd/.footprint
+f:d2436818bf880b9015ce7ddc38cd2d70:pd/.signature
 f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
 f:0cca529faf9e55839840851535586ddd:btop/.footprint
 f:471528e80ba757909cfce96ec5802787:btop/.signature
