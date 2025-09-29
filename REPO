@@ -18,7 +18,6 @@ d:python3-icdiff
 d:cscope
 d:nikto
 d:p5-devel-checklib
-d:sipcrack
 d:blockrage
 d:libidl
 d:xdialog
@@ -114,9 +113,6 @@ f:3957852de4baa40ec37b68b0d014c018:nikto/.signature
 f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
-f:6023834d423de3b1664f04bffeb0b3a0:sipcrack/Pkgfile
-f:c5c49600eb4c3e60c2ca54812ba7072c:sipcrack/.md5sum
-f:f5cc952f496b96480015bdc5ba4aeac7:sipcrack/.footprint
 f:1eddebced89d7ceee09725961f3ec489:blockrage/Pkgfile
 f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
 f:411322ab9a089334415259c03717403f:blockrage/.signature
