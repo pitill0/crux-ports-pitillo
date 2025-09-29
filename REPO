@@ -17,7 +17,6 @@ d:librewolf
 d:python3-icdiff
 d:cscope
 d:nikto
-d:sdlmame
 d:p5-devel-checklib
 d:sipcrack
 d:blockrage
@@ -112,10 +111,6 @@ f:99bdd9465569ad00ccfe27d5b2d3cce5:cscope/.signature
 f:ca9a4c02dfa62f171e835639bad6118e:nikto/Pkgfile
 f:2689ca669db1fa7dcf9aca0f9338ccb5:nikto/.footprint
 f:3957852de4baa40ec37b68b0d014c018:nikto/.signature
-f:e8e9b2e5ff3cbce0df07af65bda31c91:sdlmame/Pkgfile
-f:24fcf18ba99822599c13b220f3242817:sdlmame/.md5sum
-f:31aa60226d347dc70f8710d5c32649e5:sdlmame/.footprint
-f:19fe7f9651b5d4157b14947e006dd478:sdlmame/README
 f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
