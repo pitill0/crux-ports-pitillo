@@ -94,9 +94,9 @@ f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
 f:3084a5f881efb83a3c0616cf18dd0b64:siege/Pkgfile
 f:975a3a780ff198467a3fccc4ab811a57:siege/.md5sum
 f:b39bf8fd34ecd1786d6d7d8aa347c985:siege/.footprint
-f:5bdb3d9de8c18b522110fbe08f38c0d5:nbd/Pkgfile
-f:f035fecb8241d067ecfbe3aef2050088:nbd/.md5sum
-f:a5752f6939ed7a9d759dcd666801654f:nbd/.footprint
+f:3fce60c52c2311838a335e1909df6e6e:nbd/Pkgfile
+f:da08f25320f5d437c4748e2e7d79ab91:nbd/.footprint
+f:7ea6b54307944260edf0dba0c2c093ee:nbd/.signature
 f:a6377dd67f83af137dfe6cc437e4572c:wavemon/Pkgfile
 f:4a2028d2166e71425bf7c69847575ce9:wavemon/.md5sum
 f:e8b1bc4f0cd9c09d1755d9f8ef7bb4f0:wavemon/.footprint
