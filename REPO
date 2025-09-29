@@ -179,9 +179,9 @@ f:b380744a7ad0722c9d91de2f34a9f197:portmidi/.signature
 f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
 f:0941a58f34fa8bc65ea8f018554b5851:python3-jsbeautifier/.footprint
 f:297357aca142f7f8244658ebafd94b25:python3-jsbeautifier/.signature
-f:8248b3a381d89ea1bb3df64319b7de63:quilt/Pkgfile
-f:6540aec02b645ac99a719044fb9c748d:quilt/.md5sum
-f:a94185c01389ddc01057eb7c29f984a2:quilt/.footprint
+f:9b5baa26d426b59cc7066786946f1200:quilt/Pkgfile
+f:72953f38a997f3e75b9b73b41ef940bd:quilt/.footprint
+f:1bce612b2df1f20ce6410ee43e92e861:quilt/.signature
 f:5672be36a08a2ef94dba4383d8bd78ba:libosip2/Pkgfile
 f:c5192205cd2088fd16eab2842c8b8282:libosip2/.footprint
 f:243fb83b15fdeb3478db211c9f6884da:libosip2/.signature
