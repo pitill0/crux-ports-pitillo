@@ -1,12 +1,12 @@
-# Description: Network blcok device client/server 
+# Description: Network block device client/server 
 # URL: http://nbd.sourceforge.net/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: 
 
 name=nbd
-version=3.3
+version=3.24
 release=1
-source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.tar.bz2)
+source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.tar.xz)
 
 build() {
   cd $name-$version
