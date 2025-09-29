@@ -1,0 +1,23 @@
+# Description: cross-platform MIDI input/output library
+# URL: https://github.com/PortMidi/portmidi
+# Maintainer: Christopher Cavanaugh, christopher at chrcav dot dev
+# Depends on: alsa-lib
+
+name=portmidi
+version=2.0.6
+release=1
+source=(https://github.com/PortMidi/$name/archive/refs/tags/v$version/${name}-${version}.tar.gz)
+
+build() {
+  cd ${name}-${version}
+  
+  cmake -B build \
+    -D CMAKE_INSTALL_PREFIX=/usr \
+    -D CMAKE_INSTALL_LIBDIR=lib \
+    -D CMAKE_BUILD_TYPE=Release \
+    -D CMAKE_C_FLAGS_RELEASE="$CFLAGS" \
+    -Wno-dev
+  
+  cmake --build build -j ${JOBS:-1}
+  DESTDIR=$PKG cmake --install build
+}
