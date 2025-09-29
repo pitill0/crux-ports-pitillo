@@ -45,7 +45,6 @@ d:libexosip2
 d:x11vnc
 d:openocd
 d:leafpad
-d:p5-mysql
 d:hostap-utils
 d:devio
 d:zaz
@@ -210,9 +209,6 @@ f:0305f39e3f616280c433bfc5680111f1:leafpad/Pkgfile
 f:c37a825a375f43e33ca89e993f7e04f0:leafpad/.footprint
 f:429c54b9377468dce773b5ddce7d5859:leafpad/.signature
 f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
-f:344c64bcf7b99c190d33b363b590334c:p5-mysql/Pkgfile
-f:9b34228554553fc517351cacfb515353:p5-mysql/.md5sum
-f:beb864c5315034325ceb2d22926c2eb2:p5-mysql/.footprint
 f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
 f:da73070346b37482b456a220fdd2d038:hostap-utils/.footprint
