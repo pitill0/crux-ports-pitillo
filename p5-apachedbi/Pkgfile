@@ -4,9 +4,9 @@
 # Depends on: perl
 
 name=p5-apachedbi
-version=1.08
+version=1.12
 release=1
-source=(http://search.cpan.org/CPAN/authors/id/A/AB/ABH/Apache-DBI-$version.tar.gz)
+source=(http://search.cpan.org/CPAN/authors/id/P/PH/PHRED/Apache-DBI-1.12.tar.gz)
 
 build() {
   cd Apache-DBI-$version 
