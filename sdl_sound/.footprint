@@ -1,13 +1,21 @@
 drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/playsound
--rwxr-xr-x	root/root	usr/bin/playsound_simple
 drwxr-xr-x	root/root	usr/include/
-drwxr-xr-x	root/root	usr/include/SDL/
--rw-r--r--	root/root	usr/include/SDL/SDL_sound.h
+drwxr-xr-x	root/root	usr/include/SDL2/
+-rw-r--r--	root/root	usr/include/SDL2/SDL_sound.h
 drwxr-xr-x	root/root	usr/lib/
-lrwxrwxrwx	root/root	usr/lib/libSDL_sound-1.0.so.1 -> libSDL_sound-1.0.so.1.0.2
--rwxr-xr-x	root/root	usr/lib/libSDL_sound-1.0.so.1.0.2
--rw-r--r--	root/root	usr/lib/libSDL_sound.a
--rwxr-xr-x	root/root	usr/lib/libSDL_sound.la
-lrwxrwxrwx	root/root	usr/lib/libSDL_sound.so -> libSDL_sound-1.0.so.1.0.2
+drwxr-xr-x	root/root	usr/lib/cmake/
+drwxr-xr-x	root/root	usr/lib/cmake/SDL2_sound/
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_sound-shared-targets-release.cmake
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_sound-shared-targets.cmake
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_sound-static-targets-release.cmake
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_sound-static-targets.cmake
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_soundConfig.cmake
+-rw-r--r--	root/root	usr/lib/cmake/SDL2_sound/SDL2_soundConfigVersion.cmake
+-rw-r--r--	root/root	usr/lib/libSDL2_sound.a
+lrwxrwxrwx	root/root	usr/lib/libSDL2_sound.so -> libSDL2_sound.so.2
+lrwxrwxrwx	root/root	usr/lib/libSDL2_sound.so.2 -> libSDL2_sound.so.2.0.4
+-rwxr-xr-x	root/root	usr/lib/libSDL2_sound.so.2.0.4
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/SDL2_sound.pc

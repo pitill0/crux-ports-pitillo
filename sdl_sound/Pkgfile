@@ -6,14 +6,20 @@
 # Nice to have: smpeg
 
 name=sdl_sound
-version=1.0.3
+version=2.0.4
 release=1
 
-source=(http://www.icculus.org/SDL_sound/downloads/SDL_sound-$version.tar.gz)
+source=(https://github.com/icculus/SDL_sound/releases/download/v${version}/SDL2_sound-$version.tar.gz)
 
 build() {
-  cd SDL_sound-$version
-  ./configure --prefix=/usr
-  make
-  make DESTDIR=$PKG install
+#  cd SDL2_sound-$version
+  cmake -S SDL2_sound-$version -B build \
+        -D CMAKE_BUILD_TYPE=Release \
+        -D CMAKE_C_FLAGS_RELEASE="$CFLAGS" \
+        -D CMAKE_INSTALL_PREFIX=/usr \
+        -D CMAKE_INSTALL_LIBDIR=lib \
+        -Wno-dev
+
+  cmake --build build -j ${JOBS:-1}
+  DESTDIR=$PKG cmake --install build
 }
