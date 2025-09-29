@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgDFBnSOVgY/DHwzZ9te0+o+RANz3e0AxMxB33b2mfKlnShXt7gYiV37kXhaE4P0fv+2vlFFmE2gD9nH6Od9hTw4=
+SHA256 (Pkgfile) = d6a8a0c1992fb795b34c509df5cb8b6c689faa7a9c0d34c8418cb24d12f5ef20
+SHA256 (.footprint) = 17274924ddaa866ff9bd18a3aa4a3cedef05155bd1e4183ff6a3c92e2dacb885
+SHA256 (siege-4.1.7.tar.gz) = ec140cedd159979383d60dbe87a0151c2c12ada78791095a8fa84ae635b93026
