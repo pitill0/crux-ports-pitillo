@@ -110,9 +110,9 @@ f:888e79cbf29f6199211b587227248573:python3-icdiff/.signature
 f:77493fd4d2542e8b3213988c4a48ac14:cscope/Pkgfile
 f:a5e072905cf190f7b3c028700229f22f:cscope/.footprint
 f:99bdd9465569ad00ccfe27d5b2d3cce5:cscope/.signature
-f:15f7e2a61ef6cb2e922abd545cc04da5:nikto/Pkgfile
-f:7dd063c7a248f61753bc578b1f627b5c:nikto/.md5sum
-f:6ab0eed6e508409b0f52beb9a2ac9990:nikto/.footprint
+f:ca9a4c02dfa62f171e835639bad6118e:nikto/Pkgfile
+f:2689ca669db1fa7dcf9aca0f9338ccb5:nikto/.footprint
+f:3957852de4baa40ec37b68b0d014c018:nikto/.signature
 f:e8e9b2e5ff3cbce0df07af65bda31c91:sdlmame/Pkgfile
 f:24fcf18ba99822599c13b220f3242817:sdlmame/.md5sum
 f:31aa60226d347dc70f8710d5c32649e5:sdlmame/.footprint
