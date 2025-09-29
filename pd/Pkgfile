@@ -4,15 +4,15 @@
 # Depends on: alsa-lib 
 
 name=pd
-version=0.45.4
+version=0.56
 release=1
-source=(http://downloads.sourceforge.net/project/pure-data/pure-data/$version/$name-0.45-4.src.tar.gz)
+source=(http://msp.ucsd.edu/Software/$name-$version-1.src.tar.gz)
 
 build() {
-  cd $name-0.45-4
+  cd $name-$version-1
   ./autogen.sh
   ./configure --prefix=/usr \
-              --disable-nls
+              --disable-locales
   make
   make prefix=$PKG/usr install
 }
