@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgBG7ziTcrd1DC/okhzlCmwmleczE4OUtL8/4O5PrhLizDc5wA5M38ZXGeXvQB0W96jPPRqHVKUHCXVxCA63EdAU=
+SHA256 (Pkgfile) = d327f8b8e2f3d0214dcf232b2c00e48bf7c22f1be57816fcdf3fd12b00e3cf76
+SHA256 (.footprint) = d601df0eff3c37a800da442d39c8c24e8eaf9a26af222cf41e4663d9997182ce
+SHA256 (quilt-0.69.tar.gz) = 555ddffde22da3c86d1caf5a9c1fb8a152ac2b84730437bd39cc08849c9f4852

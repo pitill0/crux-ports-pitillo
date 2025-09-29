@@ -4,7 +4,7 @@
 # Depends on: 
 
 name=quilt
-version=0.61
+version=0.69
 release=1
 source=(http://mirrors.fe.up.pt/pub/nongnu/$name/$name-$version.tar.gz)
 

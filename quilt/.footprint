@@ -1,11 +1,11 @@
-drwxr-xr-x	root/root	etc/
-drwxr-xr-x	root/root	etc/bash_completion.d/
--rw-r--r--	root/root	etc/bash_completion.d/quilt
--rw-r--r--	root/root	etc/quilt.quiltrc
 drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/guards
 -rwxr-xr-x	root/root	usr/bin/quilt
+drwxr-xr-x	root/root	usr/etc/
+drwxr-xr-x	root/root	usr/etc/bash_completion.d/
+-rw-r--r--	root/root	usr/etc/bash_completion.d/quilt
+-rw-r--r--	root/root	usr/etc/quilt.quiltrc
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/emacs/
 drwxr-xr-x	root/root	usr/share/emacs/site-lisp/
@@ -19,6 +19,7 @@ drwxr-xr-x	root/root	usr/share/quilt/
 -rwxr-xr-x	root/root	usr/share/quilt/annotate
 -rwxr-xr-x	root/root	usr/share/quilt/applied
 drwxr-xr-x	root/root	usr/share/quilt/compat/
+lrwxrwxrwx	root/root	usr/share/quilt/compat/7z -> /usr/bin/7zr
 lrwxrwxrwx	root/root	usr/share/quilt/compat/awk -> /usr/bin/gawk
 lrwxrwxrwx	root/root	usr/share/quilt/compat/sendmail -> /usr/sbin/sendmail
 -rwxr-xr-x	root/root	usr/share/quilt/delete
@@ -46,13 +47,15 @@ drwxr-xr-x	root/root	usr/share/quilt/scripts/
 -rwxr-xr-x	root/root	usr/share/quilt/scripts/backup-files
 -rwxr-xr-x	root/root	usr/share/quilt/scripts/dependency-graph
 -rwxr-xr-x	root/root	usr/share/quilt/scripts/edmail
--rwxr-xr-x	root/root	usr/share/quilt/scripts/inspect
+-rwxr-xr-x	root/root	usr/share/quilt/scripts/inspect-wrapper
 -rw-r--r--	root/root	usr/share/quilt/scripts/patchfns
 -rwxr-xr-x	root/root	usr/share/quilt/scripts/remove-trailing-ws
 -rw-r--r--	root/root	usr/share/quilt/scripts/utilfns
 -rwxr-xr-x	root/root	usr/share/quilt/series
 -rwxr-xr-x	root/root	usr/share/quilt/setup
 -rwxr-xr-x	root/root	usr/share/quilt/snapshot
+drwxr-xr-x	root/root	usr/share/quilt/spec-filters/
+-rwxr-xr-x	root/root	usr/share/quilt/spec-filters/obs
 -rwxr-xr-x	root/root	usr/share/quilt/top
 -rwxr-xr-x	root/root	usr/share/quilt/unapplied
 -rwxr-xr-x	root/root	usr/share/quilt/upgrade
