@@ -5,13 +5,16 @@
 
 name=mog
 version=0.63-1548
-release=2
+release=3
 source=(http://braingames.jorito.net/mog/downloads/$name.src_$version.tgz)
 
 build() {
   cd $name-0.63.1548
   install -d $PKG/usr/bin
+  sed -e 's|GAMEDIR = $(PREFIX)/games|GAMEDIR = $(PREFIX)/|g' \
+      -e 's|BINDIR = $(PREFIX)/share/games/$(EXE)|BINDIR = $(PREFIX)/share/$(EXE)|g' \
+      -e 's|"cd \\"$(BINDIR)\\"|"cd /usr/share/mog|g' \
+      -i Makefile
   make 
-  sed 's|"cd \"$(BINDIR)\"|"cd \"/usr/share/mog\"|g' -i Makefile
-  make PREFIX=$PKG/usr GAMEDIR=$PKG/usr BINDIR=$PKG/usr/share/$name STARTUP=$PKG/usr/bin/$name install
+  make PREFIX=$PKG/usr STARTUP=$PKG/usr/bin/$name install
 }
