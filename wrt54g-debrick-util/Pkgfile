@@ -4,12 +4,19 @@
 # Depends on: 
 
 name=wrt54g-debrick-util
-version=48
+version=git
 release=1
-source=(http://downloads.openwrt.org/utils/HairyDairyMaid_WRT54G_Debrick_Utility_v48.zip)
+source=()
 
 build() {
-  cd HairyDairyMaid_WRT54G_Debrick_Utility_v48
+  if [ ! -d $PKGMK_SOURCE_DIR/${name} ]; then
+    (git clone https://github.com/trinitronx/HairyDairyMaid_WRT54G_Debrick_Utility $PKGMK_SOURCE_DIR/$name)
+  else
+    cd $PKGMK_SOURCE_DIR/$name && git fetch
+  fi
+  cp -r $PKGMK_SOURCE_DIR/$name $SRC
+
+  cd $SRC/$name
   make
   install -D -m 755 wrt54g $PKG/usr/bin/wrt54g
 }
