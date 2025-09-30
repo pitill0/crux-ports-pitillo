@@ -4,9 +4,9 @@
 # Depends on: xorg-libxi xorg-libxrandr
 
 name=xinput_calibrator
-version=0.7.5
+version=0.8.0
 release=1
-source=(http://cloud.github.com/downloads/tias/$name/${name}-$version.tar.gz)
+source=(https://xorg.freedesktop.org/archive/individual/app/$name-$version.tar.gz)
 
 build() {
   cd ${name}-$version
