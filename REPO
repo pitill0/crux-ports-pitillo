@@ -60,9 +60,9 @@ f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
-f:687f68301467ae94db7e5600abd59c07:wrt54g-debrick-util/Pkgfile
-f:8947cdaa7757bdd273532841fb707eaa:wrt54g-debrick-util/.md5sum
+f:e622a677eb09f9a9216a04e6156e4446:wrt54g-debrick-util/Pkgfile
 f:f8eafdb13be31b2eaff54e2fa2ae5bf5:wrt54g-debrick-util/.footprint
+f:1ed3a70e016c7cc51c961f27e8ce0e7c:wrt54g-debrick-util/.signature
 f:7271ba46f0680aabe88be46f12a0fc53:python3-pycodestyle/Pkgfile
 f:a43fa8821e4c50ab0ebbb14125bdd622:python3-pycodestyle/.footprint
 f:bf0c64b45b8a61ca64e1f25c9f03228e:python3-pycodestyle/.signature
