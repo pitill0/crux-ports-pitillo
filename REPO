@@ -1,5 +1,6 @@
 d:python3-autopep8
 d:voipong
+d:libvncserver
 d:python3-magic
 d:wrt54g-debrick-util
 d:python3-pycodestyle
@@ -57,6 +58,10 @@ f:4ce595b44309ed182e931ed301ae12a1:python3-autopep8/.signature
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:a6b892d3c25199bb595d657403df44bf:voipong/.md5sum
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
+f:ae2d6d4d0ae020800a96600233906097:libvncserver/Pkgfile
+f:b65a84879c8c926fac44fb01d9bdaef9:libvncserver/.md5sum
+f:70433040e0db3a42aecc1e55c0045027:libvncserver/.footprint
+f:6a9dbc5cc657cfa6d07af461441a1f52:libvncserver/.signature
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
