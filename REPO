@@ -190,9 +190,9 @@ f:a2f91045b8f10a377c48a60eef223db2:glpng/.signature
 f:c6689564a26bc36b5b578a80581b9fc6:libexosip2/Pkgfile
 f:293fe6dc946be77ea29735448252a48b:libexosip2/.footprint
 f:cf4d4f18d7e008732d7e4a7709b9f7ee:libexosip2/.signature
-f:3e7d9cbf64629327f7228483d4d8fa8a:x11vnc/Pkgfile
-f:3dbf9bd2088a2696a1ff9ed7160d943b:x11vnc/.md5sum
-f:ed5543829cd605eb57324fca2f37d042:x11vnc/.footprint
+f:5b4c0282530647ad630e0e3cedefa2bf:x11vnc/Pkgfile
+f:ef16e2c19e189e0fbc224a021e4b8587:x11vnc/.footprint
+f:dd042cf6c8884731eee52efb825ddff8:x11vnc/.signature
 f:e4d45b92dbaecab95524735d5fb64047:openocd/Pkgfile
 f:540db4d07c1b101c1237f48221a794c7:openocd/.footprint
 f:0942c093603463fc8f738d78e30d1d9b:openocd/.signature
