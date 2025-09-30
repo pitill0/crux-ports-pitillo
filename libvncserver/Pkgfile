@@ -1,0 +1,20 @@
+# Description: library for easy implementation of a VNC server
+# URL: https://github.com/LibVNC/libvncserver
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: gnutls libgcrypt libjpeg-turbo libpng ffmpeg
+
+name=libvncserver
+version=0.9.15
+release=1
+source=(https://github.com/LibVNC/$name/archive/LibVNCServer-$version.tar.gz)
+
+build(){
+  cmake -S $SRC/$name-LibVNCServer-$version -B build -G Ninja \
+    -D CMAKE_INSTALL_PREFIX=/usr \
+    -D CMAKE_INSTALL_LIBDIR=lib \
+    -D CMAKE_BUILD_TYPE=Release \
+    -D CMAKE_C_FLAGS_RELEASE="$CFLAGS" 
+
+  cmake --build build -j ${JOBS:-1}
+  DESTDIR=$PKG cmake --install build
+}
