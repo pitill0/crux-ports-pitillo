@@ -4,16 +4,18 @@
 # Depends on: xorg-libxdamage xorg-libxinerama xorg-libxrandr xorg-libxtst libjpeg
 
 name=x11vnc
-version=0.9.13
+version=0.9.17
 release=1
-source=(http://sourceforge.net/projects/libvncserver/files/$name/$version/$name-$version.tar.gz)
+source=(https://github.com/LibVNC/$name/archive/$version.tar.gz)
 
 build() {
   cd $name-$version
+
+  autoreconf -fi
   ./configure --prefix=/usr \
-              --disable-nls \
-              --mandir=$PKG/usr/man
+              --mandir=$PKG/usr/man \
+              --with-x \
+              --disable-nls
   make
   make prefix=$PKG/usr install
-  rm $PKG/usr/share/x11vnc/classes/ssl/README
 }
