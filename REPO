@@ -40,6 +40,7 @@ d:p5-apachedbi
 d:glpng
 d:libexosip2
 d:x11vnc
+d:pymodbus-dev
 d:openocd
 d:leafpad
 d:hostap-utils
@@ -189,6 +190,9 @@ f:cf4d4f18d7e008732d7e4a7709b9f7ee:libexosip2/.signature
 f:5b4c0282530647ad630e0e3cedefa2bf:x11vnc/Pkgfile
 f:ef16e2c19e189e0fbc224a021e4b8587:x11vnc/.footprint
 f:dd042cf6c8884731eee52efb825ddff8:x11vnc/.signature
+f:8a220416b3491239f45966a5f3f1f941:pymodbus-dev/Pkgfile
+f:04c04ee1446feeece489d49da9f0eec2:pymodbus-dev/.footprint
+f:daf2c7385f7a3348724717e04b0be88c:pymodbus-dev/.signature
 f:e4d45b92dbaecab95524735d5fb64047:openocd/Pkgfile
 f:540db4d07c1b101c1237f48221a794c7:openocd/.footprint
 f:0942c093603463fc8f738d78e30d1d9b:openocd/.signature
