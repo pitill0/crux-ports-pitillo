@@ -1,0 +1,39 @@
+#!/bin/sh
+#
+# /etc/rc.d/nbmd: start/stop nbmd daemon
+#
+
+SSD=/sbin/start-stop-daemon
+PROG=/usr/bin/nbmd
+OPTS="--config /etc/nbmd/nbmd.dist.yaml"
+
+case $1 in
+start)
+  $SSD --start --background --exec $PROG -- $OPTS
+  ;;
+stop)
+  $SSD --stop --retry 10 --exec $PROG
+  ;;
+restart)
+  $0 stop
+  $0 start
+  ;;
+reload)
+  $0 stop
+  $0 start
+  ;;
+status)
+  $SSD --status -u $USER --name nbmd
+  case $? in
+  0) echo "$PROG is running with pid $(cat $PIDFILE)" ;;
+  1) echo "$PROG is not running but the pid file $PIDFILE exists" ;;
+  3) echo "$PROG is not running" ;;
+  4) echo "Unable to determine the program status" ;;
+  esac
+  ;;
+*)
+  echo "usage: $0 [start|stop|restart|reload|status]"
+  ;;
+esac
+
+# End of file

@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgANvd0ENvFrW+vlHU6hp3NoppAmtMfPx0dYRJ6FmXKV+10Tk1fIkfu2McrhHOXynESF1kpLwfLgZ9m7CWoJLog8=
+SHA256 (Pkgfile) = f727954929e3920b54a04841ea4642225362bea3c9ce58230aa13454d9876109
+SHA256 (.footprint) = 0e2e083c572af6c9ca47661b70a21866a137fd8679d225315a615fd014ece6b9
+SHA256 (mbmd-0.13.tar.gz) = cd1f50a49be076b47bdd1ca15fc2151ecd6ebcddb992ec7d51e80df522233d81
+SHA256 (mbmd.service) = d6f959b803861b789fe98be849565fa557c2e3ba3f2ab74b8dc71519e8c7c827

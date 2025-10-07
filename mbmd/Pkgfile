@@ -1,0 +1,21 @@
+# Description: daemon for collecting data from smart meters and grid inverters over modbus 
+# URL: https://github.com/volkszaehler/mbmd
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: go
+
+name=mbmd
+version=0.13
+release=1
+source=(https://github.com/volkszaehler/${name}/archive/${version}/${name}-${version}.tar.gz
+        ${name}.service)
+
+build() {
+  cd ${name}-${version}
+
+  make DESTDIR=${PKG} install
+  make build
+
+  install -D -m0755 ${name} ${PKG}/usr/bin/${name}
+  install -D -m0644 ${name}.dist.yaml ${PKG}/etc/${name}/${name}.dist.yaml
+  install -D -m0755 $SRC/${name}.service $PKG/etc/rc.d/${name}
+} 
