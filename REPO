@@ -28,6 +28,7 @@ d:mog
 d:qmc2-mame-fe
 d:sdl_sound
 d:python3-check50
+d:mbmd
 d:lua++
 d:ascii
 d:python3-lib50
@@ -150,6 +151,10 @@ f:0e58dbf83bc9381675d570e202d4d3e3:sdl_sound/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
+f:eda63678a271296038ac81e48904ed02:mbmd/Pkgfile
+f:572d68dbf8f73b98f6a6e4e01e810ad0:mbmd/.footprint
+f:1802bb2ee60906b506628de9996508a3:mbmd/mbmd.service
+f:c4e2d166f5c104353f2575072f29550a:mbmd/.signature
 f:55edb20f20efcffddb87ca5df3d28bd3:lua++/Pkgfile
 f:7473532fd882ea5693c99ba1d42b7b9a:lua++/.footprint
 f:e7ba6c2b695b0b84a5ea0cbff5fc9067:lua++/lua++.pc
