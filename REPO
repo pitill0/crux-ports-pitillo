@@ -44,6 +44,7 @@ d:x11vnc
 d:pymodbus-dev
 d:openocd
 d:leafpad
+d:supercollider
 d:hostap-utils
 d:devio
 d:zaz
@@ -204,6 +205,9 @@ f:0942c093603463fc8f738d78e30d1d9b:openocd/.signature
 f:0305f39e3f616280c433bfc5680111f1:leafpad/Pkgfile
 f:c37a825a375f43e33ca89e993f7e04f0:leafpad/.footprint
 f:429c54b9377468dce773b5ddce7d5859:leafpad/.signature
+f:c14617e25ad4a68b5978ff68a79af907:supercollider/Pkgfile
+f:d1fe612c50054197c9b11372a79eb30b:supercollider/.footprint
+f:4a54d6d8f53ae2ea8aa9b7cacd1725ee:supercollider/.signature
 f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
 f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
