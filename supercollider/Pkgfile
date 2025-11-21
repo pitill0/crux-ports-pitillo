@@ -1,0 +1,20 @@
+# Description: platform for audio synthesis and algorithmic composition
+# URL: https://github.com/supercollider/supercollider
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: qt6-webengine lame pipewire pulseaudio fftw gst-plugins-base flac lame mpg123 wireplumber
+
+name=supercollider
+version=3.14.0
+release=1
+source=(https://github.com/${name}/${name}/releases/download/Version-${version}/SuperCollider-${version}-Source.tar.bz2)
+
+build() {
+  cmake -S SuperCollider-$version-Source -B build \
+    -D CMAKE_BUILD_TYPE=release \
+    -D CMAKE_CXX_FLAGS_RELEASE="$CXXFLAGS" \
+    -D CMAKE_INSTALL_PREFIX=/usr \
+    -D TASK_DOCDIR=share/task
+  
+  cmake --build build -j ${JOBS:-1}
+  DESTDIR=$PKG cmake --install build
+}
