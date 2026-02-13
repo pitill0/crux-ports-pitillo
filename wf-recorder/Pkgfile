@@ -1,0 +1,17 @@
+# Description: utility program for screen recording of wlroots-based compositors
+# URL: https://github.com/ammen99/wf-recorder
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: x264 ffmpeg wayland-protocols
+
+name=wf-recorder
+version=0.6.0
+release=1
+source=(https://github.com/ammen99/$name/archive/v${version}/$name-v$version.tar.gz)
+
+build() {
+  cd $name-$version
+  meson _build --prefix=/usr \
+    --buildtype=release 
+  DESTDIR=$PKG ninja -C _build install
+  rm -r $PKG/usr/share/fish/
+}

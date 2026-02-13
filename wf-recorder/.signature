@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgJglkqcKDrOBY6T2ZNe5w9U7Oa0NXcT0eWoWf4hoNGvRqjYaDkP2V7gLMdM2eodFohkGr4gFUqMhdSKORmD4jQc=
+SHA256 (Pkgfile) = 987f9fae02d88b39d4a256dd12bab01899bfb569b96e1ed3006035fbf6499e21
+SHA256 (.footprint) = 7c94f0b49269a2ee6586c1a5d7d66c9847e702b724fd4e05fdde35df5e267cae
+SHA256 (wf-recorder-v0.6.0.tar.gz) = 52d2c952506d63708f9a8f1aacd4d6ca176287caf3507c8ff2882fa0390cb391
