@@ -173,9 +173,9 @@ f:5abe7a5236a188ac2f05f279afbf724a:genimage/.signature
 f:5672be36a08a2ef94dba4383d8bd78ba:libosip2/Pkgfile
 f:c5192205cd2088fd16eab2842c8b8282:libosip2/.footprint
 f:243fb83b15fdeb3478db211c9f6884da:libosip2/.signature
-f:782db8f5529e566ef447b3b3a1752767:dgop/Pkgfile
+f:7b139c4cab5262ff79c0b347c8cc350b:dgop/Pkgfile
 f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
-f:4811de1eb466708636cabb3a1cb58134:dgop/.signature
+f:aa3fdc54c30f3e48baaad66fb65b0974:dgop/.signature
 f:eda63678a271296038ac81e48904ed02:mbmd/Pkgfile
 f:1802bb2ee60906b506628de9996508a3:mbmd/mbmd.service
 f:572d68dbf8f73b98f6a6e4e01e810ad0:mbmd/.footprint
