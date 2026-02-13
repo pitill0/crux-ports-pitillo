@@ -47,6 +47,7 @@ d:hostap-utils
 d:python3-check50
 d:openocd
 d:voipong
+d:wf-recorder
 d:zaz
 d:mog
 d:xdialog
@@ -216,6 +217,9 @@ f:0942c093603463fc8f738d78e30d1d9b:openocd/.signature
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:a6b892d3c25199bb595d657403df44bf:voipong/.md5sum
+f:34b18b0050cb2aa011115f6a9e2775f2:wf-recorder/Pkgfile
+f:a73c76b58ce320bdc2c96e10e6bea7e6:wf-recorder/.footprint
+f:f5256b2ccd46c40e1126f2dc7219f062:wf-recorder/.signature
 f:87ccff3bf3e8ad0f52f33f9c89e03c77:zaz/Pkgfile
 f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
 f:cb58d1db92cb3d4da3349d5e415b9405:zaz/.md5sum
