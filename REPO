@@ -211,9 +211,9 @@ f:26ab33ca1c2f84be931e0583c5589c9d:hostap-utils/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
-f:e4d45b92dbaecab95524735d5fb64047:openocd/Pkgfile
-f:540db4d07c1b101c1237f48221a794c7:openocd/.footprint
-f:0942c093603463fc8f738d78e30d1d9b:openocd/.signature
+f:99be19716b50661146fad6b70fac23dc:openocd/Pkgfile
+f:513f97036cd7b835ecde1b841114187f:openocd/.footprint
+f:a35fe16468b5da855591fe5cd4657025:openocd/.signature
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:a6b892d3c25199bb595d657403df44bf:voipong/.md5sum
