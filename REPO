@@ -205,9 +205,9 @@ f:a33854ba6e3fe5f6ac28dbe6e3d31312:qmc2-mame-fe/Pkgfile
 f:403d929003a08699f4dc7395c61eff6a:qmc2-mame-fe/.footprint
 f:2edd42b0f38b160f1ae0c1d0e6edea90:qmc2-mame-fe/.signature
 f:69a3f8e7ba305d9975fe1b4c3814e4da:qmc2-mame-fe/webengine.patch
-f:ea2229696669a3ac82851c0efb693ccf:hostap-utils/Pkgfile
+f:42c52fd8e93eab89a2d899682182c787:hostap-utils/Pkgfile
 f:da73070346b37482b456a220fdd2d038:hostap-utils/.footprint
-f:26ab33ca1c2f84be931e0583c5589c9d:hostap-utils/.signature
+f:0d5fc8c2fabde41a02bdd7d308595172:hostap-utils/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
