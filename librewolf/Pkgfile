@@ -1,13 +1,13 @@
 # Description: Custom and independent version of Firefox
 # URL: https://codeberg.org/librewolf/ 
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: alsa-lib brotli graphite2 gtk3 nss xorg-libxcomposite xorg-libxcursor xorg-libxinerama
+# Depends on: brotli cbindgen graphite2 gtk3 icu nodejs nss pulseaudio unzip xorg-libxcomposite xorg-libxcursor xorg-libxinerama
 
 
 name=librewolf
-version=143.0
+version=149.0
 release=1
-source=(https://gitlab.com/api/v4/projects/32320088/packages/generic/${name}-source/${version}-1/${name}-${version}-1.source.tar.gz
+source=(https://codeberg.org/api/packages/$name/generic/$name-source/$version-1/$name-$version-1.source.tar.gz
   ${name}.desktop)
 
 build() {

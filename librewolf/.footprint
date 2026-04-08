@@ -33,6 +33,7 @@ drwxr-xr-x	root/root	usr/lib/librewolf/gmp-clearkey/0.1/
 -rwxr-xr-x	root/root	usr/lib/librewolf/libmozavcodec.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libmozavutil.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libmozgtk.so
+-rwxr-xr-x	root/root	usr/lib/librewolf/libmozinference.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libmozsandbox.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libmozsqlite3.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libnspr4.so
@@ -48,7 +49,6 @@ drwxr-xr-x	root/root	usr/lib/librewolf/gmp-clearkey/0.1/
 -rwxr-xr-x	root/root	usr/lib/librewolf/libssl3.so
 -rwxr-xr-x	root/root	usr/lib/librewolf/libxul.so
 -rw-r--r--	root/root	usr/lib/librewolf/omni.ja
--rwxr-xr-x	root/root	usr/lib/librewolf/pingsender
 -rw-r--r--	root/root	usr/lib/librewolf/platform.ini
 -rw-r--r--	root/root	usr/lib/librewolf/removed-files (EMPTY)
 -rwxr-xr-x	root/root	usr/lib/librewolf/vaapitest
