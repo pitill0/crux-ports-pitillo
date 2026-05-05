@@ -1,7 +1,7 @@
 # Description: Build cross-platform user interfaces with a simple Python API
 # URL: https://github.com/Textualize/textual
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu 
-# Depends on: python3-pygments python3-rich
+# Depends on: python3-pygments python3-rich python3-platformdirs
 
 name=python3-textual
 version=8.2.5
