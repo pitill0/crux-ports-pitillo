@@ -84,8 +84,8 @@ f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:a159f85f5066a24b54f1d131e84b79da:x11vnc/.signature
 f:51ab216ef41634813b614ec9ba334b90:x11vnc/Pkgfile
 f:ef16e2c19e189e0fbc224a021e4b8587:x11vnc/.footprint
-f:613d88d7e5058230856b7920cca37af8:python3-textual/.signature
-f:f451398c96d355992f9d131fefe38051:python3-textual/Pkgfile
+f:ca5f157c0125c3f10bb7e7b636983916:python3-textual/.signature
+f:d4767d9ef832cf30169a92227b7427cb:python3-textual/Pkgfile
 f:50da5217885538796d65368faf57ef91:python3-textual/.footprint
 f:1ed3a70e016c7cc51c961f27e8ce0e7c:wrt54g-debrick-util/.signature
 f:e622a677eb09f9a9216a04e6156e4446:wrt54g-debrick-util/Pkgfile
