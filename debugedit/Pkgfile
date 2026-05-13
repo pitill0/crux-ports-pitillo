@@ -1,7 +1,7 @@
 # Description: programs and scripts for creating debuginfo
 # URL: https://sourceware.org/debugedit/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu 
-# Depends on: xxhash help2man
+# Depends on: xxhash help2man gdb
 
 name=debugedit
 version=5.3
