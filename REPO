@@ -15,6 +15,7 @@ d:sdl_sound
 d:libidl
 d:quilt
 d:ascii
+d:debugedit
 d:pymodbus-dev
 d:p5-dbi
 d:python3-pygame
@@ -52,6 +53,7 @@ d:python3-pycodestyle
 d:nikto
 d:dgop
 d:p5-apachedbi
+d:flatpak-builder
 d:python3-lib50
 d:leafpad
 f:d2436818bf880b9015ce7ddc38cd2d70:pd/.signature
@@ -105,6 +107,10 @@ f:72953f38a997f3e75b9b73b41ef940bd:quilt/.footprint
 f:3d50ecf4b4e96de0f15f80ae4f4dca84:ascii/.signature
 f:7068a9c0d7aa988b0edec6e674bc54dd:ascii/Pkgfile
 f:79e11f2ae2f54cf0cdb377ab8c2822a1:ascii/.footprint
+f:2cfeb36097b34774a8415321d7ba8e4c:debugedit/.signature
+f:cdd42650bd7968c6f85b436cb5e3bf2f:debugedit/Pkgfile
+f:35388256ef8d6dc3b590c2bc80f28cca:debugedit/.footprint
+f:7c42965ecba8ee21439d15a14669a0bd:debugedit/remove-dwz.patch
 f:daf2c7385f7a3348724717e04b0be88c:pymodbus-dev/.signature
 f:8a220416b3491239f45966a5f3f1f941:pymodbus-dev/Pkgfile
 f:04c04ee1446feeece489d49da9f0eec2:pymodbus-dev/.footprint
@@ -230,6 +236,9 @@ f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
 f:45b6bd5e7a6f7304401a3d00edfc48f1:p5-apachedbi/.signature
 f:ff5fdeda38006fcf62699457b161c68a:p5-apachedbi/Pkgfile
 f:b3bfb21c1772a29c8b586a94e69f7a51:p5-apachedbi/.footprint
+f:469ea1a85c2c063c9a65b365c3b61ecf:flatpak-builder/.signature
+f:d85c3fbf04d3fe948f0cf2927a8f9627:flatpak-builder/Pkgfile
+f:918a2789f5958cb7f360bac49855a260:flatpak-builder/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
