@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgALDYv+czN7HzRrjbjm41DfJaxiZhaEccUg0FaOpHzG4Qv7UN7wbxxIJrHic7NF6I4Yatv5SrJQULejcnGKUuwk=
+SHA256 (Pkgfile) = 89ed5a67873b7e90bc182a82f965268e408853a8dffb9f8e02ef0b390454d178
+SHA256 (.footprint) = 75e08a9084927791d9b621e738f6a6d3a4247bf2a1c2667c7da6c2324c642644
+SHA256 (flatpak-builder-1.4.8.tar.xz) = 66900a8ad194623297cba210b821438ed26a189f908dbe3ae8af6e1d2666337f
