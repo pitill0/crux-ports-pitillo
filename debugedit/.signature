@@ -1,0 +1,6 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgM0C/4y2pF8x6s0VC14VKq3VdBerZgFuZD0xUTAO6Hojl0gb0hf4hzMxk/9CDpokIQOEP0G7Es0h/oQBg+snCA4=
+SHA256 (Pkgfile) = 2e6d68caf805e7489eaa829869479e5ba1dd5a4d5056521e00770dab342d3d5b
+SHA256 (.footprint) = 6e0c576bfe7d4fd9766c8277c298c2435d91f1c872b06eca4b7475606b3ddaad
+SHA256 (debugedit-5.3.tar.xz) = 3b8c6396fe235e0270c9b9c0d244cfd0e86c284fc27e820acc58360e7cfa08c2
+SHA256 (remove-dwz.patch) = 3b42db6684c53ad7726475f8faa3056162dea4547c4e0859557cf246d8db72dd
