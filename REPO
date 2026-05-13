@@ -107,8 +107,8 @@ f:72953f38a997f3e75b9b73b41ef940bd:quilt/.footprint
 f:3d50ecf4b4e96de0f15f80ae4f4dca84:ascii/.signature
 f:7068a9c0d7aa988b0edec6e674bc54dd:ascii/Pkgfile
 f:79e11f2ae2f54cf0cdb377ab8c2822a1:ascii/.footprint
-f:2cfeb36097b34774a8415321d7ba8e4c:debugedit/.signature
-f:cdd42650bd7968c6f85b436cb5e3bf2f:debugedit/Pkgfile
+f:04dc23b60ccfc0b7cfce0fb55814df47:debugedit/.signature
+f:f4272337fdaa823d269b61350a3a97b3:debugedit/Pkgfile
 f:35388256ef8d6dc3b590c2bc80f28cca:debugedit/.footprint
 f:7c42965ecba8ee21439d15a14669a0bd:debugedit/remove-dwz.patch
 f:daf2c7385f7a3348724717e04b0be88c:pymodbus-dev/.signature
