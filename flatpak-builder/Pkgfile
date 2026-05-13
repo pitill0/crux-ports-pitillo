@@ -20,5 +20,5 @@ build() {
   DESTDIR=$PKG meson install -C build
 
   rm -fr $PKG/usr/lib/{systemd,sysusers.d}
-  rm -fr $PKG/usr/share/{fish,locale}
+  rm -fr $PKG/usr/share/{fish,locale,doc}
 }
