@@ -2,7 +2,7 @@
 # URL: http://www.icculus.org/SDL_sound/
 # Packager: Aaron Marks, nymacro at gmail dot com
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: libsdl libmikmod
+# Depends on: libsdl2 libmikmod
 # Nice to have: smpeg
 
 name=sdl_sound
