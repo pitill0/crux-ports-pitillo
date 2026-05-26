@@ -11,6 +11,7 @@ d:pd
 d:python3-pygame
 d:openocd
 d:python3-autopep8
+d:sdl2_sound
 d:tcedemo2avi
 d:mbmd
 d:xinput_calibrator
@@ -49,7 +50,6 @@ d:texi2html
 d:btop
 d:mog
 d:x11vnc
-d:sdl_sound
 d:debugedit
 d:libidl
 d:quilt
@@ -97,6 +97,9 @@ f:513f97036cd7b835ecde1b841114187f:openocd/.footprint
 f:69ff34ade4bf5b98a95f8946eb7ba17f:python3-autopep8/Pkgfile
 f:4ce595b44309ed182e931ed301ae12a1:python3-autopep8/.signature
 f:b595572a49bbf0c8130516c6989a6053:python3-autopep8/.footprint
+f:be5d9f9ad4b22985f73228676fb62200:sdl2_sound/Pkgfile
+f:c1e0b3cebdb567e1feeefd312277b5d9:sdl2_sound/.signature
+f:32f15779774a12b51fa538eeb03e7e07:sdl2_sound/.footprint
 f:3515835a89d4c99214d0ab65d433af16:tcedemo2avi/COPYING
 f:275c322bab0b0657b8ef4c516212b161:tcedemo2avi/Pkgfile
 f:ba031d74d81d9e0a5577fdb0c07a672a:tcedemo2avi/tcedemo2avi.conf
@@ -223,9 +226,6 @@ f:a1cdaf31a32665bec63a91e462450fb6:mog/.footprint
 f:51ab216ef41634813b614ec9ba334b90:x11vnc/Pkgfile
 f:a159f85f5066a24b54f1d131e84b79da:x11vnc/.signature
 f:ef16e2c19e189e0fbc224a021e4b8587:x11vnc/.footprint
-f:e54034e7619e977b93a174c7dca92a43:sdl_sound/Pkgfile
-f:0e58dbf83bc9381675d570e202d4d3e3:sdl_sound/.signature
-f:32f15779774a12b51fa538eeb03e7e07:sdl_sound/.footprint
 f:f4272337fdaa823d269b61350a3a97b3:debugedit/Pkgfile
 f:7c42965ecba8ee21439d15a14669a0bd:debugedit/remove-dwz.patch
 f:04dc23b60ccfc0b7cfce0fb55814df47:debugedit/.signature
