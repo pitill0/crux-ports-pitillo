@@ -4,7 +4,7 @@
 # Depends on: confuse
 
 name=genimage
-version=19
+version=20
 release=1
 source=(https://github.com/pengutronix/${name}/archive/refs/tags/v${version}.tar.gz)
 
