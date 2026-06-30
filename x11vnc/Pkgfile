@@ -1,7 +1,7 @@
 # Description: VNC server for real X displays
 # URL: http://www.karlrunge.com/x11vnc/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: xorg-libxdamage xorg-libxinerama xorg-libxrandr xorg-libxtst libjpeg libvbcserver
+# Depends on: xorg-libxdamage xorg-libxinerama xorg-libxrandr xorg-libxtst libjpeg libvncserver
 
 name=x11vnc
 version=0.9.17
@@ -13,7 +13,7 @@ build() {
 
   autoreconf -fi
   ./configure --prefix=/usr \
-              --mandir=$PKG/usr/man \
+              --mandir=$PKG/usr/share/man \
               --with-x \
               --disable-nls
   make
