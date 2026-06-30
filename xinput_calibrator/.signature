@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgKfc7Wq7cbYfMT2bYS3A9cC/AVIi8kYxvSCEI3hOG5rB4uWDXkh7GQXPhbybXt9wQe6j4c7jG3BhC9jZxC5SrQA=
-SHA256 (Pkgfile) = 48cf2a6a689b4c0ae61710f9235331fa7ce9efdf5eefe01c0c69dee147ea9906
-SHA256 (.footprint) = 9a18fb155201ae8cf9192231ef7e88640d9dfd954fb7aa0e636dc413217094f3
+RWQpLSJPEvsFgFgrXlNz/FUQYPawzFMUh4428j5i/lziIMnNLmOQYLLII62+5VxkvctK1mCcXNPRqLBqTxgyVGYsW3Xf+x8RuQU=
+SHA256 (Pkgfile) = 2980440a8e1952c8a4e22e9e1844d6b28327a393b7c489b6c8143d5e5e5d5d30
+SHA256 (.footprint) = 0d04e6ee30a1d7abda27b6338ed0309aac73fac1e5b8b58c43bb03c53559fac4
 SHA256 (xinput_calibrator-0.8.0.tar.gz) = dae3b8ce3aaba6f0b1a6262156c6352642bec5661be071312da58cbe4b8174c7

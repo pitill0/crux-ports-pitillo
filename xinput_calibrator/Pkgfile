@@ -10,8 +10,7 @@ source=(https://xorg.freedesktop.org/archive/individual/app/$name-$version.tar.g
 
 build() {
   cd ${name}-$version
-  ./configure --prefix=/usr \
-              --mandir=/usr/man
+  ./configure --prefix=/usr
   make
   make DESTDIR=$PKG install
 }
