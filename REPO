@@ -161,9 +161,9 @@ f:7271ba46f0680aabe88be46f12a0fc53:python3-pycodestyle/Pkgfile
 f:0cca529faf9e55839840851535586ddd:btop/.footprint
 f:471528e80ba757909cfce96ec5802787:btop/.signature
 f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
-f:4ae9c0b1e022b629cf1c392ac25ec807:xinput_calibrator/.footprint
-f:68c087a3c3cf3976771ba821389c85b2:xinput_calibrator/.signature
-f:e8a9da1d375a20ccae2c673680254462:xinput_calibrator/Pkgfile
+f:0832d278311989180243d4bbbafdd187:xinput_calibrator/.footprint
+f:55608df03d4680db26db7d05fc2eab45:xinput_calibrator/.signature
+f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
 f:ae31e3ea328797a76dbbbe4d11a9a035:pd/.footprint
 f:d2436818bf880b9015ce7ddc38cd2d70:pd/.signature
 f:9eae692a40c27dce0a7b7d700ae620e7:pd/Pkgfile
