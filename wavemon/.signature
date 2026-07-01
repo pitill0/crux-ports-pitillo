@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgMUGbMFP951cpPUsHfVEZwsPAYJelV/rVzNlYSP6mhppqExdnZqUE9cSH1WwO5klVSnTiPvNatKg0jHPAhRzxQg=
+RWQpLSJPEvsFgP31C3/XuYAZRCfnMgAkqjVidp52+WMLnvACg+2Rnfr/+ILv3ORZGycmjnpHEZ79PWUrE+Y9H1zyqJL1o8GYXgM=
 SHA256 (Pkgfile) = 3e25f553be7f65748940501cef34d5aaff41df51a60720a296dbbe852eccfdff
-SHA256 (.footprint) = c10f0af57d53a01a1f7ed929dda5bdc367fbf4ae3831e32b2098211e8972a74f
+SHA256 (.footprint) = 24417d595846caff7a4c96a184f8a562ff554c398d8d1f32124a9aabc611bdc6
 SHA256 (wavemon-v0.9.7.tar.gz) = 768d7c580fcc592efcacac924dcfd2ebe131608f5c8ac67d36e35731e1ac683a
