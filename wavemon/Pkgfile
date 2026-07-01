@@ -1,17 +1,23 @@
 # Description: Ncurses-based monitoring application for wireless network devices
 # URL: http://eden-feed.erg.abdn.ac.uk/wavemon/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: ncurses
+# Depends on: ncurses libnl-cli
 
 name=wavemon
-version=0.7.6
+version=0.9.7
 release=1
-source=(http://eden-feed.erg.abdn.ac.uk/$name/stable-releases/$name-$version.tar.bz2)
+source=(https://github.com/uoaerg/wavemon/archive/v${version}/$name-v$version.tar.gz)
 
 build() {
   cd $name-$version
-  ./configure --prefix=/usr \
-              --mandir=$PKG/usr/man 
-  make LDLIBS="-lcap -lncurses -lm -lpthread"
-  make prefix=$PKG/usr datarootdir=$SRC/null install
+
+  export CFLAGS="$CFLAGS $(pkg-config --cflags libnl-3.0 libnl-genl-3.0) -D_XOPEN_SOURCE_EXTENDED=1"
+  export LIBS="$LIBS $(pkg-config --libs libnl-3.0 libnl-genl-3.0)"
+
+  ./configure --prefix=/usr
+
+  make
+
+  make prefix=$PKG/usr install
+  rm -rf ${PKG}/usr/share/$name
 }
