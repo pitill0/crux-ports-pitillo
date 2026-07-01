@@ -135,9 +135,9 @@ f:9b5baa26d426b59cc7066786946f1200:quilt/Pkgfile
 f:32f15779774a12b51fa538eeb03e7e07:sdl2_sound/.footprint
 f:c1e0b3cebdb567e1feeefd312277b5d9:sdl2_sound/.signature
 f:be5d9f9ad4b22985f73228676fb62200:sdl2_sound/Pkgfile
-f:da08f25320f5d437c4748e2e7d79ab91:nbd/.footprint
-f:7ea6b54307944260edf0dba0c2c093ee:nbd/.signature
-f:3fce60c52c2311838a335e1909df6e6e:nbd/Pkgfile
+f:f5053ea4f9d9ec2fac7440ca3a111019:nbd/.footprint
+f:53db4435e0f45bb6de96edd97213e2f5:nbd/.signature
+f:fd62271de869732b5ea08accf5b18cd2:nbd/Pkgfile
 f:70433040e0db3a42aecc1e55c0045027:libvncserver/.footprint
 f:6a9dbc5cc657cfa6d07af461441a1f52:libvncserver/.signature
 f:ae2d6d4d0ae020800a96600233906097:libvncserver/Pkgfile
