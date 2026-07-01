@@ -1,7 +1,7 @@
 # Description: platform for audio synthesis and algorithmic composition
 # URL: https://github.com/supercollider/supercollider
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: qt6-webengine lame pipewire pulseaudio fftw gst-plugins-base flac lame mpg123 wireplumber
+# Depends on: qt6-webengine lame pulseaudio fftw mpg123 wireplumber
 
 name=supercollider
 version=3.14.0

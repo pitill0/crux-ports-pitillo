@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgJGdc3cDcMO+pmnNwFrtSvmcYhT2BiW/q6KGu32IcG0AJk1MF1cYnRff77EjNzIRr4y56nsfeKxgljQbyoPDYwo=
-SHA256 (Pkgfile) = 5b76efc1faf1f4faa28a27f91f2ca3f6ea38652892fa4045bf3fe922ee8391cc
+RWQpLSJPEvsFgAvVdk1oGAXtztDlozXtL65gBbDo6RAPoFNjK5oNh4nPtTXiGBMMOOlkU8LjtOQUMEfua5XUopRg9IMvSbfUxgc=
+SHA256 (Pkgfile) = 1f30f22130ab708ba6dfa9ed621f847efc9e713858a8d4570b2bf6895317b6d6
 SHA256 (.footprint) = 18441f5a64eb1eab94ca8a6c1a5b55f1a34e586938f35dce3994866cd7cc55e4
 SHA256 (SuperCollider-3.14.0-Source.tar.bz2) = ab710e84376f5c082c92fcea7465b85d375934f3da7deed583457a0a48b0a918
