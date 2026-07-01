@@ -1,0 +1,21 @@
+# Description: Library providing APIs to netlink protocol based Linux kernel interfaces
+# URL: http://www.infradead.org/~tgr/libnl/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+
+name=libnl-cli
+version=3.12.0
+release=1
+source=(https://github.com/thom311/libnl/releases/download/libnl${version//./_}/libnl-$version.tar.gz)
+
+build() {
+  cd libnl-$version
+  
+  YACC="bison -y -Wnone" \
+  ./configure \
+        --prefix=/usr \
+        --sysconfdir=/etc \
+        --disable-debug
+  
+  make
+  make DESTDIR=$PKG install
+}
