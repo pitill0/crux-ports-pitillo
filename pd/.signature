@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgKcRCscXLME+tODWWjhp477w7+qRhYgPuEDQITb3GL6alTGkREutqjFlQkRqvQ0DrOMhACUtjVoEdup3Q1/nMAY=
-SHA256 (Pkgfile) = d963501572f35739e45dc984f87c5b15fdcf47ca8f0c6a6d96b0a6e6fd036836
-SHA256 (.footprint) = 83f288df37818810a3a7b7fde298faa5cacafeedbf93b21c927dabb0bb8bcb4f
-SHA256 (pd-0.56-1.src.tar.gz) = ae1910862bf1b27f0094c675493e907dba2c85cae55e697dfe122f76ade87c0c
+RWQpLSJPEvsFgHR95pGUqFAU4l8yiqIB7ef8UUMHKexO8ZFC8a4VuZhDDRj6wB/UAFNiL/aOUClYQxSLm0sUb+bBqksvUcUrVQ8=
+SHA256 (Pkgfile) = 73b620cfd9377b5fd57d491cb5ebf61fad791b57aeb54f44bf337bb9df062449
+SHA256 (.footprint) = 717fa59e76cba7d7d91c4a24f8a906d57956c64f133d720f16c0a605f365ac98
+SHA256 (pd-0.56-5.src.tar.gz) = 18eca74eab449dbd8d0fc918f1fad578c8632ac730609d7f23d44bb261291f41

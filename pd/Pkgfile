@@ -5,14 +5,15 @@
 
 name=pd
 version=0.56
-release=1
-source=(http://msp.ucsd.edu/Software/$name-$version-1.src.tar.gz)
+release=5
+source=(http://msp.ucsd.edu/Software/$name-$version-$release.src.tar.gz)
 
 build() {
-  cd $name-$version-1
+  cd $name-$version-$release
   ./autogen.sh
   ./configure --prefix=/usr \
               --disable-locales
   make
   make prefix=$PKG/usr install
+  rm $PKG/usr/share/pd/{README.txt,*/README.txt}
 }
