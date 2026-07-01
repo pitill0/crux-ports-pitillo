@@ -83,8 +83,8 @@ f:da73070346b37482b456a220fdd2d038:hostap-utils/.footprint
 f:0d5fc8c2fabde41a02bdd7d308595172:hostap-utils/.signature
 f:42c52fd8e93eab89a2d899682182c787:hostap-utils/Pkgfile
 f:d1fe612c50054197c9b11372a79eb30b:supercollider/.footprint
-f:4a54d6d8f53ae2ea8aa9b7cacd1725ee:supercollider/.signature
-f:c14617e25ad4a68b5978ff68a79af907:supercollider/Pkgfile
+f:4344cd86f7b6225e52d08c4bbef79051:supercollider/.signature
+f:80aacc1e63d99818036c88955ed3d41a:supercollider/Pkgfile
 f:cad5c5c8ae18299047bec16621c96316:aop/.footprint
 f:cdbda15d804fde906a6112231a853a53:aop/aop-0.6.patch
 f:9cce67fba3e420ebc878734e2a0bde1c:aop/.signature
