@@ -162,9 +162,9 @@ f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
 f:0832d278311989180243d4bbbafdd187:xinput_calibrator/.footprint
 f:55608df03d4680db26db7d05fc2eab45:xinput_calibrator/.signature
 f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
-f:ae31e3ea328797a76dbbbe4d11a9a035:pd/.footprint
-f:d2436818bf880b9015ce7ddc38cd2d70:pd/.signature
-f:9eae692a40c27dce0a7b7d700ae620e7:pd/Pkgfile
+f:8fbfe85855e433454ab26809ac517836:pd/.footprint
+f:86606c4a9c3a88f40d79cb618dbf9fbc:pd/.signature
+f:9b00afdd9abe3fe0fee4502adee941fe:pd/Pkgfile
 f:a73c76b58ce320bdc2c96e10e6bea7e6:wf-recorder/.footprint
 f:f5256b2ccd46c40e1126f2dc7219f062:wf-recorder/.signature
 f:34b18b0050cb2aa011115f6a9e2775f2:wf-recorder/Pkgfile
@@ -205,8 +205,8 @@ f:12f059fff19e0163297890b90a17da69:tcedemo2avi/tcedemo2avi.sh
 f:3515835a89d4c99214d0ab65d433af16:tcedemo2avi/COPYING
 f:275c322bab0b0657b8ef4c516212b161:tcedemo2avi/Pkgfile
 f:ba031d74d81d9e0a5577fdb0c07a672a:tcedemo2avi/tcedemo2avi.conf
-f:48a30f852de9626cfbe198151da63966:wavemon/.footprint
-f:62aa70a549cc0be895d196c821a92f4f:wavemon/.signature
+f:f3758ef9b6bd2671d2e0803fb5482be7:wavemon/.footprint
+f:91a15ac82ba753a2f83767e0f3140480:wavemon/.signature
 f:39fa83abe2b74049ff42112a7ab65c76:wavemon/Pkgfile
 f:403d929003a08699f4dc7395c61eff6a:qmc2-mame-fe/.footprint
 f:69a3f8e7ba305d9975fe1b4c3814e4da:qmc2-mame-fe/webengine.patch
