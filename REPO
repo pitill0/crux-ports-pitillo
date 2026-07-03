@@ -43,6 +43,7 @@ d:ascii
 d:python3-icdiff
 d:python3-textual
 d:lua++
+d:fluxtuner
 d:debugedit
 d:pymodbus-dev
 d:tcedemo2avi
@@ -192,6 +193,9 @@ f:4a7bf0cc65483d0dcf1286455b7ba9d3:lua++/.signature
 f:11bf137f084ead58422fdd2571b821c4:lua++/liblua.so.patch
 f:55edb20f20efcffddb87ca5df3d28bd3:lua++/Pkgfile
 f:e7ba6c2b695b0b84a5ea0cbff5fc9067:lua++/lua++.pc
+f:35553fa5085408627dcf5efaef89ed95:fluxtuner/.footprint
+f:b24c3203e95ece98c9caf71ca7a7b5f4:fluxtuner/.signature
+f:3fd27a40f5c2408879b57eb4c3332792:fluxtuner/Pkgfile
 f:7c42965ecba8ee21439d15a14669a0bd:debugedit/remove-dwz.patch
 f:35388256ef8d6dc3b590c2bc80f28cca:debugedit/.footprint
 f:04dc23b60ccfc0b7cfce0fb55814df47:debugedit/.signature
