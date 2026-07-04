@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgI0DSM2lWsLFQmi7GqfkoDPuDhVFlBxq8mq7WDMENZ/TRsFWzHaywdRiPdl7XJ/fys7OmAJ3Lfz2EztYcb6dNAM=
+SHA256 (Pkgfile) = e984e654a290ac7531b58479ca4d78fb1aa2a4c559506640c374ae70cc806044
+SHA256 (.footprint) = e155b1ad78e354854e5e50aae62586d5c3bf6fbb39309ccced29752454d85e18
+SHA256 (Xdialog-2.3.1.tar.bz2) = 1d446899697145fc36623d8afdd274066177da9383a6b619c18e8eb1b2ba589a

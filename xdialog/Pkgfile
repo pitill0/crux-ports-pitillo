@@ -12,6 +12,7 @@ build () {
   cd Xdialog-$version
   ./configure --prefix=/usr \
               --disable-nls \
+              --mandir=/usr/share \
               --disable-gtktest \
               --with-gtk2 
   make
