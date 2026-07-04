@@ -5,7 +5,7 @@
 # Depends on: libsdl2 libmikmod
 # Nice to have: smpeg
 
-name=sdl_sound
+name=sdl2_sound
 version=2.0.4
 release=1
 

@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgM2InZvrbdm2xGGecjZNQslShJFuE0FchrjI4V/SeyKtRUjXcIXXK2U9CHXz2lwdyiGn99xWUr41utXqlRB7fQA=
-SHA256 (Pkgfile) = e2bdfac4076cbb3764784c601be40cf886aa1dfab1571dc936c99e874dca6604
+RWQpLSJPEvsFgJkAtWWvh9oftEwIJRjHz41gM56VVWf26UIyZLs3WQyAXX/spwoZ2q3S1lYn/gluRBLC/vykezly/0h5gQRs1w4=
+SHA256 (Pkgfile) = 7ee3552abcd03c8bfa697ecd5d21d769513ccbb616eee494d90722158253b05f
 SHA256 (.footprint) = 7cd67ca8792856843ff581935fe0c454d09f2b9d72210ce19ec81990ab0fa620
 SHA256 (SDL2_sound-2.0.4.tar.gz) = f73f6720dba2e677c0bf70d0c76ca3c96d865d04025e49a8b161711685961931
