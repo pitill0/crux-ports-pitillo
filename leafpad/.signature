@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgApjMEwQJmGabtrxn88DU0QkxOU/XDyt6lQ9VZQweRfLkRr07JbI5yNNMgzEtRKlUFFTyPpA4t7YGe1Sr8QDDQI=
-SHA256 (Pkgfile) = c7150efd9dc2c3b37cda2f28f7fdc5f00b87cb85f4f27d3d782039d0f9d2333b
-SHA256 (.footprint) = 8f61550ea9b283174ac6456e13f12217e988bf8525984ff73dad8d999d06283d
+RWQpLSJPEvsFgNwrEPBvlIjx/qEdBmeyyplynepsw6GZEYYt6buZCiF0HqQ7Udum+3l289rlvSJJbG0WR3pfDT41bRztPGu0jgI=
+SHA256 (Pkgfile) = 39b2dd3c1f3d8cb45d0b7242a9940e001146147e44013499783b07fe3255024c
+SHA256 (.footprint) = 5522e6429d4e28defabb65b5a35e95450ec5d7fdea1c62a5214d4adb98e183fe
 SHA256 (leafpad-0.8.19.tar.gz) = 07d3f712f4dbd0a33251fd1dee14e21afdc9f92090fc768c11ab0ac556adbe97
