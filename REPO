@@ -172,7 +172,9 @@ f:34b18b0050cb2aa011115f6a9e2775f2:wf-recorder/Pkgfile
 f:b77b1c567de4a8b08c26bb94ff3e3c7f:p5-dbi/.footprint
 f:7638d78d4049b9b6b28f8a1d39be881a:p5-dbi/.signature
 f:ec91a167364837c3c50ef9ff508b0bce:p5-dbi/Pkgfile
-f:f68b69ed7d9d8385859f181c7f38dc25:xdialog/Pkgfile
+f:29e04da2982dab15fd86f88cffc5ca32:xdialog/.footprint
+f:f60466911dff09138775ab3ba210f89e:xdialog/.signature
+f:6c8e9f318d93df19bca487028620b37a:xdialog/Pkgfile
 f:2c134051f9dac7a3b123d4e67b185fd7:libnl-cli/.footprint
 f:29c930882dfe65f2d5286a150c7720db:libnl-cli/.signature
 f:5859ff8d809f410cf9b925f67ce9ffc0:libnl-cli/Pkgfile
