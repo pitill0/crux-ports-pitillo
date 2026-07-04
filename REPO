@@ -65,10 +65,10 @@ f:d2c4347bedde5f70797324836bfbc64f:ctorrent/.signature
 f:526a882bc68cc148ed146429dfbeae89:ctorrent/Pkgfile
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
-f:fad2352cd3698e70820f86a8b2ed22dd:blockrage/.footprint
+f:ac7072d743aafab61d855bc6ca1f93ae:blockrage/.footprint
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
-f:411322ab9a089334415259c03717403f:blockrage/.signature
-f:1eddebced89d7ceee09725961f3ec489:blockrage/Pkgfile
+f:d1c059a91bc0180324146e6939758343:blockrage/.signature
+f:7fe6b2be6019ee8a0c3eb8456bc745ef:blockrage/Pkgfile
 f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
 f:87ccff3bf3e8ad0f52f33f9c89e03c77:zaz/Pkgfile
 f:fcdac8def161d07a9bf34411ac6aafc7:x11vnc/.footprint
