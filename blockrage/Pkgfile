@@ -15,7 +15,7 @@ build() {
   patch -p1 -i $SRC/statx.patch
 
   ./configure --prefix=/usr \
-              --mandir=$PKG/usr/man	
+              --mandir=$PKG/usr/share/man
   make
   make prefix=$PKG/usr install
 }
