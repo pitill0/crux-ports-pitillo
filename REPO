@@ -134,8 +134,8 @@ f:72953f38a997f3e75b9b73b41ef940bd:quilt/.footprint
 f:1bce612b2df1f20ce6410ee43e92e861:quilt/.signature
 f:9b5baa26d426b59cc7066786946f1200:quilt/Pkgfile
 f:32f15779774a12b51fa538eeb03e7e07:sdl2_sound/.footprint
-f:c1e0b3cebdb567e1feeefd312277b5d9:sdl2_sound/.signature
-f:be5d9f9ad4b22985f73228676fb62200:sdl2_sound/Pkgfile
+f:3695cdd72217709f0180aa67bf7d127b:sdl2_sound/.signature
+f:389ad45f3f5ac6d30bfde7bbf5c9405e:sdl2_sound/Pkgfile
 f:f5053ea4f9d9ec2fac7440ca3a111019:nbd/.footprint
 f:53db4435e0f45bb6de96edd97213e2f5:nbd/.signature
 f:fd62271de869732b5ea08accf5b18cd2:nbd/Pkgfile
