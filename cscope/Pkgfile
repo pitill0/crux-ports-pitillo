@@ -12,7 +12,7 @@ build()
 {
   cd $name-$version 
   ./configure --prefix=/usr \
-              --mandir=/usr/man
+              --mandir=/usr/share/man
   make
   make DESTDIR=$PKG install
 }
