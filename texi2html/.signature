@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgPVq0ZJlziO9QcLnGgeF2PqfuUMIrMWhp/zLKdj+OCkH9oFrwRowDGwWSPWbmS8qdiF9NSUNAX54XiIwZ3Ef9AI=
-SHA256 (Pkgfile) = af21cb52d00cfaa88ba6e7d4c7a213edc0bc944719448d8658d384d79c236f98
-SHA256 (.footprint) = 5f8c3b27eaeda6e5f4c2b8b8a09b296ab3772fcf24584fdd4a9598cbcd105bda
+RWQpLSJPEvsFgCdeOdyCWrpP/AZXtapEFt08kFjhb/hOIT5OXgBhXUxfBDF2cJDt68ZjfsOJKiKSFjjkalq4sa+8crmD+OGG/gY=
+SHA256 (Pkgfile) = cf82e735eabd2af7d9bc75eb66707762e1917230b15794f1608a09f4fe66a162
+SHA256 (.footprint) = 0d91ce859123d9259f480061240a8b9f4d82c0e37923720ddbfff3377c8707b8
 SHA256 (texi2html-5.0.tar.bz2) = e8a98b0ee20c495a6ab894398a065ef580272dbd5a15b1b19e8bd1bc89d9f9fa
