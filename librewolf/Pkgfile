@@ -5,7 +5,7 @@
 
 
 name=librewolf
-version=149.0
+version=152.0.4
 release=1
 source=(https://codeberg.org/api/packages/$name/generic/$name-source/$version-1/$name-$version-1.source.tar.gz
   ${name}.desktop)

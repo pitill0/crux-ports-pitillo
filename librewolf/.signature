@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgEIwR93M0RilKEUs0R/iOO2nvGE7wLmejRxpMoIf+3P7oik0X4in9HEvquDMNjUhNoM43yFzRZ3G/lLJHTEQsQM=
-SHA256 (Pkgfile) = de05e345a1d76b56f1ecdb523359fc153ba835237136f74e566f2b7f77bbf0f0
-SHA256 (.footprint) = 5a51a65c8ad031562ca4a7f81cd5b99b778906c88aad073c7e9589749ad180f0
-SHA256 (librewolf-149.0-1.source.tar.gz) = 5ada766bcf505b9bea0ad473277de8680ba6801d90fb42f00f5cf84e6b410497
+RWQpLSJPEvsFgKX8mFuRQn1psfxXqBiBpyT9Ao57PYpqUjGOgELBxz3/QOtuz3e6ooLeeLrH8XWiPspTxfuAoaVFOHu5HLaJZAg=
+SHA256 (Pkgfile) = 6a6502dfe18de259cf84bd997c6892281aec588f0422e9570917bd4948ade67c
+SHA256 (.footprint) = 0a2bfdd143837101065bb414d10c7e6c74f6f753914f6a912271427ed634daf1
+SHA256 (librewolf-152.0.4-1.source.tar.gz) = fa21c6183109971401eea879b706281064228c9d72dddcbb8103d8da756862bd
 SHA256 (librewolf.desktop) = 7d01d317b7db7416783febc18ee1237ade2ec86c1567e2c2dd628a94cbf2f25d
