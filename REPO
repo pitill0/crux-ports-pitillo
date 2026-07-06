@@ -7,7 +7,6 @@ d:x11vnc
 d:wrt54g-debrick-util
 d:hostap-utils
 d:supercollider
-d:aop
 d:p5-apachedbi
 d:python3-jellyfish
 d:p5-devel-checklib
@@ -83,10 +82,6 @@ f:42c52fd8e93eab89a2d899682182c787:hostap-utils/Pkgfile
 f:d1fe612c50054197c9b11372a79eb30b:supercollider/.footprint
 f:4344cd86f7b6225e52d08c4bbef79051:supercollider/.signature
 f:80aacc1e63d99818036c88955ed3d41a:supercollider/Pkgfile
-f:cad5c5c8ae18299047bec16621c96316:aop/.footprint
-f:cdbda15d804fde906a6112231a853a53:aop/aop-0.6.patch
-f:9cce67fba3e420ebc878734e2a0bde1c:aop/.signature
-f:8701264f0eccd993012a46bbac96eb60:aop/Pkgfile
 f:b3bfb21c1772a29c8b586a94e69f7a51:p5-apachedbi/.footprint
 f:45b6bd5e7a6f7304401a3d00edfc48f1:p5-apachedbi/.signature
 f:ff5fdeda38006fcf62699457b161c68a:p5-apachedbi/Pkgfile
@@ -154,9 +149,9 @@ f:99be19716b50661146fad6b70fac23dc:openocd/Pkgfile
 f:a43fa8821e4c50ab0ebbb14125bdd622:python3-pycodestyle/.footprint
 f:bf0c64b45b8a61ca64e1f25c9f03228e:python3-pycodestyle/.signature
 f:7271ba46f0680aabe88be46f12a0fc53:python3-pycodestyle/Pkgfile
-f:0cca529faf9e55839840851535586ddd:btop/.footprint
-f:471528e80ba757909cfce96ec5802787:btop/.signature
-f:1d15010802343c3f8db0dc2c517ec126:btop/Pkgfile
+f:0ab1cd50b6152ce538b59436a163e903:btop/.footprint
+f:1c752ce16d8ba91c38af071823021a32:btop/.signature
+f:6e5732ccc1acb22985b9a2121320a2ac:btop/Pkgfile
 f:0832d278311989180243d4bbbafdd187:xinput_calibrator/.footprint
 f:55608df03d4680db26db7d05fc2eab45:xinput_calibrator/.signature
 f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
@@ -217,9 +212,9 @@ f:2edd42b0f38b160f1ae0c1d0e6edea90:qmc2-mame-fe/.signature
 f:a33854ba6e3fe5f6ac28dbe6e3d31312:qmc2-mame-fe/Pkgfile
 f:ae2aab5ac2b78a031a873fc6714462f9:mame/mame.sh
 f:85418acebdbcb30394ce020c80167f96:mame/.footprint
-f:386ac3914e012d7df0fceab0f4ef6257:mame/.signature
+f:9af36227a1e18323095d2c56289275a9:mame/.signature
 f:cce319d655f3dae9bb608dc07ac549fb:mame/README
-f:66c98d25e63b6ec0e83c83e0b98d5bca:mame/Pkgfile
+f:e001d9fda57afe669988b196cde8219c:mame/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
 f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
