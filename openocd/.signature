@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgCoqcSQEzjhQLQGieP/5q007/ymKukbaVCl1JZpE1AoW3nSJU7LMO+6N+5mCtdwMVhdYoYipbM2XFL6qc+WOTQ4=
+RWQpLSJPEvsFgBSS+P//mcN/2jdGjhjbBwWUM7oqdoxzYhoze2ja1VcoccChvJzzjNfOo8XNCAlK3+LRY4ZnNXsWhP8eIpB4kQE=
 SHA256 (Pkgfile) = 91a9984a87dcade3be47a9d2387f93c28cb6ff78195be9b22bde677f27d30e95
-SHA256 (.footprint) = 2b1bc47c4dab71e79aa60af7866676de23178362115907686b9e285f33b2de5b
+SHA256 (.footprint) = 30732f9ad830ddfe52e15ab959cf836724f96fdb5fd779c2b8a37ac49cb671ee
 SHA256 (openocd-0.12.0.zip) = 7736287411b19eeba79544ee3b8233f38ed214dd97eb5ece73653c78de6836c9
