@@ -143,8 +143,8 @@ f:ba269048ff338124d8962ee6c4951da0:libidl/Pkgfile
 f:9ef1a1cea756a680ac07fa30e40ac30f:devio/.footprint
 f:f14f8bd133786be8737f66bd1c43b2ed:devio/.signature
 f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
-f:513f97036cd7b835ecde1b841114187f:openocd/.footprint
-f:a35fe16468b5da855591fe5cd4657025:openocd/.signature
+f:dd06c239fe6f6f465bb8d95d815aa7be:openocd/.footprint
+f:27cb5270450ffb7216daae84187f7b98:openocd/.signature
 f:99be19716b50661146fad6b70fac23dc:openocd/Pkgfile
 f:a43fa8821e4c50ab0ebbb14125bdd622:python3-pycodestyle/.footprint
 f:bf0c64b45b8a61ca64e1f25c9f03228e:python3-pycodestyle/.signature
@@ -218,10 +218,10 @@ f:e001d9fda57afe669988b196cde8219c:mame/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
 f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
-f:49687abde929190792310a5fdd8d4017:librewolf/.footprint
-f:6d6cc96ec1d4765955ec0a320a5dcecb:librewolf/.signature
+f:95dc5f8f3e553bb3bfe2bb544c228cdb:librewolf/.footprint
+f:16b0fb0e872725cc1cb04d43d8f6ea06:librewolf/.signature
 f:8861a196761dc5e469e20ae2c91cb060:librewolf/librewolf.desktop
-f:016aae776e60b34a2252e36a7c5eb7d9:librewolf/Pkgfile
+f:be4a307c1ab3b6431f25b638683c1567:librewolf/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
