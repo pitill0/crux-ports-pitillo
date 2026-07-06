@@ -1,7 +1,7 @@
 # Description: MAME is a multi-purpose emulation framework.
 # URL: https://github.com/mamedev/mame
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on: rapidjson portmidi portaudio qt5 lua++ sdl2_ttf brotli double-conversion graphite2 icu lame mpg123 pugixml pulseaudio utf8proc glm portmidi
+# Depends on: rapidjson portmidi portaudio qt5 lua++ sdl2_ttf brotli double-conversion graphite2 icu lame mpg123 pugixml pulseaudio utf8proc glm
 
 name=mame
 version=0.274

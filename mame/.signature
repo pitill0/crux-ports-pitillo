@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgC/fpdel/1FxuwiZSIOR//pO4jkIyFh5zrDGQdru/P/3WdZCX0e++mISt600rujguIWcqFk2mdVGvjbmFkX1zAM=
-SHA256 (Pkgfile) = dad9863864ea935d46b2589049b70498d35b7edd5d8e432e8d5bd2d8bf8aeac2
+RWQpLSJPEvsFgHElRO9TeydG9x8kjc1qtyzLNdubQIX0d/Bh4dLkn09yEXSqG7P7V2Xr2xOFLczUmonZDnluxYA8a3HkvusvRgo=
+SHA256 (Pkgfile) = 9b738c47057fb3540e51838ba505f111456447b9dcf9c0e365171c1ebfd84c4e
 SHA256 (.footprint) = 92afb8a244fd7d70440a56548fea1485d3f1207c1fb4cbed7c8cc55de19b23b8
 SHA256 (mame-mame0274.tar.gz) = f8112eb0b175935cf6db93f708186dcaeec5a89400ecf3d5782fd2c0b94907c8
 SHA256 (mame.sh) = ee1c59bafc5e5441e99fa4c58108a3e18048e60672f34de865c8a5a976094dba
