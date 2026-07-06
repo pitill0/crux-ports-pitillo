@@ -12,4 +12,5 @@ build() {
   cd $name-$version
   make
   make PREFIX=/usr DESTDIR=$PKG install
+  rm -rf $PKG/usr/share/$name/README.md
 }
