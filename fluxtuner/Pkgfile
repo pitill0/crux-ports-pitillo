@@ -4,7 +4,7 @@
 # Depends on: mpv python3-requests python3-textual
 
 name=fluxtuner
-version=1.0.4
+version=1.0.5
 release=1
 source=(https://github.com/pitill0/${name}/archive/refs/tags/v${version}.tar.gz)
 
