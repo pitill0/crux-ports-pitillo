@@ -229,9 +229,9 @@ f:9e821120de388566a2c57a7e27d38b77:flatpak-builder/.footprint
 f:8f04c083e228439259458de6fd015ab7:flatpak-builder/.signature
 f:ddc00e122e9c974e31352e8055aa340e:flatpak-builder/Pkgfile
 f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
-f:81dd4c944f0bac5deeff4062f225f978:texi2html/.footprint
-f:fcd9f5df592986574c223756825ce4e2:texi2html/.signature
-f:2f3963192f2cd51decad5f9e205911e6:texi2html/Pkgfile
+f:69ba50a140af0588c7d83d94c45e77f7:texi2html/.footprint
+f:fb8ce4d9fdfbf5200c29f4a048c3a266:texi2html/.signature
+f:1f2e3353caa6897c6d4f1b75911c04d7:texi2html/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
 f:a67a595a330fffcdb0fda97b4ee958e7:genimage/.signature
 f:7d928fc5585bb32ba031011db95f0638:genimage/Pkgfile
