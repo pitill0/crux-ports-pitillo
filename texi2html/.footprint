@@ -19,11 +19,8 @@ drwxr-xr-x	root/root	usr/share/texi2html/i18n/
 -rw-r--r--	root/root	usr/share/texi2html/i18n/pt.thl
 -rw-r--r--	root/root	usr/share/texi2html/i18n/pt_BR.thl
 drwxr-xr-x	root/root	usr/share/texi2html/images/
--rw-r--r--	root/root	usr/share/texi2html/images/COPYING
--rw-r--r--	root/root	usr/share/texi2html/images/COPYING.Attribution-ShareAlike
 -rw-r--r--	root/root	usr/share/texi2html/images/GPL
 -rw-r--r--	root/root	usr/share/texi2html/images/Mybg.png
--rw-r--r--	root/root	usr/share/texi2html/images/README
 -rw-r--r--	root/root	usr/share/texi2html/images/a_begin.png
 -rw-r--r--	root/root	usr/share/texi2html/images/a_begin_na.png
 -rw-r--r--	root/root	usr/share/texi2html/images/a_document.png

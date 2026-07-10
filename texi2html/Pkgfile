@@ -14,5 +14,6 @@ build() {
               --disable-nls
   make
   make DESTDIR=$PKG install
-  rm -r $PKG/usr/share/info
+  rm -rf $PKG/usr/share/info
+  rm -f $PKG/usr/share/$name/images/{COPYING*,README}
 }
