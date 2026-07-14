@@ -1,5 +1,6 @@
 d:mog
 d:ctorrent
+d:nvidia-container-toolkit
 d:voipong
 d:blockrage
 d:zaz
@@ -16,6 +17,7 @@ d:cscope
 d:dgop
 d:python3-pygame
 d:leafpad
+d:libnvidia-container
 d:nikto
 d:siege
 d:mbmd
@@ -62,6 +64,10 @@ f:d7c69f7da85d4f3d3042eab8f5150b09:mog/Pkgfile
 f:e1c632edfa96d1c24d51591338d5ea82:ctorrent/.footprint
 f:d2c4347bedde5f70797324836bfbc64f:ctorrent/.signature
 f:526a882bc68cc148ed146429dfbeae89:ctorrent/Pkgfile
+f:9c67639c40b2374f2cd95f0e893eb3ea:nvidia-container-toolkit/.footprint
+f:e7b776398b9e5632aa4ff56c8d1e5d7b:nvidia-container-toolkit/.signature
+f:5194312e03ebda9a01165aaa5ff33875:nvidia-container-toolkit/post-install
+f:ae7d563fa467f4c8f63df5decd6d93b6:nvidia-container-toolkit/Pkgfile
 f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
 f:ac7072d743aafab61d855bc6ca1f93ae:blockrage/.footprint
@@ -109,6 +115,9 @@ f:f21561f5c89df3f007acf8d02a3ee476:python3-pygame/Pkgfile
 f:bbf4b24b0001ddc300ebe980b86764a4:leafpad/.footprint
 f:98102942f11224ba3840ed7b977cf8e6:leafpad/.signature
 f:b49f2d4139f6a6a19052ce3fa1b47c27:leafpad/Pkgfile
+f:251eac9e566030246864175d8a5b3ab5:libnvidia-container/.footprint
+f:cd7688ecc08ea96e413e16d55ee94219:libnvidia-container/.signature
+f:c2b7e694cce645c0f29b1d22b6b90533:libnvidia-container/Pkgfile
 f:2689ca669db1fa7dcf9aca0f9338ccb5:nikto/.footprint
 f:3957852de4baa40ec37b68b0d014c018:nikto/.signature
 f:ca9a4c02dfa62f171e835639bad6118e:nikto/Pkgfile
