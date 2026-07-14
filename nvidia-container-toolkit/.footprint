@@ -1,0 +1,7 @@
+drwxr-xr-x	pitillo/pitillo	etc/
+drwxr-xr-x	pitillo/pitillo	etc/nvidia-container-runtime/
+drwxr-xr-x	pitillo/pitillo	usr/
+drwxr-xr-x	pitillo/pitillo	usr/bin/
+-rwxr-xr-x	pitillo/pitillo	usr/bin/nvidia-container-runtime
+-rwxr-xr-x	pitillo/pitillo	usr/bin/nvidia-container-runtime-hook
+-rwxr-xr-x	pitillo/pitillo	usr/bin/nvidia-ctk

@@ -1,0 +1,47 @@
+# Description: NVIDIA Container Toolkit
+# URL: https://github.com/NVIDIA/nvidia-container-toolkit
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: libnvidia-container
+
+name=nvidia-container-toolkit
+version=1.19.1
+release=1
+
+source=(
+    "https://github.com/NVIDIA/nvidia-container-toolkit/archive/refs/tags/v${version}.tar.gz"
+)
+
+renames=(
+    "${name}-${version}.tar.gz"
+)
+
+build() {
+  cd "${name}-${version}"
+
+  mkdir -p build
+
+  make \
+      VERSION="${version}" \
+      PREFIX="${PWD}/build" \
+      binaries
+
+  install -d "${PKG}/usr/bin"
+  install -m 0755 build/nvidia-ctk \
+      "${PKG}/usr/bin/nvidia-ctk"
+
+  install -m 0755 build/nvidia-container-runtime \
+      "${PKG}/usr/bin/nvidia-container-runtime"
+
+  install -m 0755 build/nvidia-container-runtime-hook \
+      "${PKG}/usr/bin/nvidia-container-runtime-hook"
+
+  install -m 0755 build/nvidia-container-cli.real \
+      "${PKG}/usr/bin/nvidia-container-cli.real" 2>/dev/null || true
+
+  install -d "${PKG}/etc/nvidia-container-runtime"
+
+  if [ -f config/config.toml ]; then
+      install -m 0644 config/config.toml \
+          "${PKG}/etc/nvidia-container-runtime/config.toml"
+  fi
+}

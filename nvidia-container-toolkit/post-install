@@ -1,0 +1,26 @@
+#!/bin/sh
+
+CDI_DIR="/etc/cdi"
+CDI_SPEC="${CDI_DIR}/nvidia.yaml"
+
+if ! command -v nvidia-ctk >/dev/null 2>&1; then
+    echo "nvidia-container-toolkit: nvidia-ctk not found; skipping CDI generation."
+    exit 0
+fi
+
+if ! command -v nvidia-smi >/dev/null 2>&1; then
+    echo "nvidia-container-toolkit: NVIDIA driver not available; skipping CDI generation."
+    exit 0
+fi
+
+mkdir -p "${CDI_DIR}"
+
+if nvidia-ctk cdi generate --output="${CDI_SPEC}"; then
+    chmod 0644 "${CDI_SPEC}"
+    echo "nvidia-container-toolkit: generated ${CDI_SPEC}"
+else
+    echo "nvidia-container-toolkit: warning: CDI specification could not be generated."
+    rm -f "${CDI_SPEC}"
+fi
+
+exit 0
