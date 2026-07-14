@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgL3+Q/13aDkwRIg33bsBz+KdYHQXJCoe3RHLMzMFzCGALIaHzMIg9JwMGL6pc03QuvW+aqGD3FTdRHAecX1YLg4=
+SHA256 (Pkgfile) = c78592564b7e7f02893a770eba2e5e8b23b93f2f5e69625d823a8d47e0981d33
+SHA256 (.footprint) = 4cb4f58e4632657f81294f83bfd471904f5b1181dd392d19c00d73079b8804cc
+SHA256 (libnvidia-container-1.19.1.tar.gz) = 98a20cb4a7e6f64bb4755d0375b383ed09ddb4e2df5061b088013cf23bd72892

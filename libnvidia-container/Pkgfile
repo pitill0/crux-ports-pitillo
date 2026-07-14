@@ -1,0 +1,54 @@
+# Description: NVIDIA container runtime library and CLI
+# URL: https://github.com/NVIDIA/libnvidia-container
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: go libcap elfutils libseccomp libtirpc rpcsvc-proto
+
+name=libnvidia-container
+version=1.19.1
+release=1
+
+source=(
+    "https://github.com/NVIDIA/libnvidia-container/archive/refs/tags/v${version}.tar.gz"
+)
+
+renames=(
+    "${name}-${version}.tar.gz"
+)
+
+build() {
+  cd "${name}-${version}"
+
+  version_major=${version%%.*}
+  version_rest=${version#*.}
+  version_minor=${version_rest%%.*}
+  version_patch=${version##*.}
+
+  make \
+      VERSION_MAJOR="${version_major}" \
+      VERSION_MINOR="${version_minor}" \
+      VERSION_PATCH="${version_patch}" \
+      VERSION_STRING="${version}" \
+      REVISION="release-${version}" \
+      WITH_LIBELF=yes \
+      WITH_TIRPC=yes
+
+  make install \
+      DESTDIR="${PKG}" \
+      prefix=/usr \
+      exec_prefix=/usr \
+      bindir=/usr/bin \
+      libdir=/usr/lib \
+      includedir=/usr/include \
+      docdir=/usr/share/doc \
+      pkgconfdir=/usr/lib/pkgconfig \
+      LDCONFIG=/bin/true \
+      VERSION_MAJOR="${version_major}" \
+      VERSION_MINOR="${version_minor}" \
+      VERSION_PATCH="${version_patch}" \
+      VERSION_STRING="${version}" \
+      REVISION="release-${version}" \
+      WITH_LIBELF=yes \
+      WITH_TIRPC=yes
+
+  rm -rf "${PKG}/usr/share/doc"
+}
