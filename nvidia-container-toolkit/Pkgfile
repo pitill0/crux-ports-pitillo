@@ -21,9 +21,14 @@ build() {
   mkdir -p build
 
   make \
-      VERSION="${version}" \
-      PREFIX="${PWD}/build" \
-      binaries
+    VERSION="${version}" \
+    PREFIX="${PWD}/build" \
+    binaries
+
+  go build \
+    -ldflags "${GO_LDFLAGS}" \
+    -o nvidia-cdi-hook \
+    ./cmd/nvidia-cdi-hook
 
   install -d "${PKG}/usr/bin"
   install -m 0755 build/nvidia-ctk \
@@ -39,6 +44,9 @@ build() {
       "${PKG}/usr/bin/nvidia-container-cli.real" 2>/dev/null || true
 
   install -d "${PKG}/etc/nvidia-container-runtime"
+
+  install -D -m 0755 nvidia-cdi-hook \
+    "${PKG}/usr/bin/nvidia-cdi-hook"
 
   if [ -f config/config.toml ]; then
       install -m 0644 config/config.toml \
