@@ -1,18 +1,18 @@
-drwxr-xr-x	pitillo/pitillo	usr/
-drwxr-xr-x	pitillo/pitillo	usr/bin/
--rwxr-xr-x	pitillo/pitillo	usr/bin/nvidia-container-cli
-drwxr-xr-x	pitillo/pitillo	usr/include/
--rw-r--r--	pitillo/pitillo	usr/include/nvc.h
-drwxr-xr-x	pitillo/pitillo	usr/lib/
-drwxr-xr-x	pitillo/pitillo	usr/lib/debug/
-drwxr-xr-x	pitillo/pitillo	usr/lib/debug/usr/
-drwxr-xr-x	pitillo/pitillo	usr/lib/debug/usr/lib/
--rw-r--r--	pitillo/pitillo	usr/lib/debug/usr/lib/libnvidia-container.so.1
-lrwxrwxrwx	pitillo/pitillo	usr/lib/libnvidia-container-go.so -> libnvidia-container-go.so.1
--rwxr-xr-x	pitillo/pitillo	usr/lib/libnvidia-container-go.so.
--rw-r--r--	pitillo/pitillo	usr/lib/libnvidia-container.a
-lrwxrwxrwx	pitillo/pitillo	usr/lib/libnvidia-container.so -> libnvidia-container.so.1
--rwxr-xr-x	pitillo/pitillo	usr/lib/libnvidia-container.so.
-drwxr-xr-x	pitillo/pitillo	usr/lib/pkgconfig/
--rw-r--r--	pitillo/pitillo	usr/lib/pkgconfig/libnvidia-container.pc
-drwxr-xr-x	pitillo/pitillo	usr/share/
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/nvidia-container-cli
+drwxr-xr-x	root/root	usr/include/
+-rw-r--r--	root/root	usr/include/nvc.h
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/debug/
+drwxr-xr-x	root/root	usr/lib/debug/usr/
+drwxr-xr-x	root/root	usr/lib/debug/usr/lib/
+-rw-r--r--	root/root	usr/lib/debug/usr/lib/libnvidia-container.so.1
+lrwxrwxrwx	root/root	usr/lib/libnvidia-container-go.so -> libnvidia-container-go.so.1
+-rwxr-xr-x	root/root	usr/lib/libnvidia-container-go.so.
+-rw-r--r--	root/root	usr/lib/libnvidia-container.a
+lrwxrwxrwx	root/root	usr/lib/libnvidia-container.so -> libnvidia-container.so.1
+-rwxr-xr-x	root/root	usr/lib/libnvidia-container.so.
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/libnvidia-container.pc
+drwxr-xr-x	root/root	usr/share/
