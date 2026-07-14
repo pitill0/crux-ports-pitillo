@@ -18,6 +18,7 @@ mkdir -p "${CDI_DIR}"
 if nvidia-ctk cdi generate --output="${CDI_SPEC}"; then
     chmod 0644 "${CDI_SPEC}"
     echo "nvidia-container-toolkit: generated ${CDI_SPEC}"
+    nvidia-ctk cdi list || true
 else
     echo "nvidia-container-toolkit: warning: CDI specification could not be generated."
     rm -f "${CDI_SPEC}"
