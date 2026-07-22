@@ -4,11 +4,13 @@
 # Depends on: qt6-webengine lame pulseaudio fftw mpg123 wireplumber
 
 name=supercollider
-version=3.14.0
+version=3.14.1
 release=1
 source=(https://github.com/${name}/${name}/releases/download/Version-${version}/SuperCollider-${version}-Source.tar.bz2)
 
 build() {
+  sed -i 's/\.arg(e->modifiers())/.arg(int(e->modifiers()))/g' SuperCollider-3.14.1-Source/editors/sc-ide/widgets/code_editor/editor.cpp
+
   cmake -S SuperCollider-$version-Source -B build \
     -D CMAKE_BUILD_TYPE=release \
     -D CMAKE_CXX_FLAGS_RELEASE="$CXXFLAGS" \
@@ -17,4 +19,11 @@ build() {
   
   cmake --build build -j ${JOBS:-1}
   DESTDIR=$PKG cmake --install build
+
+  rm -f $PKG/usr/share/SuperCollider/{AUTHORS,COPYING} \
+    $PKG/HelpSource/static/{lib/katex/README.md,themes/README.md} \
+    $PKG/usr/share/SuperCollider/{README,README_LINUX}.md \
+    $PKG/usr/share/SuperCollider/SCClassLibrary/SCDoc/TODO \
+    $PKG/usr/share/SuperCollider/HelpSource/static/lib/katex/README.md \
+    $PKG/usr/share/SuperCollider/HelpSource/static/themes/README.md
 }

@@ -108,9 +108,7 @@ drwxr-xr-x	root/root	usr/lib/SuperCollider/plugins/
 -rwxr-xr-x	root/root	usr/lib/SuperCollider/plugins/UnpackFFTUGens_supernova.so
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/SuperCollider/
--rw-r--r--	root/root	usr/share/SuperCollider/AUTHORS
 -rw-r--r--	root/root	usr/share/SuperCollider/CHANGELOG.md
--rw-r--r--	root/root	usr/share/SuperCollider/COPYING
 drwxr-xr-x	root/root	usr/share/SuperCollider/HID_Support/
 drwxr-xr-x	root/root	usr/share/SuperCollider/HID_Support/hut/
 -rw-r--r--	root/root	usr/share/SuperCollider/HID_Support/hut/hut_11_telephony.yaml
@@ -1352,7 +1350,6 @@ drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/lib/
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/lib/codemirror-addon-simple-5.39.2.min.js
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/lib/jquery.min.js
 drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/
--rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/README.md
 drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/fonts/
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/fonts/KaTeX_AMS-Regular.woff2
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/fonts/KaTeX_Caligraphic-Bold.woff2
@@ -1380,7 +1377,6 @@ drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/lib/katex/fonts/
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/scdoc.js
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/search.js
 drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/themes/
--rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/README.md
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/classic.css
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/dark.css
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/default.css
@@ -1388,8 +1384,6 @@ drwxr-xr-x	root/root	usr/share/SuperCollider/HelpSource/static/themes/
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/monokai.css
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/solarizedDark.css
 -rw-r--r--	root/root	usr/share/SuperCollider/HelpSource/static/themes/solarizedLight.css
--rw-r--r--	root/root	usr/share/SuperCollider/README.md
--rw-r--r--	root/root	usr/share/SuperCollider/README_LINUX.md
 drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/
 drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/Common/
 drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/Common/Audio/
@@ -1776,7 +1770,6 @@ drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/SCDoc/
 -rw-r--r--	root/root	usr/share/SuperCollider/SCClassLibrary/SCDoc/Help.sc
 -rw-r--r--	root/root	usr/share/SuperCollider/SCClassLibrary/SCDoc/SCDoc.sc
 -rw-r--r--	root/root	usr/share/SuperCollider/SCClassLibrary/SCDoc/SCDocRenderer.sc
--rw-r--r--	root/root	usr/share/SuperCollider/SCClassLibrary/SCDoc/TODO
 drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/backwards_compatibility/
 -rw-r--r--	root/root	usr/share/SuperCollider/SCClassLibrary/backwards_compatibility/PMOsc.sc
 drwxr-xr-x	root/root	usr/share/SuperCollider/SCClassLibrary/deprecated/
