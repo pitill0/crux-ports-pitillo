@@ -240,9 +240,9 @@ f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:adffd17ae9c61ffbd6ba9395df559b2a:siege/.footprint
 f:e6570f8d43dfac3aa3071a310ad3573f:siege/Pkgfile
 f:c9e1d2127c0a471c2b798bdba2451328:siege/.signature
-f:dd06c239fe6f6f465bb8d95d815aa7be:openocd/.footprint
-f:99be19716b50661146fad6b70fac23dc:openocd/Pkgfile
-f:27cb5270450ffb7216daae84187f7b98:openocd/.signature
+f:19dfa44bfe9c711101b23c0b2b389bd9:openocd/.footprint
+f:0c6190678535a686a8b30bda7eef4df2:openocd/Pkgfile
+f:f2df5f74ed81714337f730b936fad78e:openocd/.signature
 f:3901425fcf916956a18e29db1e92d946:python3-textual/.footprint
 f:13aa0e6799e3c83f8f7403bee049fdfd:python3-textual/Pkgfile
 f:0000a95cf7c5a34e17635a07f105934a:python3-textual/.signature
