@@ -5,7 +5,7 @@
 
 name=openocd
 version=0.12.0
-release=1
+release=2
 source=(http://downloads.sourceforge.net/project/$name/$name/$version/$name-$version.zip)
 
 build() {
@@ -15,5 +15,5 @@ build() {
               --disable-werror
   make
   make DESTDIR=$PKG install
-  rm -r $PKG/usr/share/info/
+  rm -r $PKG/usr/share/{info,openocd/contrib/libdcc/README}
 }
