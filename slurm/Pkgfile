@@ -1,0 +1,28 @@
+# Description: Slurm workload manager
+# URL: https://slurm.schedmd.com/
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: hwloc json-c libevent libjwt ncurses openssl
+
+name=slurm
+version=26.05.2
+release=1
+
+source=(
+  "https://download.schedmd.com/slurm/slurm-${version}.tar.bz2"
+)
+
+build() {
+  cd "${name}-${version}"
+
+  ./configure \
+    --prefix=/usr \
+    --sysconfdir=/etc/slurm \
+    --localstatedir=/var \
+    --runstatedir=/run \
+    --libdir=/usr/lib \
+    --without-munge \
+    --with-jwt=/usr
+
+  make
+  make DESTDIR="$PKG" install
+}

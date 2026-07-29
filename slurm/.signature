@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgKk1z9EltETLE4hpnqIv+CWV4HbDMhifkGjywxjz49RfEW9YW5Sg7LBC38kuHCfSSMSTxUolMz6TSns/PgZ8YAg=
+SHA256 (Pkgfile) = 556a07e1e69404dcd18abf31a8094df84a1372cb267f6683e0faf6aaba042d86
+SHA256 (.footprint) = 7237344571ff59760265b619512548a5dab8312c2464fd57a2f6a0abab5f192d
+SHA256 (slurm-26.05.2.tar.bz2) = 01151f233dde64d95cc4ca96931aea3d4a2cad372ed9ad86a8b9f6b674600c3b
