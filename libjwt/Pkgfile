@@ -1,0 +1,23 @@
+# Description: C library for JSON Web Tokens
+# URL: https://github.com/benmcollins/libjwt
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: jansson openssl
+
+name=libjwt
+version=1.12.0
+release=1
+source=(https://github.com/benmcollins/libjwt/archive/refs/tags/v${version}.tar.gz)
+
+build() {
+  cd ${name}-${version}
+
+  autoreconf -fi
+
+  ./configure \
+    --prefix=/usr \
+    --libdir=/usr/lib \
+    --disable-static
+
+  make
+  make DESTDIR=${PKG} install
+}

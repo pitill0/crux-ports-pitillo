@@ -1,0 +1,13 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/bin/
+-rwxr-xr-x	root/root	usr/bin/jwtauth
+-rwxr-xr-x	root/root	usr/bin/jwtgen
+drwxr-xr-x	root/root	usr/include/
+-rw-r--r--	root/root	usr/include/jwt.h
+drwxr-xr-x	root/root	usr/lib/
+-rwxr-xr-x	root/root	usr/lib/libjwt.la
+lrwxrwxrwx	root/root	usr/lib/libjwt.so -> libjwt.so.0.7.0
+lrwxrwxrwx	root/root	usr/lib/libjwt.so.0 -> libjwt.so.0.7.0
+-rwxr-xr-x	root/root	usr/lib/libjwt.so.0.7.0
+drwxr-xr-x	root/root	usr/lib/pkgconfig/
+-rw-r--r--	root/root	usr/lib/pkgconfig/libjwt.pc
