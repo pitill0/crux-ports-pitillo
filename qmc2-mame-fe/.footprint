@@ -1946,7 +1946,6 @@ lrwxrwxrwx	root/root	usr/share/qmc2/img/zoom-out.png -> classic/zoom-out.png
 drwxrwxr-x	root/root	usr/share/qmc2/js/
 drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/
 -rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/LICENSE
--rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/README.pdfjs
 drwxrwxr-x	root/root	usr/share/qmc2/js/pdfjs/build/
 -rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/build/pdf.js
 -rw-rw-r--	root/root	usr/share/qmc2/js/pdfjs/build/pdf.worker.js
