@@ -22,7 +22,6 @@ d:mog
 d:python3-magic
 d:blockrage
 d:python3-lib50
-d:zaz
 d:prt-snapshot
 d:python3-check50
 d:slurm
@@ -137,8 +136,6 @@ f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
-f:fa8298927ac99dd0cbc57d7d418969a1:zaz/.footprint
-f:87ccff3bf3e8ad0f52f33f9c89e03c77:zaz/Pkgfile
 f:756d595adcb1b973eff410ac62a2dad4:prt-snapshot/.footprint
 f:ee6f939fa8153fc48769fbb75b64535a:prt-snapshot/.signature
 f:c7c50d4384a440de352f3a935aa18f66:prt-snapshot/Pkgfile
@@ -222,6 +219,7 @@ f:eb3de37fbd6f5cbafb238c73b2c4dd6a:python3-pygame/.footprint
 f:c4f811b40ac17a0638aa84ff1bb1a337:python3-pygame/.signature
 f:f21561f5c89df3f007acf8d02a3ee476:python3-pygame/Pkgfile
 f:1436e705c8767a558dd8bc2e6f764d52:tcedemo2avi/.footprint
+f:8bbef7810c05731474bf24abbaf46337:tcedemo2avi/.signature
 f:3515835a89d4c99214d0ab65d433af16:tcedemo2avi/COPYING
 f:ba031d74d81d9e0a5577fdb0c07a672a:tcedemo2avi/tcedemo2avi.conf
 f:12f059fff19e0163297890b90a17da69:tcedemo2avi/tcedemo2avi.sh
