@@ -1,0 +1,7 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgITi73LoCHLZKn0dzwBKrD0pj3qlhH4bkwyt7tSm6f9hQJuek8tvfNBSIn9+wvYofDxMuQwD9T+MZjxoaVA2Sgs=
+SHA256 (Pkgfile) = 04581f10a623423315045a9d05865d3eda4a6d31b469bb883ecd08260267b48c
+SHA256 (.footprint) = c1cd06d2a0c6e94f63ff81732c501bac83313deb1370402cdc54b6ce26aad686
+SHA256 (tcedemo2avi.sh) = dd7b965e6fc0f072174acfe69c77a175102c77ae4f51f0e24aba1f9b638ec774
+SHA256 (tcedemo2avi.conf) = 06abdf25f722826f435da4d80e4aa3dac6c83c7503507f10ea38cbb9ac612358
+SHA256 (COPYING) = 9f2e250993c6206fac643824e05e5a0d7d3e0895d9e09a5ce4b12bc2610afc11
