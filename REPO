@@ -241,7 +241,7 @@ f:2c134051f9dac7a3b123d4e67b185fd7:libnl-cli/.footprint
 f:29c930882dfe65f2d5286a150c7720db:libnl-cli/.signature
 f:5859ff8d809f410cf9b925f67ce9ffc0:libnl-cli/Pkgfile
 f:2a78f3fd1a7e99e17108a29065e3365f:python3-mdit-py-plugins/.footprint
-f:daced55716880bb535cb8cd953cdcf7a:python3-mdit-py-plugins/.signature
+f:c9f05c13dc4954b1b18f2867b3133d5b:python3-mdit-py-plugins/.signature
 f:468f2ea44eb9ccde0060fa1cd83ea766:python3-mdit-py-plugins/Pkgfile
 f:7c3011b901376f7771f0d8d96c6d40c2:python3-starlette/.footprint
 f:45113ca7d088386a79c836e060b9e7cf:python3-starlette/.signature
