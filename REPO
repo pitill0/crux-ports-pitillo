@@ -244,7 +244,7 @@ f:2a78f3fd1a7e99e17108a29065e3365f:python3-mdit-py-plugins/.footprint
 f:c9f05c13dc4954b1b18f2867b3133d5b:python3-mdit-py-plugins/.signature
 f:468f2ea44eb9ccde0060fa1cd83ea766:python3-mdit-py-plugins/Pkgfile
 f:7c3011b901376f7771f0d8d96c6d40c2:python3-starlette/.footprint
-f:45113ca7d088386a79c836e060b9e7cf:python3-starlette/.signature
+f:e034e20213f8beda1240fc12a8f00000:python3-starlette/.signature
 f:a70185a4875641dd8933b14c4cd91c40:python3-starlette/Pkgfile
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
