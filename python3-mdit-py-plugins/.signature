@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgJbTlZ8Da/lTz3znGMebozGoWmgESJMx+scUIUTFRfYH8WPpk+JRRofsNeY+/lxzvTXwhn+mYsYm+Mz8F0k4Vg8=
-SHA256 (Pkgfile) = 4bb098ce2d239ecf53d437ba1cd2eede37423f179bc4b44ea520bd37f36ad724
+RWQpLSJPEvsFgJH7JrD8KW6SuLlsoVbLgCrR7M5DtShqap5qX2YZsI0AXa1J3Ow7gN/xZ9znUEZ+nU6T65g/Fk1GX+p30VQZhAQ=
+SHA256 (Pkgfile) = fb789fcb8bdf56e784c494ee76d493d5f665ac86c1eb79a3ad0c19fe44447b35
 SHA256 (.footprint) = b0c95ae23b671c513e7fd37235ef729eaddc0a36ac38010872c127963d53b695
 SHA256 (mdit_py_plugins-0.5.0.tar.gz) = f4918cb50119f50446560513a8e311d574ff6aaed72606ddae6d35716fe809c6
