@@ -1,0 +1,17 @@
+# Description: Collection of plugins for markdown-it-py
+# URL: https://github.com/executablebooks/mdit-py-plugins
+# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Depends on: python3-markdown-it-py
+
+name=python3-mdit-py-plugins
+version=0.5.0
+release=1
+source=(https://files.pythonhosted.org/packages/source/m/mdit-py-plugins/mdit_py_plugins-${version}.tar.gz)
+
+build() {
+  cd mdit_py_plugins-${version}
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}
