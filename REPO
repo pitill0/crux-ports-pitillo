@@ -21,6 +21,7 @@ d:btop
 d:mog
 d:python3-magic
 d:blockrage
+d:fluxtuner-gtk
 d:python3-lib50
 d:prt-snapshot
 d:python3-check50
@@ -45,6 +46,7 @@ d:librewolf
 d:p5-apachedbi
 d:flatpak-builder
 d:libnl-cli
+d:python3-mdit-py-plugins
 d:p5-devel-checklib
 d:wf-recorder
 d:python3-pygame
@@ -133,6 +135,10 @@ f:ac7072d743aafab61d855bc6ca1f93ae:blockrage/.footprint
 f:d1c059a91bc0180324146e6939758343:blockrage/.signature
 f:7fe6b2be6019ee8a0c3eb8456bc745ef:blockrage/Pkgfile
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
+f:4c4e7004ef69636e64e59a80f4a22230:fluxtuner-gtk/.footprint
+f:5be2334b6007b64c56e826f881b6c7b4:fluxtuner-gtk/.signature
+f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
+f:69fc7c887ee1457e84afc6576a91e829:fluxtuner-gtk/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
@@ -178,9 +184,9 @@ f:bfa6956d3ffb8645599db1d3a02c432b:portmidi/Pkgfile
 f:0832d278311989180243d4bbbafdd187:xinput_calibrator/.footprint
 f:55608df03d4680db26db7d05fc2eab45:xinput_calibrator/.signature
 f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
-f:7c0456c2a41bc69465ae461b381c870d:fluxtuner/.footprint
-f:3dca40f4a31f1ba70495e2013eeeedcf:fluxtuner/.signature
-f:df6fbe1d3e8e0e3dafc9195ba7046bfd:fluxtuner/Pkgfile
+f:db10f55fd089844d810bef94bea27ed8:fluxtuner/.footprint
+f:df7de80b4ad7eddebf83e60d397d410e:fluxtuner/.signature
+f:f89c637c431a8b0721fbb60b1d09f95e:fluxtuner/Pkgfile
 f:1e899106e3478d65bb68528bf52ada5d:libnvidia-container/.footprint
 f:319c9ac684121453fb753556563a253e:libnvidia-container/.signature
 f:c2b7e694cce645c0f29b1d22b6b90533:libnvidia-container/Pkgfile
@@ -209,6 +215,9 @@ f:ddc00e122e9c974e31352e8055aa340e:flatpak-builder/Pkgfile
 f:2c134051f9dac7a3b123d4e67b185fd7:libnl-cli/.footprint
 f:29c930882dfe65f2d5286a150c7720db:libnl-cli/.signature
 f:5859ff8d809f410cf9b925f67ce9ffc0:libnl-cli/Pkgfile
+f:2a78f3fd1a7e99e17108a29065e3365f:python3-mdit-py-plugins/.footprint
+f:daced55716880bb535cb8cd953cdcf7a:python3-mdit-py-plugins/.signature
+f:7afeeb89b20c851a570d21a9e96165ef:python3-mdit-py-plugins/Pkgfile
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
 f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
