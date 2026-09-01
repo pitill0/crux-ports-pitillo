@@ -103,7 +103,7 @@ f:fcdac8def161d07a9bf34411ac6aafc7:x11vnc/.footprint
 f:e3ff6f362b9797f1c0b99f83163e609c:x11vnc/.signature
 f:c19dc9085d16a4e9edf63b2d54fad071:x11vnc/Pkgfile
 f:7c809ab0509bf391022a1ab1be319075:python3-fastapi/.footprint
-f:a8e7fa3b413031f76bc0d78634a9e205:python3-fastapi/.signature
+f:7d2949375f70c8c0c75d6afab46506c7:python3-fastapi/.signature
 f:d5d782e34c554254854c7a2ceef8ab0f:python3-fastapi/Pkgfile
 f:572d68dbf8f73b98f6a6e4e01e810ad0:mbmd/.footprint
 f:c4e2d166f5c104353f2575072f29550a:mbmd/.signature
