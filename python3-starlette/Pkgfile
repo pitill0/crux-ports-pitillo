@@ -1,0 +1,17 @@
+# Description: Lightweight ASGI framework/toolkit
+# URL: https://github.com/Kludex/starlette
+# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Depends on: python3-anyio python3-hatchling
+
+name=python3-starlette
+version=1.6.0
+release=1
+source=(https://files.pythonhosted.org/packages/source/s/starlette/starlette-${version}.tar.gz)
+
+build() {
+  cd starlette-${version}
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}
