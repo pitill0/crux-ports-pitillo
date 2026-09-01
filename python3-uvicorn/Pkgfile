@@ -1,0 +1,17 @@
+# Description: Lightning-fast ASGI server implementation
+# URL: https://github.com/encode/uvicorn
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: python3-click python3-h11 python3-hatchling
+
+name=python3-uvicorn
+version=0.52.4
+release=1
+source=(https://files.pythonhosted.org/packages/source/u/uvicorn/uvicorn-${version}.tar.gz)
+
+build() {
+  cd uvicorn-${version}
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}

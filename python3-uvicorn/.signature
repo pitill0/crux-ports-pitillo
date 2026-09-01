@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgDdiuwIhADPCQKxY627kx40dL/dl+L3LP3nymQV0SymLL5bGDbEv7byCB4nJbXOv28hW8b/Myaz8+Y463/ZXdwE=
+SHA256 (Pkgfile) = 82edf7aa351491a19fa7de73a36df6c0c50241c357c5379a8eaaf2117853160e
+SHA256 (.footprint) = 091e02cfae119722a52446b6788cc2f1ae83f8105fab0fa5f4c42dcf42abc256
+SHA256 (uvicorn-0.52.4.tar.gz) = 73acfee47a0b133c5de13d219492d62d8a31e935f4fe6e41a232451a15379f86
