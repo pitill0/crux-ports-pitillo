@@ -1,0 +1,17 @@
+# Description: Low-level CFFI bindings for Argon2
+# URL: https://github.com/hynek/argon2-cffi-bindings
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: cmake python3-cffi python3-scikit-build-core
+
+name=python3-argon2-cffi-bindings
+version=26.1.0
+release=1
+source=(https://files.pythonhosted.org/packages/source/a/argon2-cffi-bindings/argon2_cffi_bindings-${version}.tar.gz)
+
+build() {
+  cd argon2_cffi_bindings-${version}
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}

@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgFL4VuZPehoY+sdzVC1oDIUJ4PtHT82FvCVhXXa1D85LEwkg61cBl+XGb9lQqZlUtF4U/EatLVOFehbL/0IZdww=
+SHA256 (Pkgfile) = e1189b7c4392fd0f92afa2cad9b48ec39787223cc71c1a290e3ece19650ea24e
+SHA256 (.footprint) = c8ca4f90f20f0beacf54da8267d8ec9dc629d4e9a636473ed8b8ec687c874c60
+SHA256 (argon2_cffi_bindings-26.1.0.tar.gz) = 63505c71542a44b68b1e38060450fb006404170da375feb31af153e7f9c6205d

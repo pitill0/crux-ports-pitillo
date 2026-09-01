@@ -1,0 +1,15 @@
+drwxr-xr-x	root/root	usr/
+drwxr-xr-x	root/root	usr/lib/
+drwxr-xr-x	root/root	usr/lib/python3.12/
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/_argon2_cffi_bindings/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/_argon2_cffi_bindings/__init__.py
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/_argon2_cffi_bindings/__pycache__/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/_argon2_cffi_bindings/__pycache__/__init__.cpython-312.opt-2.pyc
+-rwxr-xr-x	root/root	usr/lib/python3.12/site-packages/_argon2_cffi_bindings/_ffi.abi3.so
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/METADATA
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/RECORD
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/WHEEL
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/licenses/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/argon2_cffi_bindings-26.1.0.dist-info/licenses/LICENSE
