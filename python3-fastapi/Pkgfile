@@ -1,0 +1,17 @@
+# Description: Modern, fast web framework for building APIs with Python
+# URL: https://github.com/fastapi/fastapi
+# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Depends on: python3-annotated-doc python3-pydantic python3-starlette
+
+name=python3-fastapi
+version=0.141.1
+release=1
+source=(https://files.pythonhosted.org/packages/source/f/fastapi/fastapi-${version}.tar.gz)
+
+build() {
+  cd fastapi-${version}
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}
