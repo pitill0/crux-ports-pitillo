@@ -1,0 +1,23 @@
+# Description: Web interface and server support for Fluxtuner
+# URL: https://github.com/pitill0/fluxtuner
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: fluxtuner python3-argon2-cffi python3-fastapi python3-uvicorn
+
+name=fluxtuner-web
+version=1.0.8
+release=1
+
+build() {
+  install -d ${PKG}/usr/bin
+
+  cat > fluxtuner-web << 'EOF'
+#!/usr/bin/python3
+
+from fluxtuner.web.app import main
+
+if __name__ == "__main__":
+    main()
+EOF
+
+  install -m 755 fluxtuner-web ${PKG}/usr/bin/fluxtuner-web
+}
