@@ -207,7 +207,7 @@ f:0832d278311989180243d4bbbafdd187:xinput_calibrator/.footprint
 f:55608df03d4680db26db7d05fc2eab45:xinput_calibrator/.signature
 f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
 f:b9c2ecc28bbd69fbdaa3ed682a811eb3:python3-anyio/.footprint
-f:adcdc701fee3b41bf532ffae365ed5e6:python3-anyio/.signature
+f:5b80bc4edd67e2d6093738d23b2943e7:python3-anyio/.signature
 f:33b70d939efc56448c100e8716feb651:python3-anyio/Pkgfile
 f:db10f55fd089844d810bef94bea27ed8:fluxtuner/.footprint
 f:df7de80b4ad7eddebf83e60d397d410e:fluxtuner/.signature
