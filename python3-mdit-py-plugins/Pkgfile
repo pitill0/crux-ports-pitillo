@@ -1,6 +1,6 @@
 # Description: Collection of plugins for markdown-it-py
 # URL: https://github.com/executablebooks/mdit-py-plugins
-# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: python3-markdown-it-py
 
 name=python3-mdit-py-plugins

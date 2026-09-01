@@ -1,6 +1,6 @@
 # Description: High-level concurrency and networking framework for Python
 # URL: https://github.com/agronholm/anyio
-# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: python3-idna python3-typing_extensions python3-setuptools-scm
 
 name=python3-anyio

@@ -1,6 +1,6 @@
 # Description: Lightweight ASGI framework/toolkit
 # URL: https://github.com/Kludex/starlette
-# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: python3-anyio python3-hatchling
 
 name=python3-starlette

@@ -1,6 +1,6 @@
 # Description: Modern internet radio player for terminal, desktop and web
 # URL: https://github.com/pitill0/fluxtuner
-# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: mpv python3-requests python3-textual python3-mdit-py-plugins
 
 name=fluxtuner

@@ -1,6 +1,6 @@
 # Description: Modern, fast web framework for building APIs with Python
 # URL: https://github.com/fastapi/fastapi
-# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: python3-annotated-doc python3-pydantic python3-starlette
 
 name=python3-fastapi
