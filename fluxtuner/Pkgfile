@@ -1,10 +1,10 @@
 # Description: Modern internet radio player for terminal, desktop and web
 # URL: https://github.com/pitill0/fluxtuner
 # Maintainer: Victor Martinez, pitillo at crux dot nu
-# Depends on: mpv python3-requests python3-textual
+# Depends on: mpv python3-requests python3-textual python3-mdit-py-plugins
 
 name=fluxtuner
-version=1.0.5
+version=1.0.8
 release=1
 source=(https://github.com/pitill0/${name}/archive/refs/tags/v${version}.tar.gz)
 
@@ -13,4 +13,7 @@ build() {
 
   /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
   /usr/bin/python3 -m installer --compile-bytecode 2 --destdir=${PKG} dist/*.whl
+
+  # Web support is provided by the separate fluxtuner-web port.
+  rm -f ${PKG}/usr/bin/fluxtuner-web
 }
