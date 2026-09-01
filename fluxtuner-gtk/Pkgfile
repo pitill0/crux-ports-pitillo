@@ -1,0 +1,21 @@
+# Description: Modern internet radio player for terminal, desktop and web
+# URL: https://github.com/pitill0/fluxtuner
+# Maintainer: Victor Martinez, pitillo at crux dot nu
+# Depends on: fluxtuner gtk4 python3-gobject
+
+name=fluxtuner-gtk
+version=1.0.8
+release=1
+source=()
+
+build() {
+  install -d ${PKG}/usr/bin
+
+  cat > fluxtuner-gtk << 'EOF'
+#!/bin/sh
+
+exec /usr/bin/fluxtuner --gui "$@"
+EOF
+
+  install -m 755 fluxtuner-gtk ${PKG}/usr/bin/fluxtuner-gtk
+}

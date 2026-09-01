@@ -1,0 +1,6 @@
+Fluxtuner GTK4 desktop interface support.
+
+This package installs the GTK4 and PyGObject dependencies required
+to run the Fluxtuner graphical desktop interface.
+
+Fluxtuner itself is provided by the fluxtuner package.
