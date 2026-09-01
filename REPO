@@ -155,7 +155,7 @@ f:d1c059a91bc0180324146e6939758343:blockrage/.signature
 f:7fe6b2be6019ee8a0c3eb8456bc745ef:blockrage/Pkgfile
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
 f:4c4e7004ef69636e64e59a80f4a22230:fluxtuner-gtk/.footprint
-f:5be2334b6007b64c56e826f881b6c7b4:fluxtuner-gtk/.signature
+f:df6f02d14154449b8f8cd407e978ed2c:fluxtuner-gtk/.signature
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
 f:6528fdd27fbb8217e9d19920ab5034a0:fluxtuner-gtk/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
