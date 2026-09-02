@@ -4,8 +4,8 @@
 # Depends on: fluxtuner gtk4 python3-gobject
 
 name=fluxtuner-gtk
-version=1.1.0
-release=2
+version=1.2.0
+release=1
 source=(
   https://raw.githubusercontent.com/pitill0/fluxtuner/v${version}/flatpak/io.github.pitill0.Fluxtuner.desktop
   https://raw.githubusercontent.com/pitill0/fluxtuner/v${version}/flatpak/io.github.pitill0.Fluxtuner.png
