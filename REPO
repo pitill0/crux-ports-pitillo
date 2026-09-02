@@ -110,8 +110,8 @@ f:c4e2d166f5c104353f2575072f29550a:mbmd/.signature
 f:1802bb2ee60906b506628de9996508a3:mbmd/mbmd.service
 f:eda63678a271296038ac81e48904ed02:mbmd/Pkgfile
 f:9e1fb8120ae2c46bdda3d0835ebc6401:fluxtuner-web/.footprint
-f:094fc9b35ca3b85f5afa24ce4023adb2:fluxtuner-web/.signature
-f:69ce0ce984c986ce1735b31ef688720a:fluxtuner-web/Pkgfile
+f:14dbd8ad3eb93e6b118a3132aa756a9b:fluxtuner-web/.signature
+f:09f4e640780c5f83845e9315191100c4:fluxtuner-web/Pkgfile
 f:85418acebdbcb30394ce020c80167f96:mame/.footprint
 f:ae2aab5ac2b78a031a873fc6714462f9:mame/mame.sh
 f:9af36227a1e18323095d2c56289275a9:mame/.signature
@@ -155,9 +155,9 @@ f:d1c059a91bc0180324146e6939758343:blockrage/.signature
 f:7fe6b2be6019ee8a0c3eb8456bc745ef:blockrage/Pkgfile
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
 f:4c4e7004ef69636e64e59a80f4a22230:fluxtuner-gtk/.footprint
-f:df6f02d14154449b8f8cd407e978ed2c:fluxtuner-gtk/.signature
+f:898a45805facfaef835b6008b59bf2d8:fluxtuner-gtk/.signature
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
-f:6528fdd27fbb8217e9d19920ab5034a0:fluxtuner-gtk/Pkgfile
+f:bfe66081d90f92cd43efa1c73dd0ebd8:fluxtuner-gtk/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
@@ -209,9 +209,9 @@ f:269b0f44a80e02cb7d402d0c76d37911:xinput_calibrator/Pkgfile
 f:b9c2ecc28bbd69fbdaa3ed682a811eb3:python3-anyio/.footprint
 f:5b80bc4edd67e2d6093738d23b2943e7:python3-anyio/.signature
 f:33b70d939efc56448c100e8716feb651:python3-anyio/Pkgfile
-f:db10f55fd089844d810bef94bea27ed8:fluxtuner/.footprint
-f:f93b17bfdabee5c961c93004306fdf1d:fluxtuner/.signature
-f:66b7ada8f9f152f3341c9adc860794e8:fluxtuner/Pkgfile
+f:0c6b2a383a93cea484ca2ce8efe6347f:fluxtuner/.footprint
+f:3d595f9654e6476a604b919999533327:fluxtuner/.signature
+f:199d3307e6eae2bd69db35461fb9e118:fluxtuner/Pkgfile
 f:1e899106e3478d65bb68528bf52ada5d:libnvidia-container/.footprint
 f:319c9ac684121453fb753556563a253e:libnvidia-container/.signature
 f:c2b7e694cce645c0f29b1d22b6b90533:libnvidia-container/Pkgfile
