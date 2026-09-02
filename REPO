@@ -22,7 +22,6 @@ d:p5-dbi
 d:fluxtuner
 d:portmidi
 d:p5-devel-checklib
-d:voipong
 d:texi2html
 d:python3-lib50
 d:xdialog
@@ -143,8 +142,6 @@ f:389c98eaaf8e8fd712fa7a4ac8a1e0f4:portmidi/.footprint
 f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
-f:40d4787b21aa445a1b6d8ad8f1e92854:voipong/Pkgfile
-f:55702b131be8d4d73ef65de0d2d51ca5:voipong/.footprint
 f:1f2e3353caa6897c6d4f1b75911c04d7:texi2html/Pkgfile
 f:fb8ce4d9fdfbf5200c29f4a048c3a266:texi2html/.signature
 f:69ba50a140af0588c7d83d94c45e77f7:texi2html/.footprint
