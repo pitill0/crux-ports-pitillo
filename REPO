@@ -68,8 +68,8 @@ d:python3-fastapi
 d:devio
 d:python3-argon2-cffi
 d:prt-snapshot
-f:d9f895b3a59cead09119159c49b1262a:fluxtuner-web/Pkgfile
-f:6529d48e4a28259522ee5c3aa7b9692d:fluxtuner-web/.signature
+f:e6e156631a9c57ef1208e22468e3da15:fluxtuner-web/Pkgfile
+f:489793d89cb45f98633fbb561593304a:fluxtuner-web/.signature
 f:9e1fb8120ae2c46bdda3d0835ebc6401:fluxtuner-web/.footprint
 f:39fa83abe2b74049ff42112a7ab65c76:wavemon/Pkgfile
 f:91a15ac82ba753a2f83767e0f3140480:wavemon/.signature
