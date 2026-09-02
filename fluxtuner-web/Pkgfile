@@ -6,6 +6,7 @@
 name=fluxtuner-web
 version=1.2.0
 release=1
+source=()
 
 build() {
   install -d ${PKG}/usr/bin
