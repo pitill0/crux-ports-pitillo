@@ -154,10 +154,10 @@ f:ac7072d743aafab61d855bc6ca1f93ae:blockrage/.footprint
 f:d1c059a91bc0180324146e6939758343:blockrage/.signature
 f:7fe6b2be6019ee8a0c3eb8456bc745ef:blockrage/Pkgfile
 f:e183babadd6e95aca7cc77782d7e440a:blockrage/statx.patch
-f:4c4e7004ef69636e64e59a80f4a22230:fluxtuner-gtk/.footprint
-f:898a45805facfaef835b6008b59bf2d8:fluxtuner-gtk/.signature
+f:ff9c328c903cf1e50b77bf807bfbb438:fluxtuner-gtk/.footprint
+f:c2202e5a744dbad53cbcffe84fc85775:fluxtuner-gtk/.signature
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
-f:bfe66081d90f92cd43efa1c73dd0ebd8:fluxtuner-gtk/Pkgfile
+f:25b27d5878899b627db77813822dad7a:fluxtuner-gtk/Pkgfile
 f:fda85034cbdb2b281eea33d24a574142:python3-lib50/.footprint
 f:e1e0681688c44b5284b8bbfb3273796e:python3-lib50/.signature
 f:9db507c84d2fd98d534c28341b5009ee:python3-lib50/Pkgfile
