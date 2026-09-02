@@ -1,14 +1,18 @@
-# Description: Modern internet radio player for terminal, desktop and web
+# Description: GTK4 desktop interface for FluxTuner
 # URL: https://github.com/pitill0/fluxtuner
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
 # Depends on: fluxtuner gtk4 python3-gobject
 
 name=fluxtuner-gtk
 version=1.1.0
-release=1
-source=()
+release=2
+source=(
+  https://raw.githubusercontent.com/pitill0/fluxtuner/v${version}/flatpak/io.github.pitill0.Fluxtuner.desktop
+  https://raw.githubusercontent.com/pitill0/fluxtuner/v${version}/flatpak/io.github.pitill0.Fluxtuner.png
+)
 
 build() {
+  # GTK launcher
   install -d ${PKG}/usr/bin
 
   cat > fluxtuner-gtk << 'EOF'
@@ -17,5 +21,22 @@ build() {
 exec /usr/bin/fluxtuner --gui "$@"
 EOF
 
-  install -m 755 fluxtuner-gtk ${PKG}/usr/bin/fluxtuner-gtk
+  install -m 755 fluxtuner-gtk \
+    ${PKG}/usr/bin/fluxtuner-gtk
+
+  # Desktop entry
+  install -d ${PKG}/usr/share/applications
+
+  sed \
+    's|^Exec=.*|Exec=fluxtuner-gtk|' \
+    io.github.pitill0.Fluxtuner.desktop \
+    > ${PKG}/usr/share/applications/io.github.pitill0.Fluxtuner.desktop
+
+  chmod 644 \
+    ${PKG}/usr/share/applications/io.github.pitill0.Fluxtuner.desktop
+
+  # Application icon
+  install -Dm644 \
+    io.github.pitill0.Fluxtuner.png \
+    ${PKG}/usr/share/icons/hicolor/512x512/apps/io.github.pitill0.Fluxtuner.png
 }
