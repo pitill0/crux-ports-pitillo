@@ -4,7 +4,7 @@
 # Depends on: fluxtuner python3-argon2-cffi python3-fastapi python3-uvicorn
 
 name=fluxtuner-web
-version=1.2.0
+version=1.2.1
 release=1
 source=()
 
