@@ -4,7 +4,7 @@
 # Depends on: 
 
 name=prt-snapshot
-version=0.5.0
+version=0.5.1
 release=1
 source=(https://github.com/pitill0/${name}/archive/refs/tags/v${version}.tar.gz)
 
