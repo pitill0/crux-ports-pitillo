@@ -37,6 +37,24 @@ logrotate can be executed periodically using cron, for example once per day:
 
 Adjust the schedule according to the needs of the system.
 
+On CRUX, logrotate can be executed daily by creating an executable script at:
+  /etc/cron/daily/logrotate
+
+For example:
+
+#!/bin/sh
+
+/usr/sbin/logrotate /etc/logrotate.conf
+
+Make the script executable:
+
+  chmod 755 /etc/cron/daily/logrotate
+
+Running logrotate daily is suitable even when individual rules use weekly,
+monthly or other rotation intervals. logrotate uses its state file to decide
+when each log actually needs to be rotated.
+
+
 
 * Mail support
 Upstream defaults to using /bin/mail for mail notifications.
