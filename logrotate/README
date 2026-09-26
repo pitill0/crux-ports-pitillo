@@ -1,0 +1,48 @@
+* Configuration
+The main configuration file is:
+  /etc/logrotate.conf
+
+Additional per-service rules can be placed in:
+  /etc/logrotate.d/
+
+The default configuration includes this directory.
+
+Example:
+
+/var/log/example.log {
+    weekly
+    rotate 4
+    compress
+    missingok
+    notifempty
+}
+
+
+* Testing the configuration
+Check the configuration without performing any rotation:
+  logrotate -d /etc/logrotate.conf
+
+Force a rotation regardless of the configured interval:
+  logrotate -f /etc/logrotate.conf
+
+The default state file is:
+  /var/lib/logrotate.status
+
+
+* Periodic execution
+This port does not install or enable any automatic scheduling mechanism.
+
+logrotate can be executed periodically using cron, for example once per day:
+  0 0 * * * /usr/sbin/logrotate /etc/logrotate.conf
+
+Adjust the schedule according to the needs of the system.
+
+
+* Mail support
+Upstream defaults to using /bin/mail for mail notifications.
+
+A compatible mail command is required only when using the mail directive.
+On CRUX, this functionality can be provided by installing a suitable mail
+client such as mailx.
+
+Mail support is optional and is not required for normal log rotation.

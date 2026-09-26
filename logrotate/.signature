@@ -1,0 +1,5 @@
+untrusted comment: verify with /etc/ports/pitillo.pub
+RWQpLSJPEvsFgLn8R+VshFHt2Qm1va0Ef6YvdUMLz1Q/ESrsTf7MHRb2TPOjmCgVxjglWETs45G94VeLzF6aDm7jDGh8VoS+NQs=
+SHA256 (Pkgfile) = 1e72a09834b247c9451d7d0a46150be2325429170ccddc640f8d4dbac2717c2b
+SHA256 (.footprint) = 56f67f27360d59cd15f0cc716b5f2b469b3ab974a68723f1fdd76403d440fcac
+SHA256 (logrotate-3.22.0.tar.xz) = 42b4080ee99c9fb6a7d12d8e787637d057a635194e25971997eebbe8d5e57618

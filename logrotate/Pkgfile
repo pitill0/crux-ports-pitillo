@@ -1,0 +1,28 @@
+# Description: Rotates, compresses, removes and mails system log files
+# URL: https://github.com/logrotate/logrotate
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: popt
+
+name=logrotate
+version=3.22.0
+release=1
+source=(https://github.com/logrotate/logrotate/releases/download/${version}/${name}-${version}.tar.xz)
+
+build() {
+	cd ${name}-${version}
+
+	./configure \
+		--prefix=/usr \
+		--sysconfdir=/etc \
+		--localstatedir=/var
+
+	make
+
+	make DESTDIR=$PKG install
+
+	install -d $PKG/etc/logrotate.d
+	install -d $PKG/var/lib
+
+	install -m 0644 examples/logrotate.conf \
+		$PKG/etc/logrotate.conf
+}
