@@ -89,9 +89,9 @@ f:6c8e9f318d93df19bca487028620b37a:xdialog/Pkgfile
 f:eb3de37fbd6f5cbafb238c73b2c4dd6a:python3-pygame/.footprint
 f:c4f811b40ac17a0638aa84ff1bb1a337:python3-pygame/.signature
 f:f21561f5c89df3f007acf8d02a3ee476:python3-pygame/Pkgfile
-f:0ab1cd50b6152ce538b59436a163e903:btop/.footprint
-f:1c752ce16d8ba91c38af071823021a32:btop/.signature
-f:6e5732ccc1acb22985b9a2121320a2ac:btop/Pkgfile
+f:073d5d9fa755097dad9f08d5954d3aa6:btop/.footprint
+f:1b38f4d053dcba56d6e5e3cf8cb59363:btop/.signature
+f:498ef358157ea07033e65f9c1c20ea7f:btop/Pkgfile
 f:2845e97849ddc7effbc80c39c7e7ee2b:logrotate/.footprint
 f:0d022645bf4736f4a9054a72004c0442:logrotate/.signature
 f:3a0636761b652e72e8b2c7a04e082524:logrotate/README
