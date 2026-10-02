@@ -207,10 +207,10 @@ f:ad1b0606297bffb991cd8ba74800ebd8:python3-jellyfish/.footprint
 f:f3c4a48bc6118eeb8ffb26b9aebd6b17:python3-jellyfish/.signature
 f:e7748fc6c5973fa6bcf92714c2f7c8d4:python3-jellyfish/Pkgfile
 f:11bf137f084ead58422fdd2571b821c4:lua++/liblua.so.patch
-f:7473532fd882ea5693c99ba1d42b7b9a:lua++/.footprint
+f:ee5c2ff8d66c5007fffc75d0ee81af5a:lua++/.footprint
 f:e7ba6c2b695b0b84a5ea0cbff5fc9067:lua++/lua++.pc
-f:4a7bf0cc65483d0dcf1286455b7ba9d3:lua++/.signature
-f:55edb20f20efcffddb87ca5df3d28bd3:lua++/Pkgfile
+f:ff39e0a3a3be218292b09c56fe593b11:lua++/.signature
+f:ef62c8efbd67d732b45a87c1cdfcc4a4:lua++/Pkgfile
 f:572d68dbf8f73b98f6a6e4e01e810ad0:mbmd/.footprint
 f:1802bb2ee60906b506628de9996508a3:mbmd/mbmd.service
 f:c4e2d166f5c104353f2575072f29550a:mbmd/.signature
