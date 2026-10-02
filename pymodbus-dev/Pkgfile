@@ -4,7 +4,7 @@
 # Depends on:
 
 name=pymodbus-dev
-version=3.11.3
+version=3.15.0
 release=1
 source=(https://github.com/$name/pymodbus/archive/v$version/$name-$version.tar.gz)
 
