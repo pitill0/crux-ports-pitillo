@@ -4,8 +4,8 @@
 # Depends on: readline lua
 
 name=lua++
-version=5.4.7
-release=2
+version=5.5.1
+release=1
 source=(https://www.lua.org/ftp/lua-$version.tar.gz
   liblua.so.patch lua++.pc)
 
