@@ -268,9 +268,9 @@ f:e001d9fda57afe669988b196cde8219c:mame/Pkgfile
 f:b3bfb21c1772a29c8b586a94e69f7a51:p5-apachedbi/.footprint
 f:45b6bd5e7a6f7304401a3d00edfc48f1:p5-apachedbi/.signature
 f:ff5fdeda38006fcf62699457b161c68a:p5-apachedbi/Pkgfile
-f:53ad5b463b01e391cdde6f4ce457238a:python3-uvicorn/.footprint
-f:20f9d4fab6c8078afc431326fded962c:python3-uvicorn/.signature
-f:47fc54a5d14f86b2125ed9e238f456db:python3-uvicorn/Pkgfile
+f:ea264a977ba2c083d3117e3839a1e9ef:python3-uvicorn/.footprint
+f:63230acdf8edc3c2bbb69b1a2739df53:python3-uvicorn/.signature
+f:0438f246624b83839bebf56186465899:python3-uvicorn/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
 f:a67a595a330fffcdb0fda97b4ee958e7:genimage/.signature
 f:7d928fc5585bb32ba031011db95f0638:genimage/Pkgfile
