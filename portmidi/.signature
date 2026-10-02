@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgOKfYpaXVi06PwGMvevYDkaHwgruDIjjBxDvZ/gGRY70EIhgoopPSnIq1ZQoIeftq4Vke3yc2vCxdr0Vdz1PNA4=
-SHA256 (Pkgfile) = a7307997601a549349a699744bc8e917893c9bd9261e852040178abe7f4cdc06
-SHA256 (.footprint) = 56b3649edf0064b1fe95216961d73cc657017e95a688842c3d97ad4a121c4925
-SHA256 (portmidi-2.0.6.tar.gz) = 81d22b34051621cd56c8d5ef12908ef2a59764c9cdfba6dae47aabddb71ac914
+RWQpLSJPEvsFgNtPMY7ruetcChpdASmXeWFeba5FC29GgiOZApola2adLYQj1JoU9jeBsp5cH9nZXpddW4vzVHibsHKCBhSnnwo=
+SHA256 (Pkgfile) = c189451eb8a30cca36f34041dec3cc61277900ca057be83c8884220a84dbbead
+SHA256 (.footprint) = f0233a1b7bc5f9eb21561a31561167981e24b0fb64fa248afe147f4c4a9a8cd9
+SHA256 (portmidi-2.0.8.tar.gz) = f21201d4cc233638d7bb6ee29ee6dece54f6c9c1aeb7989bc978001caaf2f666
