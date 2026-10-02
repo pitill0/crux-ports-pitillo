@@ -74,9 +74,9 @@ f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
 f:7c3011b901376f7771f0d8d96c6d40c2:python3-starlette/.footprint
 f:e034e20213f8beda1240fc12a8f00000:python3-starlette/.signature
 f:a70185a4875641dd8933b14c4cd91c40:python3-starlette/Pkgfile
-f:3901425fcf916956a18e29db1e92d946:python3-textual/.footprint
-f:0000a95cf7c5a34e17635a07f105934a:python3-textual/.signature
-f:13aa0e6799e3c83f8f7403bee049fdfd:python3-textual/Pkgfile
+f:5a0a369e0a45e9a4acd1884d0e09b7d8:python3-textual/.footprint
+f:6774ee031ccfbf1566cb67a5e7a6ed53:python3-textual/.signature
+f:21ea8bee7a725e9b97ec819dbfd4f37c:python3-textual/Pkgfile
 f:69ba50a140af0588c7d83d94c45e77f7:texi2html/.footprint
 f:fb8ce4d9fdfbf5200c29f4a048c3a266:texi2html/.signature
 f:1f2e3353caa6897c6d4f1b75911c04d7:texi2html/Pkgfile
