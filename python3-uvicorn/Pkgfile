@@ -4,7 +4,7 @@
 # Depends on: python3-click python3-h11 python3-hatchling
 
 name=python3-uvicorn
-version=0.52.4
+version=0.54.0
 release=1
 source=(https://files.pythonhosted.org/packages/source/u/uvicorn/uvicorn-${version}.tar.gz)
 

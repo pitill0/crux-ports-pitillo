@@ -11,7 +11,7 @@ drwxr-xr-x	root/root	usr/lib/cmake/PortMidi/
 -rw-r--r--	root/root	usr/lib/cmake/PortMidi/PortMidiTargets-release.cmake
 -rw-r--r--	root/root	usr/lib/cmake/PortMidi/PortMidiTargets.cmake
 lrwxrwxrwx	root/root	usr/lib/libportmidi.so -> libportmidi.so.2
-lrwxrwxrwx	root/root	usr/lib/libportmidi.so.2 -> libportmidi.so.2.0.4
--rwxr-xr-x	root/root	usr/lib/libportmidi.so.2.0.4
+lrwxrwxrwx	root/root	usr/lib/libportmidi.so.2 -> libportmidi.so.2.0.7
+-rwxr-xr-x	root/root	usr/lib/libportmidi.so.2.0.7
 drwxr-xr-x	root/root	usr/lib/pkgconfig/
 -rw-r--r--	root/root	usr/lib/pkgconfig/portmidi.pc

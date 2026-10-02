@@ -9,7 +9,6 @@ drwxr-xr-x	root/root	usr/bin/
 -rwxr-xr-x	root/root	usr/bin/scancel
 -rwxr-xr-x	root/root	usr/bin/scontrol
 -rwxr-xr-x	root/root	usr/bin/scrontab
--rwxr-xr-x	root/root	usr/bin/scrun
 -rwxr-xr-x	root/root	usr/bin/sdiag
 -rwxr-xr-x	root/root	usr/bin/sinfo
 -rwxr-xr-x	root/root	usr/bin/sprio
@@ -74,9 +73,6 @@ drwxr-xr-x	root/root	usr/lib/slurm/
 -rw-r--r--	root/root	usr/lib/slurm/burst_buffer_datawarp.a
 -rwxr-xr-x	root/root	usr/lib/slurm/burst_buffer_datawarp.la
 -rwxr-xr-x	root/root	usr/lib/slurm/burst_buffer_datawarp.so
--rw-r--r--	root/root	usr/lib/slurm/burst_buffer_lua.a
--rwxr-xr-x	root/root	usr/lib/slurm/burst_buffer_lua.la
--rwxr-xr-x	root/root	usr/lib/slurm/burst_buffer_lua.so
 -rw-r--r--	root/root	usr/lib/slurm/certgen_script.a
 -rwxr-xr-x	root/root	usr/lib/slurm/certgen_script.la
 -rwxr-xr-x	root/root	usr/lib/slurm/certgen_script.so
@@ -86,12 +82,6 @@ drwxr-xr-x	root/root	usr/lib/slurm/
 -rw-r--r--	root/root	usr/lib/slurm/cgroup_v1.a
 -rwxr-xr-x	root/root	usr/lib/slurm/cgroup_v1.la
 -rwxr-xr-x	root/root	usr/lib/slurm/cgroup_v1.so
--rw-r--r--	root/root	usr/lib/slurm/cgroup_v2.a
--rwxr-xr-x	root/root	usr/lib/slurm/cgroup_v2.la
--rwxr-xr-x	root/root	usr/lib/slurm/cgroup_v2.so
--rw-r--r--	root/root	usr/lib/slurm/cli_filter_lua.a
--rwxr-xr-x	root/root	usr/lib/slurm/cli_filter_lua.la
--rwxr-xr-x	root/root	usr/lib/slurm/cli_filter_lua.so
 -rw-r--r--	root/root	usr/lib/slurm/cli_filter_syslog.a
 -rwxr-xr-x	root/root	usr/lib/slurm/cli_filter_syslog.la
 -rwxr-xr-x	root/root	usr/lib/slurm/cli_filter_syslog.so
@@ -155,9 +145,6 @@ drwxr-xr-x	root/root	usr/lib/slurm/
 -rw-r--r--	root/root	usr/lib/slurm/job_submit_logging.a
 -rwxr-xr-x	root/root	usr/lib/slurm/job_submit_logging.la
 -rwxr-xr-x	root/root	usr/lib/slurm/job_submit_logging.so
--rw-r--r--	root/root	usr/lib/slurm/job_submit_lua.a
--rwxr-xr-x	root/root	usr/lib/slurm/job_submit_lua.la
--rwxr-xr-x	root/root	usr/lib/slurm/job_submit_lua.so
 -rw-r--r--	root/root	usr/lib/slurm/job_submit_partition.a
 -rwxr-xr-x	root/root	usr/lib/slurm/job_submit_partition.la
 -rwxr-xr-x	root/root	usr/lib/slurm/job_submit_partition.so
@@ -182,9 +169,6 @@ drwxr-xr-x	root/root	usr/lib/slurm/
 -rw-r--r--	root/root	usr/lib/slurm/jobcomp_filetxt.a
 -rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_filetxt.la
 -rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_filetxt.so
--rw-r--r--	root/root	usr/lib/slurm/jobcomp_lua.a
--rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_lua.la
--rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_lua.so
 -rw-r--r--	root/root	usr/lib/slurm/jobcomp_script.a
 -rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_script.la
 -rwxr-xr-x	root/root	usr/lib/slurm/jobcomp_script.so
@@ -318,10 +302,10 @@ drwxr-xr-x	root/root	usr/sbin/
 -rwxr-xr-x	root/root	usr/sbin/slurmstepd
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/doc/
-drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.2/
-drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.2/html/
--rw-r--r--	root/root	usr/share/doc/slurm-26.05.2/html/configurator.easy.html
--rw-r--r--	root/root	usr/share/doc/slurm-26.05.2/html/configurator.html
+drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.4/
+drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.4/html/
+-rw-r--r--	root/root	usr/share/doc/slurm-26.05.4/html/configurator.easy.html
+-rw-r--r--	root/root	usr/share/doc/slurm-26.05.4/html/configurator.html
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/sacct.1.gz
