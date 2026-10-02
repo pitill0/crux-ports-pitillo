@@ -71,9 +71,9 @@ d:hostap-utils
 f:9ef1a1cea756a680ac07fa30e40ac30f:devio/.footprint
 f:f14f8bd133786be8737f66bd1c43b2ed:devio/.signature
 f:f62c8f250c383d22921b6f5d27440e93:devio/Pkgfile
-f:7c3011b901376f7771f0d8d96c6d40c2:python3-starlette/.footprint
-f:e034e20213f8beda1240fc12a8f00000:python3-starlette/.signature
-f:a70185a4875641dd8933b14c4cd91c40:python3-starlette/Pkgfile
+f:f843e8b9575ffdeeac40fb98922cfa50:python3-starlette/.footprint
+f:d42ae001604a285b87419a21de0c5845:python3-starlette/.signature
+f:b8c7e7561c41d26ab083ce68ee0da277:python3-starlette/Pkgfile
 f:3901425fcf916956a18e29db1e92d946:python3-textual/.footprint
 f:0000a95cf7c5a34e17635a07f105934a:python3-textual/.signature
 f:13aa0e6799e3c83f8f7403bee049fdfd:python3-textual/Pkgfile
