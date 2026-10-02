@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgDcxZ8gX1Om/HW62aghN+4htA8bjhnxpXXKgs26MuXudq+LhVCWaJp3IyH6lS0n1symbKrSo6FVsTpP3IAtUxgc=
-SHA256 (Pkgfile) = 62e6e83aa9df4185ddddfea24b34b841a6e85368d9a164d5afa1134b92e46ddd
-SHA256 (.footprint) = 8a484ebb20b21a52b147d68c9e45806fe04705ab52b1f78fe24871f7ed13fbd7
-SHA256 (anyio-4.14.2.tar.gz) = cfa139f3ed1a23ee8f88a145ddb5ac7605b8bbfd8592baacd7ce3d8bb4313c7f
+RWQpLSJPEvsFgAZyGnIK6+eR+Sv85Fr+giOFm9XzjxdAKoW6jFka0Ak3a8s3a7AG3Zq6J3tetHRFVvppqL7OhMPuFFjyfAjw0AI=
+SHA256 (Pkgfile) = 4d7bf6e7cc68d2fb2e945ac57e83488aadeb245a5b94aa082f0befa7d13796af
+SHA256 (.footprint) = 3820e3e3e1c5d7b69e3695a2f57f274d64ab04c6bd298443abfd12179510c9dc
+SHA256 (anyio-4.15.1.tar.gz) = 9f28306018cbd6d329e64a36d58256edff76dd996fe423bc957326e578b82a94
