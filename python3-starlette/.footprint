@@ -2,12 +2,12 @@ drwxr-xr-x	root/root	usr/
 drwxr-xr-x	root/root	usr/lib/
 drwxr-xr-x	root/root	usr/lib/python3.12/
 drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/
-drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/
--rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/METADATA
--rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/RECORD
--rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/WHEEL
-drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/licenses/
--rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.6.0.dist-info/licenses/LICENSE.md
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/METADATA
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/RECORD
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/WHEEL
+drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/licenses/
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette-1.7.0.dist-info/licenses/LICENSE.md
 drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette/
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/__init__.py
 drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette/__pycache__/
@@ -58,6 +58,7 @@ drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/exceptions.cpython-312.opt-2.pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/gzip.cpython-312.opt-2.pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/httpsredirect.cpython-312.opt-2.pyc
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/opentelemetry.cpython-312.opt-2.pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/sessions.cpython-312.opt-2.pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/trustedhost.cpython-312.opt-2.pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pycache__/wsgi.cpython-312.opt-2.pyc
@@ -69,6 +70,7 @@ drwxr-xr-x	root/root	usr/lib/python3.12/site-packages/starlette/middleware/__pyc
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/exceptions.py
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/gzip.py
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/httpsredirect.py
+-rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/opentelemetry.py
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/sessions.py
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/trustedhost.py
 -rw-r--r--	root/root	usr/lib/python3.12/site-packages/starlette/middleware/wsgi.py

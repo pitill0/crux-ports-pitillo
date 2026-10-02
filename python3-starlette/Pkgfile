@@ -4,7 +4,7 @@
 # Depends on: python3-anyio python3-hatchling
 
 name=python3-starlette
-version=1.6.0
+version=1.7.0
 release=1
 source=(https://files.pythonhosted.org/packages/source/s/starlette/starlette-${version}.tar.gz)
 
