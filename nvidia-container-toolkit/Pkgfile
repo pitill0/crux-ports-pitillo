@@ -4,7 +4,7 @@
 # Depends on: libnvidia-container
 
 name=nvidia-container-toolkit
-version=1.19.1
+version=1.20.1
 release=1
 
 source=(
