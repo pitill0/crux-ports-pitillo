@@ -4,7 +4,7 @@
 # Depends on: go libcap elfutils libseccomp libtirpc rpcsvc-proto
 
 name=libnvidia-container
-version=1.19.1
+version=1.20.1
 release=1
 
 source=(
