@@ -108,9 +108,9 @@ f:389ad45f3f5ac6d30bfde7bbf5c9405e:sdl2_sound/Pkgfile
 f:193c9fdb0589b66442060e8b14f11bd8:p5-devel-checklib/.footprint
 f:3d39f70c0032d4450ae1752d6aba3692:p5-devel-checklib/.signature
 f:5595ca5935d5acbf68ec021cff2617b8:p5-devel-checklib/Pkgfile
-f:e39ea4157977f7c61854abf24a1b9c59:slurm/.footprint
-f:40505cdc74a7810d10e3bc8b128bad62:slurm/.signature
-f:0a86959b50d3584e5075989f1cf4d7c4:slurm/Pkgfile
+f:a17a391d8bff45e64012d60779401b8d:slurm/.footprint
+f:c47a23d59c0918ca1ceb62b2c4367d27:slurm/.signature
+f:5a3ab975dfdf7c5fd3dc2d11a2359333:slurm/Pkgfile
 f:a43fa8821e4c50ab0ebbb14125bdd622:python3-pycodestyle/.footprint
 f:bf0c64b45b8a61ca64e1f25c9f03228e:python3-pycodestyle/.signature
 f:7271ba46f0680aabe88be46f12a0fc53:python3-pycodestyle/Pkgfile
