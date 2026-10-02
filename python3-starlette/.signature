@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgF/DsUwJZUrReiiTLlsonsCSU8rPT/DP26S/X+URe7K1C6/PRaBiZX6KK1Clv2stDhcYO4uT1xvcYomthknx5ww=
-SHA256 (Pkgfile) = 08b2d96f227224f3d41b5a67b256260ec10b5ecc33ba5af6fcfd5287b476c6fd
-SHA256 (.footprint) = 4d32238dd9272ffa6b917253fcc2c648f8f58f101f5500ac6daf515cc2ab1f71
-SHA256 (starlette-1.6.0.tar.gz) = d4e3ac5e546444960c710297a3c9fc3f7ebae1b7e963f3d36173b49da535be9b
+RWQpLSJPEvsFgD4Qdad7t6O0+VERYbNHqXJgyjvKaJcE0BSgc2omthapUbcSiPrAir3RX4wWBhIoGUcn+LToLBIKmlJOjL7G3gY=
+SHA256 (Pkgfile) = 1043142edffd2caa08ba2e65986ca36fbb384c88787017ce78cc41c1cb928bab
+SHA256 (.footprint) = 457e82e359ccae66e30861affa11ccce9cacad30ef77e45a359b927b4384127a
+SHA256 (starlette-1.7.0.tar.gz) = c79f74ea63cff761804fbbfb182f1e0b440c2d07b164d24700c5a1bab5d6ff5d
