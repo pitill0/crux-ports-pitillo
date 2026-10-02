@@ -4,7 +4,7 @@
 # Depends on: python3-typing_extensions python3-platformdirs python3-rich
 
 name=python3-textual
-version=8.2.7
+version=8.2.8
 release=1
 source=(https://pypi.org/packages/source/t/textual/textual-$version.tar.gz)
 
