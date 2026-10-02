@@ -4,7 +4,7 @@
 # Depends on: hwloc json-c libevent libjwt ncurses openssl
 
 name=slurm
-version=26.05.2
+version=26.05.4
 release=1
 
 source=(
