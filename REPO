@@ -131,9 +131,7 @@ f:842af2f740395cedce024d455a01cf15:nvidia-container-toolkit/Pkgfile
 f:a73c76b58ce320bdc2c96e10e6bea7e6:wf-recorder/.footprint
 f:f5256b2ccd46c40e1126f2dc7219f062:wf-recorder/.signature
 f:34b18b0050cb2aa011115f6a9e2775f2:wf-recorder/Pkgfile
-f:9e821120de388566a2c57a7e27d38b77:flatpak-builder/.footprint
-f:8f04c083e228439259458de6fd015ab7:flatpak-builder/.signature
-f:ddc00e122e9c974e31352e8055aa340e:flatpak-builder/Pkgfile
+f:8a8b55237cdc5a5a989140ef93963f75:flatpak-builder/Pkgfile
 f:70433040e0db3a42aecc1e55c0045027:libvncserver/.footprint
 f:6a9dbc5cc657cfa6d07af461441a1f52:libvncserver/.signature
 f:ae2d6d4d0ae020800a96600233906097:libvncserver/Pkgfile
