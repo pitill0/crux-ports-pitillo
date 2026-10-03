@@ -193,9 +193,7 @@ f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
 f:79e11f2ae2f54cf0cdb377ab8c2822a1:ascii/.footprint
 f:3d50ecf4b4e96de0f15f80ae4f4dca84:ascii/.signature
 f:7068a9c0d7aa988b0edec6e674bc54dd:ascii/Pkgfile
-f:7c809ab0509bf391022a1ab1be319075:python3-fastapi/.footprint
-f:7d2949375f70c8c0c75d6afab46506c7:python3-fastapi/.signature
-f:d5d782e34c554254854c7a2ceef8ab0f:python3-fastapi/Pkgfile
+f:c0fa0ae53efb8f59779047cb8566ea4c:python3-fastapi/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
