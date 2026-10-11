@@ -4,7 +4,7 @@
 # Depends on:
 
 name=python3-jellyfish
-version=1.2.0
+version=1.2.1
 release=1
 source=(https://pypi.org/packages/source/j/jellyfish/jellyfish-$version.tar.gz)
 
