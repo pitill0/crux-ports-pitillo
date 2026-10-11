@@ -203,9 +203,7 @@ f:7c42965ecba8ee21439d15a14669a0bd:debugedit/remove-dwz.patch
 f:35388256ef8d6dc3b590c2bc80f28cca:debugedit/.footprint
 f:04dc23b60ccfc0b7cfce0fb55814df47:debugedit/.signature
 f:f4272337fdaa823d269b61350a3a97b3:debugedit/Pkgfile
-f:ad1b0606297bffb991cd8ba74800ebd8:python3-jellyfish/.footprint
-f:f3c4a48bc6118eeb8ffb26b9aebd6b17:python3-jellyfish/.signature
-f:e7748fc6c5973fa6bcf92714c2f7c8d4:python3-jellyfish/Pkgfile
+f:b112deec4bd63ed20c797b1084596e23:python3-jellyfish/Pkgfile
 f:11bf137f084ead58422fdd2571b821c4:lua++/liblua.so.patch
 f:ee5c2ff8d66c5007fffc75d0ee81af5a:lua++/.footprint
 f:e7ba6c2b695b0b84a5ea0cbff5fc9067:lua++/lua++.pc
