@@ -184,9 +184,7 @@ f:7b139c4cab5262ff79c0b347c8cc350b:dgop/Pkgfile
 f:532f241a856af76dcb5e87ed55ac8782:python3-mdit-py-plugins/.footprint
 f:794a093d33ae33fbccb7147bcfa09adb:python3-mdit-py-plugins/.signature
 f:8ec9e2ac8c9da4000846abb47dd84269:python3-mdit-py-plugins/Pkgfile
-f:d9c58b4d21f28a9c7f998838b4644869:cscope/.footprint
-f:23c1c36e2aa1332fb705950f8e49f56f:cscope/.signature
-f:1675473cf210fbbccf6ddf8e3a0aff04:cscope/Pkgfile
+f:751ac4f2bf08ddcfd65262225baad56f:cscope/Pkgfile
 f:0941a58f34fa8bc65ea8f018554b5851:python3-jsbeautifier/.footprint
 f:297357aca142f7f8244658ebafd94b25:python3-jsbeautifier/.signature
 f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
