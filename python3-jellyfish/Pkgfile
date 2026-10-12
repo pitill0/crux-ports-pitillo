@@ -1,10 +1,10 @@
 # Description: library for approximate & phonetic matching of strings 
 # URL: https://pypi.org/project/jellyfish
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on:
+# Depends on: python3-maturin
 
 name=python3-jellyfish
-version=1.2.0
+version=1.2.1
 release=1
 source=(https://pypi.org/packages/source/j/jellyfish/jellyfish-$version.tar.gz)
 

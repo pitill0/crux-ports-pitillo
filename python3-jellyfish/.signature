@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgO7OvLN9hp7IzqLUVHE2eKudW9iiiriocj79I1+cPwSETg0SuSXOgLR1/D3IWqH7anu4TgZELty36RzsiJk5IgA=
-SHA256 (Pkgfile) = 7cf40643cb9d23a6423650ab1aec0e5c51c591ee64938b880bfd74626660c09e
-SHA256 (.footprint) = fa00fa2be495c53a0bf43e97b599cbcfaa43ee2d6e8e8c1640f96e08e9f71598
-SHA256 (jellyfish-1.2.0.tar.gz) = 5c7d73db4045dcc53b6efbfea21f3d3da432d3e052dc51827574d1a447fc23b4
+RWQpLSJPEvsFgO4nrivqhEeEEHV/hnom4dzbVc349WBNNYbAx6RlBn1y8GMyH2rqRKSVJ4POrfhqwOFuFlyVvEX9fhgU5XXz0wM=
+SHA256 (Pkgfile) = 7832f06ac2961cbe0e1e3944b0836ecf6b2b20db4195faa04e66341eb4c73d62
+SHA256 (.footprint) = 123536e8a3ce4246c801a7743e3f5cb9dd440ab703c75a714dd2f361e2022545
+SHA256 (jellyfish-1.2.1.tar.gz) = 72d2fda61b23babe862018729be73c8b0dc12e3e6601f36f6e65d905e249f4db
