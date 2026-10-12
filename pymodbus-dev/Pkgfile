@@ -1,10 +1,10 @@
 # Description: full Modbus protocol implementation.
 # URL: https://github.com/pymodbus-dev/pymodbus/
 # Maintainer: Victor Martinez, pitillo at crux-arm dot nu
-# Depends on:
+# Depends on: python3-build
 
 name=pymodbus-dev
-version=3.16.0
+version=3.16.1
 release=1
 source=(https://github.com/$name/pymodbus/archive/v$version/$name-$version.tar.gz)
 
