@@ -1,5 +1,0 @@
-untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgHUFmBkWPM6gxeQ9cp6JZL5TSTFmcovayVlIUbahgUn0AN+GflLssLvRny39EsLBpIw4zaMtkg64WlFsEdCEgw8=
-SHA256 (Pkgfile) = 706114d6ad9f4fd891eb278e8f1ed127f01006ff349f87671d861ac8ce6e15de
-SHA256 (.footprint) = e1b338024be9ce3857f890457ad2aa050b34d36930b86db11713c78643597978
-SHA256 (pymodbus-dev-3.16.0.tar.gz) = ee6468291dadc386a0f2d107fb0a1d35c8a778510c5beaf6dedd779eab045125
