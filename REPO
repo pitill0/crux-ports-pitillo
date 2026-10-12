@@ -140,9 +140,9 @@ f:ae2d6d4d0ae020800a96600233906097:libvncserver/Pkgfile
 f:bbf4b24b0001ddc300ebe980b86764a4:leafpad/.footprint
 f:98102942f11224ba3840ed7b977cf8e6:leafpad/.signature
 f:b49f2d4139f6a6a19052ce3fa1b47c27:leafpad/Pkgfile
-f:1da52478c63ddc24c1c41a115de16d80:pymodbus-dev/.footprint
-f:8595fefa484985b3eda51228f74ee08e:pymodbus-dev/.signature
-f:afce1b1257b645e13b0dd285f2995692:pymodbus-dev/Pkgfile
+f:cf6a68add73ec8a5529d38917421ebbf:pymodbus-dev/.footprint
+f:0ff9cc4b7b40bf4e64bc84ed6aa60d17:pymodbus-dev/.signature
+f:707b5b24b8d1333b6ce719738448ff58:pymodbus-dev/Pkgfile
 f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
 f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
 f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
