@@ -18,3 +18,15 @@ prtdir /usr/ports/xorg
 # prtdir /usr/ports/contrib
 prtdir /usr/ports/pitillo
 ```
+
+## Automated maintenance
+
+This ports collection is maintained using **crux-portbot**, a private/local
+automation project used to assist with routine port maintenance.
+
+The maintenance workflow detects upstream releases, prepares candidate port
+updates, and validates them through CI builds in isolated CRUX environments
+before changes are accepted into this repository.
+
+This keeps routine maintenance automated while preserving validation and
+review as explicit parts of the update workflow.
