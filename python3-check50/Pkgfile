@@ -4,7 +4,7 @@
 # Depends on: python3-pexpect python3-lib50 python3-jellyfish python3-termcolor
 
 name=python3-check50
-version=3.4.0
+version=3.5.0
 release=1
 source=(https://github.com/cs50/check50/archive/v${version}/check50-v$version.tar.gz)
 
