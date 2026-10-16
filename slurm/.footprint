@@ -250,9 +250,6 @@ drwxr-xr-x	root/root	usr/lib/slurm/
 -rw-r--r--	root/root	usr/lib/slurm/serializer_url_encoded.a
 -rwxr-xr-x	root/root	usr/lib/slurm/serializer_url_encoded.la
 -rwxr-xr-x	root/root	usr/lib/slurm/serializer_url_encoded.so
--rw-r--r--	root/root	usr/lib/slurm/serializer_yaml.a
--rwxr-xr-x	root/root	usr/lib/slurm/serializer_yaml.la
--rwxr-xr-x	root/root	usr/lib/slurm/serializer_yaml.so
 -rw-r--r--	root/root	usr/lib/slurm/site_factor_example.a
 -rwxr-xr-x	root/root	usr/lib/slurm/site_factor_example.la
 -rwxr-xr-x	root/root	usr/lib/slurm/site_factor_example.so
@@ -302,10 +299,10 @@ drwxr-xr-x	root/root	usr/sbin/
 -rwxr-xr-x	root/root	usr/sbin/slurmstepd
 drwxr-xr-x	root/root	usr/share/
 drwxr-xr-x	root/root	usr/share/doc/
-drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.4/
-drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.4/html/
--rw-r--r--	root/root	usr/share/doc/slurm-26.05.4/html/configurator.easy.html
--rw-r--r--	root/root	usr/share/doc/slurm-26.05.4/html/configurator.html
+drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.5/
+drwxr-xr-x	root/root	usr/share/doc/slurm-26.05.5/html/
+-rw-r--r--	root/root	usr/share/doc/slurm-26.05.5/html/configurator.easy.html
+-rw-r--r--	root/root	usr/share/doc/slurm-26.05.5/html/configurator.html
 drwxr-xr-x	root/root	usr/share/man/
 drwxr-xr-x	root/root	usr/share/man/man1/
 -rw-r--r--	root/root	usr/share/man/man1/sacct.1.gz
