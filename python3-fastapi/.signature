@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgIB39ET6Kg5Rn3SWlxoEbAwXHI1uBgJ7hcUNzLiuiR/oXjdNvPzVMwOGI9gtj6LvItGKyXwK1H6ASghFVSHyRQw=
-SHA256 (Pkgfile) = d30921a632dfd55a4a64452f53d9d3969737271cba6b8ad22cb1cf9360f866b1
-SHA256 (.footprint) = 343f8a949ec5f8722b0e450ecf1e9e5965bf7a12ea6e7a78af94c07f9fe0803a
-SHA256 (fastapi-0.143.0.tar.gz) = 1acffe48206a80917cf7dac21992b5c44b25384e8902bf745c1fd9dabcf6c51f
+RWQpLSJPEvsFgN+JOXNw4PcgVu5MzV2b7p5Satvj6N3ZsY73v2FTLlJ+LKXkN5dKoXJ6DlcflkDs2RbdFv7WrPVKdVvRB4N5LwI=
+SHA256 (Pkgfile) = c29dc5c31d020c2df35af3008441951efc4ac0941480ed9a4645bcdeb663b462
+SHA256 (.footprint) = 02ab2d2dd6d77e7bf7a435f55bc5d3f4f4a417c937813b1976ec541386f95183
+SHA256 (fastapi-0.143.2.tar.gz) = e9e6d97018dcfd748da7d9e7c61cedefbe9eb91b1a3288e45b13fbae76df2d54
