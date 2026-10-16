@@ -143,9 +143,9 @@ f:b49f2d4139f6a6a19052ce3fa1b47c27:leafpad/Pkgfile
 f:cf6a68add73ec8a5529d38917421ebbf:pymodbus-dev/.footprint
 f:0ff9cc4b7b40bf4e64bc84ed6aa60d17:pymodbus-dev/.signature
 f:707b5b24b8d1333b6ce719738448ff58:pymodbus-dev/Pkgfile
-f:4d95f2a5ea2311ee6cbf65077b1a663a:python3-check50/.footprint
-f:104c809660ddcad2c35ea633dc0b9ab6:python3-check50/.signature
-f:d744369658e56b674d686d63453ff6b0:python3-check50/Pkgfile
+f:019ba8c3d4d787e69558ff3039ebed9a:python3-check50/.footprint
+f:43e0a8b869bed7ce7343ef6bb6bd4b43:python3-check50/.signature
+f:9643748605b090a03b37cabe8c52c5af:python3-check50/Pkgfile
 f:a840a61f4ea6c326906f19c72b631a04:python3-style50/.footprint
 f:41e19c6eb4d1f2d648fdd42dcee142ba:python3-style50/.signature
 f:58cc547c104520e2feaa77b8dd9b070d:python3-style50/Pkgfile
