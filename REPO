@@ -193,9 +193,9 @@ f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
 f:79e11f2ae2f54cf0cdb377ab8c2822a1:ascii/.footprint
 f:8424a129ea3a5d1b9833168cdd8b4e25:ascii/.signature
 f:6d4d7ecaf51dec20bf0d5bd8a5dd8e90:ascii/Pkgfile
-f:204b37ba889795d29270e09c9f5daaa3:python3-fastapi/.footprint
-f:dda335c56ac4c720000e2363225493eb:python3-fastapi/.signature
-f:8c050ad258b9449e1afd73101fb55020:python3-fastapi/Pkgfile
+f:d675467efa69feb687f36c6c4382e2ea:python3-fastapi/.footprint
+f:b2a86a03a3e1fbe9cd4289fbcb4ba236:python3-fastapi/.signature
+f:f8715c19af88154bb922c97f0c08a1b8:python3-fastapi/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
