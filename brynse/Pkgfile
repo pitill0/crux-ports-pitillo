@@ -1,0 +1,17 @@
+# Description: Boundary-driven continuous-stream segmentation engine
+# URL: https://github.com/pitill0/brynse
+# Maintainer: Victor Martinez, pitillo at crux-arm dot nu
+# Depends on: ffmpeg python3-numpy
+
+name=brynse
+version=0.1.0
+release=1
+source=(https://github.com/pitill0/$name/archive/v$version/$name-$version.tar.gz)
+
+build() {
+  cd $name-$version
+
+  /usr/bin/python3 -m build --wheel --skip-dependency-check --no-isolation
+  /usr/bin/python3 -m installer --compile-bytecode 2 \
+    --destdir=${PKG} dist/*.whl
+}
