@@ -23,6 +23,7 @@ d:libvncserver
 d:leafpad
 d:pymodbus-dev
 d:python3-check50
+d:brynse
 d:python3-style50
 d:libnvidia-container
 d:portmidi
@@ -146,6 +147,9 @@ f:707b5b24b8d1333b6ce719738448ff58:pymodbus-dev/Pkgfile
 f:019ba8c3d4d787e69558ff3039ebed9a:python3-check50/.footprint
 f:43e0a8b869bed7ce7343ef6bb6bd4b43:python3-check50/.signature
 f:9643748605b090a03b37cabe8c52c5af:python3-check50/Pkgfile
+f:49d4319cf2405c7d63cc3b7537f69b6a:brynse/.footprint
+f:e3d404a4f224fff32f51026daa995913:brynse/.signature
+f:8757896d18b42059c0fdce41ea2f850a:brynse/Pkgfile
 f:a840a61f4ea6c326906f19c72b631a04:python3-style50/.footprint
 f:41e19c6eb4d1f2d648fdd42dcee142ba:python3-style50/.signature
 f:58cc547c104520e2feaa77b8dd9b070d:python3-style50/Pkgfile
