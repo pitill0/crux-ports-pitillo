@@ -232,9 +232,9 @@ f:f3758ef9b6bd2671d2e0803fb5482be7:wavemon/.footprint
 f:91a15ac82ba753a2f83767e0f3140480:wavemon/.signature
 f:39fa83abe2b74049ff42112a7ab65c76:wavemon/Pkgfile
 f:ff9c328c903cf1e50b77bf807bfbb438:fluxtuner-gtk/.footprint
-f:a615ae538f2799fd6d4538df9d6f2e66:fluxtuner-gtk/.signature
+f:46614a36e63030b4a7fd4a5ed1f41cb5:fluxtuner-gtk/.signature
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
-f:e2f00c54bcc40fbb029613e23306df92:fluxtuner-gtk/Pkgfile
+f:933d121b8d204c9ffa46623eb28216fe:fluxtuner-gtk/Pkgfile
 f:f8eafdb13be31b2eaff54e2fa2ae5bf5:wrt54g-debrick-util/.footprint
 f:1ed3a70e016c7cc51c961f27e8ce0e7c:wrt54g-debrick-util/.signature
 f:e622a677eb09f9a9216a04e6156e4446:wrt54g-debrick-util/Pkgfile
@@ -244,9 +244,9 @@ f:ec91a167364837c3c50ef9ff508b0bce:p5-dbi/Pkgfile
 f:2c134051f9dac7a3b123d4e67b185fd7:libnl-cli/.footprint
 f:29c930882dfe65f2d5286a150c7720db:libnl-cli/.signature
 f:5859ff8d809f410cf9b925f67ce9ffc0:libnl-cli/Pkgfile
-f:5cd45673aca3e27dabe7d4e49a2259e9:fluxtuner/.footprint
-f:6072706ba156bce2c67973fa067e2e75:fluxtuner/.signature
-f:6cc2d097444bf8ed29a6301a4834535c:fluxtuner/Pkgfile
+f:79e47397ed1ba8f153a61e1b8c00556e:fluxtuner/.footprint
+f:e222352293b530a0ac85562af81242bf:fluxtuner/.signature
+f:c6e768c6d09de27cbfdae32856427b8e:fluxtuner/Pkgfile
 f:26a362a66282927e0baf5efc001565d8:pitillo.httpup
 f:d888dd05ab7cf6fe1e987e265a288e96:libjwt/.footprint
 f:df897c4d70d4674e50cc96596663b3d5:libjwt/.signature
@@ -287,8 +287,8 @@ f:a1cdaf31a32665bec63a91e462450fb6:mog/.footprint
 f:d537196cbc193ee96c6f33293b181f22:mog/.signature
 f:d7c69f7da85d4f3d3042eab8f5150b09:mog/Pkgfile
 f:9e1fb8120ae2c46bdda3d0835ebc6401:fluxtuner-web/.footprint
-f:42c2b05078beaabfa716befa843989d8:fluxtuner-web/.signature
-f:25c71875704887a7514ea43db548c6e2:fluxtuner-web/Pkgfile
+f:812628149382fbfcfcfb3375885dc3b6:fluxtuner-web/.signature
+f:befed5d1aa93114394a6e562cd5b08a5:fluxtuner-web/Pkgfile
 f:adffd17ae9c61ffbd6ba9395df559b2a:siege/.footprint
 f:3a2badf4abe03136f318c201240e5a63:siege/.signature
 f:efbb9a789212b79178e077f9c4674261:siege/Pkgfile
