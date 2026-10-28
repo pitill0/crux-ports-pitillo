@@ -135,9 +135,9 @@ f:8a8b55237cdc5a5a989140ef93963f75:flatpak-builder/Pkgfile
 f:bdf79c634ad86bc5c7ea2167a29799d8:supercollider/.footprint
 f:31b85a72c6a777417c15c06ec43787a8:supercollider/.signature
 f:a0a223d0a3535474fdeb1196eecd8c73:supercollider/Pkgfile
-f:49d4319cf2405c7d63cc3b7537f69b6a:brynse/.footprint
-f:e3d404a4f224fff32f51026daa995913:brynse/.signature
-f:8757896d18b42059c0fdce41ea2f850a:brynse/Pkgfile
+f:1695268415a43e3b7d9fbceda7184038:brynse/.footprint
+f:97bbb7bf268fa95dbfc6d5bbe4216921:brynse/.signature
+f:8914d450001e2897a0ea4b3e01809300:brynse/Pkgfile
 f:ff9c328c903cf1e50b77bf807bfbb438:fluxtuner-gtk/.footprint
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
 f:46614a36e63030b4a7fd4a5ed1f41cb5:fluxtuner-gtk/.signature
