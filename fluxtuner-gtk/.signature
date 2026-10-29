@@ -1,6 +1,6 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgImq3TPPqCbxtqhUQe01nMKY36VzxhB6GYwwhCLCuI/c0Ex9Y2bx5vh4vQMJHr18U6Em/kGMix03rwekWwJ5vQM=
-SHA256 (Pkgfile) = 0ff45c67ce4245e775d2b51af5360929f6507001a9c4bab968c43e879d94f41e
+RWQpLSJPEvsFgLgWakzI5fDjQVmg+djK5VYPoHmlIlzHz7ruGmFs5okfW3E9whXHSvpYcO1PNxLosjuj9ioPcfweANN03O/WmA4=
+SHA256 (Pkgfile) = 157ba2911f9cde8c8598618bd398bd7d8774e18d08746efa46854aa4dc611335
 SHA256 (.footprint) = 59ec3e2b558078942eb6c72017349caf8fcb4fc2af68f40d82378303ddd26c2f
 SHA256 (io.github.pitill0.Fluxtuner.desktop) = 8ba43345192ba6e473b787447bb5d19abb3b1c5243df2e75c97d0059bda34843
 SHA256 (io.github.pitill0.Fluxtuner.png) = f453dc43d285f8eab21ffdef3d317fc99ce475f78fb6d97285c58584b8a9cc1a

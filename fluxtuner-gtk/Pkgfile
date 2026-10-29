@@ -5,7 +5,7 @@
 # Optional: brynse
 
 name=fluxtuner-gtk
-version=1.3.0
+version=1.4.1
 release=1
 source=(
   https://raw.githubusercontent.com/pitill0/fluxtuner/v${version}/flatpak/io.github.pitill0.Fluxtuner.desktop
