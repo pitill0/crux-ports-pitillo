@@ -5,11 +5,13 @@
 
 name=wf-recorder
 version=0.6.0
-release=1
-source=(https://github.com/ammen99/$name/archive/v${version}/$name-v$version.tar.gz)
+release=2
+source=(https://github.com/ammen99/$name/archive/v${version}/$name-v$version.tar.gz
+        ffmpeg-9.patch)
 
 build() {
   cd $name-$version
+  patch -p1 -i $SRC/ffmpeg-9.patch
   meson _build --prefix=/usr \
     --buildtype=release 
   DESTDIR=$PKG ninja -C _build install
