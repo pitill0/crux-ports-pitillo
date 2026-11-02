@@ -147,6 +147,7 @@ f:4c414f93d182a7495fa38fbe1968a831:ascii/.signature
 f:49108199e576657d7f80b28c965e1a4f:ascii/Pkgfile
 f:a73c76b58ce320bdc2c96e10e6bea7e6:wf-recorder/.footprint
 f:ff3f8de56f17254ed0fd0a1c69b4ab7d:wf-recorder/.signature
+f:ee74f22ed3997e2fae206c515fe87ca0:wf-recorder/ffmpeg-9.patch
 f:dcfa9ae043db12cef2393a5fb45339b2:wf-recorder/Pkgfile
 f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
 f:aa3fdc54c30f3e48baaad66fb65b0974:dgop/.signature
