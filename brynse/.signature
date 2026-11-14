@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/pitillo.pub
-RWQpLSJPEvsFgCbVTyYxV06f9yHTSJXLqweuAACVQEzMqeBRKlvh8At03HwV0oCNJEX/M24qc2B7frZEjJt+4A93glIIn2heSwA=
-SHA256 (Pkgfile) = 51affb4414aad4ece49d12b8e39173cd5d17c289bcf957d0675ad3ff494d9bd8
-SHA256 (.footprint) = ccb2e340786ed2935c584fd6be82ee0b6106c99ca8dec8a5e1cc9f4b22b1a37b
-SHA256 (brynse-0.1.2.tar.gz) = cc4f56bb95b0df748fd4f014f0c6e97344bfeb2c989f048e84146f5716cf13dd
+RWQpLSJPEvsFgE4tG585i5k0B79djXUlbhgmU+aLXtoUfIH/9yCKhJne/pF34G7p04WTYQ9B/ZzQYeR9Eqpvx+u3sX9FKUGuQw8=
+SHA256 (Pkgfile) = f963dc5002a556635b2680d242e5911acfc2ccf570f330307f46df0d879e9289
+SHA256 (.footprint) = 46db83dd38dd715b518b5fe5771641a7fa53640f423833e66a3d5542ce095805
+SHA256 (brynse-0.1.3.tar.gz) = 838f77e57aae2ea478302e3b57b3439e23bd7337aa5e8c9e9ccffc6d83a6e4af
