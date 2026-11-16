@@ -212,9 +212,9 @@ f:9846c03d2e225f7e30417e02bf2172ec:pitillo.pub
 f:df897c4d70d4674e50cc96596663b3d5:libjwt/.signature
 f:ad3dbdeac3c2247929e60c2bdf072f67:libjwt/Pkgfile
 f:d888dd05ab7cf6fe1e987e265a288e96:libjwt/.footprint
-f:978630bfb29d7c8434bf70494d814097:python3-fastapi/.signature
-f:0ddb002f9bac2cc36a32a20e69722558:python3-fastapi/Pkgfile
-f:fed5a9095981c4621b4e494abf948815:python3-fastapi/.footprint
+f:a348ab739d6a63dad13db3ed4992b4ea:python3-fastapi/.signature
+f:4d8edffd15a9bbbfc7e3fe2700509c01:python3-fastapi/Pkgfile
+f:459c4d7337732da62c71233234889066:python3-fastapi/.footprint
 f:3957852de4baa40ec37b68b0d014c018:nikto/.signature
 f:ca9a4c02dfa62f171e835639bad6118e:nikto/Pkgfile
 f:2689ca669db1fa7dcf9aca0f9338ccb5:nikto/.footprint
