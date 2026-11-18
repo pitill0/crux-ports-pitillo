@@ -171,8 +171,8 @@ f:ea264a977ba2c083d3117e3839a1e9ef:python3-uvicorn/.footprint
 f:eb4b56ac24fbd3ba74e442f0d40d4704:python3-magic/.signature
 f:9efef03f9bc1df0fd2f1abc98117636d:python3-magic/Pkgfile
 f:5648ece5975929d67072209b906105f4:python3-magic/.footprint
-f:281e9c65c2cb291558718a874ce5057a:fluxtuner-gtk/.signature
-f:38e58a37ae71e6dd61e8c57d4a1b7668:fluxtuner-gtk/Pkgfile
+f:e5de2be46704ba88931d84a3a0f4a078:fluxtuner-gtk/.signature
+f:846b5976d50d28847bfcbdd950cbb899:fluxtuner-gtk/Pkgfile
 f:ff9c328c903cf1e50b77bf807bfbb438:fluxtuner-gtk/.footprint
 f:8add55cae7a21475a4ac6b0cff628633:fluxtuner-gtk/README
 f:ae2aab5ac2b78a031a873fc6714462f9:mame/mame.sh
@@ -259,9 +259,9 @@ f:8861a196761dc5e469e20ae2c91cb060:librewolf/librewolf.desktop
 f:16b0fb0e872725cc1cb04d43d8f6ea06:librewolf/.signature
 f:be4a307c1ab3b6431f25b638683c1567:librewolf/Pkgfile
 f:95dc5f8f3e553bb3bfe2bb544c228cdb:librewolf/.footprint
-f:3df23bbfa712317c0f785879b2079ff2:fluxtuner/.signature
-f:6364879846c21e62c8b7cc6c6e14162d:fluxtuner/Pkgfile
-f:d7d7fb2c3faff553b47d0dd0e731baad:fluxtuner/.footprint
+f:7d8ea86f6bc78b210728845f0854a365:fluxtuner/.signature
+f:000e5a36ae98462916e33fe4fd1bdaa7:fluxtuner/Pkgfile
+f:2bebe8bbcc5d857360f49ba56b9cd7e4:fluxtuner/.footprint
 f:00a1bc304a529fee0361164bc93dd934:dgop/.signature
 f:733275986828314789c84a1097b4fbfe:dgop/Pkgfile
 f:b7a8a6a32910cb4691a4b43b1252493d:dgop/.footprint
@@ -287,8 +287,8 @@ f:72953f38a997f3e75b9b73b41ef940bd:quilt/.footprint
 f:a67a595a330fffcdb0fda97b4ee958e7:genimage/.signature
 f:7d928fc5585bb32ba031011db95f0638:genimage/Pkgfile
 f:340bf01998d4b7b712dbdc5521ae73ba:genimage/.footprint
-f:26d94a406e0cf0628725ec62b0e819ba:fluxtuner-web/.signature
-f:01f97a709c9d2b9fad383ef4cafef94a:fluxtuner-web/Pkgfile
+f:7d50630243c6eb3254013ea1425192f3:fluxtuner-web/.signature
+f:4c9dfbd56e5a3d137178659022a0076a:fluxtuner-web/Pkgfile
 f:9e1fb8120ae2c46bdda3d0835ebc6401:fluxtuner-web/.footprint
 f:297357aca142f7f8244658ebafd94b25:python3-jsbeautifier/.signature
 f:bef5839b43f25c82d4d1601c15924b8d:python3-jsbeautifier/Pkgfile
